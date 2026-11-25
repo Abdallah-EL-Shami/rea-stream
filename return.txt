@@ -1,0 +1,2058 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 1: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.000000000
+0000  02 00 00 00 45 00 04 fb ac 4e 00 00 80 11 00 00   ....E....N......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 3f 57   .........V.V..?W
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 50   ...............P
+0050  3c 9c 3d 70 f6 a7 3d 30 cf b0 3d 40 9f b6 3d 60   <.=p..=0..=@..=`
+0060  4c b9 3d 70 ca b8 3d d0 1b b5 3d 50 51 ae 3d a0   L.=p..=...=PQ.=.
+0070  89 a4 3d b0 f0 97 3d 70 be 88 3d c0 6c 6e 3d 40   ..=...=p..=.ln=@
+0080  4b 47 3d 60 c3 1c 3d c0 1d df 3c 80 e6 80 3c 00   KG=`..=...<...<.
+0090  ef 81 3b 80 ff 00 bc 00 67 a0 bc 00 99 fd bc 20   ..;.....g...... 
+00a0  40 2b bd 80 cb 54 bd 20 b7 7a bd 90 2d 8e bd f0   @+...T. .z..-...
+00b0  90 9c bd 90 45 a8 bd 40 17 b1 bd b0 de b6 bd e0   ....E..@........
+00c0  81 b9 bd d0 f4 b8 bd 40 3a b5 bd 20 63 ae bd 80   .......@:.. c...
+00d0  8e a4 bd 50 e8 97 bd 10 a9 88 bd 80 28 6e bd 80   ...P........(n..
+00e0  ee 46 bd a0 4f 1c bd 40 0c de bc 00 5f 7f bc 00   .F..O..@...._...
+00f0  20 79 bb 80 e4 03 3c 80 ee a1 3c 40 2f ff 3c 60    y....<...<@/.<`
+0100  0f 2c 3d 80 9b 55 3d c0 84 7b 3d 90 91 8e 3d a0   .,=..U=..{=...=.
+0110  f0 9c 3d a0 9f a8 3d 50 6a b1 3d c0 29 b7 3d e0   ..=...=Pj.=.).=.
+0120  c3 b9 3d f0 2c b9 3d e0 67 b5 3d d0 85 ae 3d 00   ..=.,.=.g.=...=.
+0130  a6 a4 3d b0 f4 97 3d 80 aa 88 3d 40 16 6e 3d 60   ..=...=...=@.n=`
+0140  c8 46 3d 40 17 1c 3d 00 7b dd 3c 00 04 7e 3c 00   .F=@..=.{.<..~<.
+0150  fc 72 3b 80 91 05 bc 00 d1 a2 bc 00 0c 00 bd e0   .r;.............
+0160  83 2c bd 40 0d 56 bd c0 f0 7b bd 60 c3 8e bd f0   .,.@.V...{.`....
+0170  1c 9d bd 30 c5 a8 bd 40 88 b1 bd 00 3f b7 bd f0   ...0...@....?...
+0180  cf b9 bd 40 2f b9 bd 30 60 b5 bd 20 74 ae bd 60   ...@/..0`.. t..`
+0190  8a a4 bd 50 cf 97 bd 10 7c 88 bd 40 aa 6d bd c0   ...P....|..@.m..
+01a0  4e 46 bd 00 90 1b bd 00 52 dc bc 00 84 7b bc 00   NF......R....{..
+01b0  70 68 bb 00 48 08 3c 00 2e a4 3c 40 b7 00 3d 00   ph..H.<...<@..=.
+01c0  28 2d 3d a0 a6 56 3d 80 7c 7c 3d 30 01 8f 3d e0   (-=..V=.||=0..=.
+01d0  51 9d 3d a0 f0 a8 3d c0 a9 b1 3d a0 56 b7 3d c0   Q.=...=...=.V.=.
+01e0  dd b9 3d c0 33 b9 3d e0 5b b5 3d b0 67 ae 3d c0   ..=.3.=.[.=.g.=.
+01f0  76 a4 3d 90 b5 97 3d 20 5d 88 3d 80 62 6d 3d a0   v.=...= ].=.bm=.
+0200  ff 45 3d e0 3d 1b 3d c0 af db 3c 00 4f 7a 3c 00   .E=.=.=...<.Oz<.
+0210  fa 63 3b 00 4b 09 bc 40 a1 a4 bc c0 e9 00 bd 40   .c;.K..@.......@
+0220  53 2d bd a0 ca 56 bd 00 99 7c bd 70 0b 8f bd e0   S-...V...|.p....
+0230  57 9d bd 10 f2 a8 bd 40 a6 b1 bd e0 4d b7 bd 70   W......@....M..p
+0240  cf b9 bd 80 1f b9 bd 90 41 b5 bd 30 47 ae bd 00   ........A..0G...
+0250  50 a4 bd b0 88 97 bd 20 2a 88 bd 00 f1 6c bd 40   P...... *....l.@
+0260  83 45 bd 80 b7 1a bd 40 91 da bc 00 f4 77 bc 00   .E.....@.....w..
+0270  2a 5a bb 00 d1 0b 3c c0 e9 a5 3c e0 8e 01 3d 40   *Z....<...<...=@
+0280  f7 2d 3d 80 6b 57 3d c0 34 7d 3d d0 55 8f 3d b0   .-=.kW=.4}=.U.=.
+0290  9d 9d 3d 70 32 a9 3d 60 e0 b1 3d f0 80 b7 3d d0   ..=p2.=`..=...=.
+02a0  fa b9 3d b0 42 b9 3d 20 5c b5 3d d0 58 ae 3d 80   ..=.B.= \.=.X.=.
+02b0  58 a4 3d 20 88 97 3d b0 20 88 3d 00 cd 6c 3d 00   X.= ..=. .=..l=.
+02c0  4f 45 3d 40 74 1a 3d 00 f0 d9 3c 80 82 76 3c 00   OE=@t.=...<..v<.
+02d0  ca 53 3b 00 88 0d bc 40 d0 a6 bc 60 05 02 bd c0   .S;....@...`....
+02e0  6e 2e bd 80 e1 57 bd 00 a7 7d bd f0 8b 8f bd e0   n....W...}......
+02f0  cf 9d bd b0 5f a9 bd e0 07 b2 bd f0 a1 b7 bd b0   ...._...........
+0300  14 ba bd f0 54 b9 bd 50 66 b5 bd c0 5a ae bd 10   ....T..Pf...Z...
+0310  52 a4 bd 60 79 97 bd d0 09 88 bd a0 8f 6c bd 00   R..`y........l..
+0320  03 45 bd a0 1a 1a bd c0 23 d9 bc 00 bf 74 bc 00   .E......#....t..
+0330  28 4c bb 00 8e 0f 3c 00 de a7 3c a0 8f 02 3d 20   (L....<...<...= 
+0340  fa 2e 3d 20 6c 58 3d 80 2e 7e 3d 20 cd 8f 3d 70   ..= lX=..~= ..=p
+0350  0d 9e 3d b0 98 a9 3d 60 3b b2 3d 20 cf b7 3d e0   ..=...=`;.= ..=.
+0360  3a ba 3d 70 73 b9 3d b0 7c b5 3d b0 68 ae 3d 60   :.=ps.=.|.=.h.=`
+0370  57 a4 3d f0 75 97 3d c0 fd 87 3d c0 66 6c 3d 20   W.=.u.=...=.fl= 
+0380  ca 44 3d e0 d2 19 3d 80 79 d8 3c 00 3b 73 3c 00   .D=...=.y.<.;s<.
+0390  78 45 3b 00 5a 11 bc c0 cf a8 bc e0 0b 03 bd 80   xE;.Z...........
+03a0  77 2f bd 40 e8 58 bd 00 a7 7e bd 70 06 90 bd b0   w/.@.X...~.p....
+03b0  42 9e bd d0 c8 a9 bd 80 65 b2 bd 50 f2 b7 bd 60   B.......e..P...`
+03c0  56 ba bd c0 86 b9 bd 40 87 b5 bd 30 6a ae bd a0   V......@...0j...
+03d0  4f a4 bd f0 64 97 bd a0 e3 87 bd a0 20 6c bd e0   O...d....... l..
+03e0  72 44 bd a0 6b 19 bd 40 8d d7 bc 00 2d 71 bc 00   rD..k..@....-q..
+03f0  86 3c bb 00 bd 13 3c 00 10 aa 3c 60 b1 03 3d 00   .<....<...<`..=.
+0400  20 30 3d 20 91 59 3d e0 4d 7f 3d 90 57 90 3d 30    0= .Y=.M.=.W.=0
+0410  90 9e 3d 80 11 aa 3d 30 a8 b2 3d e0 2d b8 3d d0   ..=...=0..=.-.=.
+0420  89 ba 3d 20 b1 b9 3d e0 a7 b5 3d 70 80 ae 3d 20   ..= ..=...=p..= 
+0430  5b a4 3d 70 65 97 3d 10 d9 87 3d 00 f6 6b 3d 60   [.=pe.=...=..k=`
+0440  33 44 3d 80 18 19 3d c0 c2 d6 3c 00 57 6f 3c 00   3D=...=...<.Wo<.
+0450  4e 34 3b 80 f9 15 bc 40 40 ab bc 60 4f 04 bd 00   N4;....@@..`O...
+0460  c1 30 bd e0 31 5a bd 60 eb 7f bd 30 a3 90 bd 40   .0..1Z.`...0...@
+0470  d7 9e bd a0 52 aa bd 00 e2 b2 bd 60 5f b8 bd f0   ....R......`_...
+0480  b1 ba bd 20 cf b9 bd 00 bb b5 bd 30 88 ae bd 50   ... .......0...P
+0490  57 a4 bd e0 55 97 bd e0 bd 87 bd e0 a8 6b bd 80   W...U........k..
+04a0  d0 43 bd 00 a1 18 bd 00 ae d5 bc 80 e9 6c bc 00   .C...........l..
+04b0  a8 29 bb 80 d4 18 3c c0 c1 ac 3c 80 17 05 3d 80   .)....<...<...=.
+04c0  8d 31 3d 20 00 5b 3d 30 5c 80 3d 90 07 91 3d 20   .1= .[=0\.=...= 
+04d0  38 9f 3d 80 ae aa 3d b0 37 b3 3d 70 ad b8 3d 40   8.=...=.7.=p..=@
+04e0  f7 ba 3d 80 0a ba 3d a0 eb b5 3d 40 ad ae 3d 10   ..=...=...=@..=.
+04f0  70 a4 3d f0 61 97 3d f0 bc 87 3d 00 8d 6b 3d      p.=.a.=...=..k=
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.000199400    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 2: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.000199400
+0000  02 00 00 00 45 00 03 db ac 4f 00 00 80 11 00 00   ....E....O......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 77 d5   .........V.V..w.
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 00   ................
+0050  9b 43 3d c0 52 18 3d 40 e2 d4 3c 80 fa 6a 3c 00   .C=.R.=@..<..j<.
+0060  b2 20 3b 80 57 1b bc 40 20 ae bc 40 d2 05 bd a0   . ;.W..@ ..@....
+0070  50 32 bd 20 c8 5b bd 00 c1 80 bd 70 6b 91 bd 60   P2. .[.....pk..`
+0080  99 9f bd 70 0b ab bd a0 8e b3 bd 00 fd b8 bd 00   ...p............
+0090  3e bb bd 30 47 ba bd 40 1d b6 bd f0 d2 ae bd 30   >..0G..@.......0
+00a0  89 a4 bd 20 6e 97 bd 00 bc 87 bd 80 70 6b bd 40   ... n.......pk.@
+00b0  64 43 bd 80 02 18 bd c0 10 d4 bc 00 fb 68 bc 00   dC...........h..
+00c0  5c 17 bb 80 f9 1d 3c c0 92 af 3c 80 99 06 3d c0   \.....<...<...=.
+00d0  22 33 3d 00 a2 5c 3d 10 30 81 3d e0 da 91 3d 60   "3=..\=.0.=...=`
+00e0  07 a0 3d 50 76 ab 3d a0 f4 b3 3d 60 5c b9 3d 40   ..=Pv.=...=`\.=@
+00f0  95 bb 3d f0 94 ba 3d 20 60 b6 3d d0 09 af 3d 30   ..=...= `.=...=0
+0100  b3 a4 3d 50 8a 97 3d e0 c9 87 3d 00 6f 6b 3d 60   ..=P..=...=.ok=`
+0110  45 43 3d 80 c6 17 3d 80 60 d3 3c 80 2f 67 3c 00   EC=...=.`.<./g<.
+0120  a4 0e 3b 80 81 20 bc 00 fe b0 bc a0 5f 07 bd e0   ..;.. ......_...
+0130  f5 33 bd 60 7e 5d bd e0 a0 81 bd 60 4c 92 bd 80   .3.`~].....`L...
+0140  77 a0 bd 20 e3 ab bd 40 5c b4 bd 20 bd b9 bd 70   w.. ...@\.. ...p
+0150  ed bb bd 00 e3 ba bd c0 a2 b6 bd e0 3f af bd b0   ............?...
+0160  db a4 bd a0 a4 97 bd 80 d5 87 bd a0 68 6b bd 80   ............hk..
+0170  21 43 bd e0 85 17 bd 40 a8 d2 bc 00 58 65 bc 00   !C.....@....Xe..
+0180  c8 05 bb 00 0e 23 3c 80 69 b2 3c e0 24 08 3d 80   .....#<.i.<.$.=.
+0190  c7 34 3d e0 58 5e 3d b0 10 82 3d e0 bc 92 3d d0   .4=.X^=...=...=.
+01a0  e6 a0 3d 50 4f ac 3d 60 c3 b4 3d 60 1d ba 3d f0   ..=PO.=`..=`..=.
+01b0  44 bc 3d 30 30 bb 3d 30 e4 b6 3d 50 74 af 3d 10   D.=00.=0..=Pt.=.
+01c0  02 a5 3d 50 bc 97 3d 10 de 87 3d 20 5b 6b 3d a0   ..=P..=...= [k=.
+01d0  f5 42 3d 60 3c 17 3d 80 dc d1 3c 00 56 63 3c 00   .B=`<.=...<.Vc<.
+01e0  74 f8 3a 80 c8 25 bc 80 ec b3 bc 00 f6 08 bd a0   t.:..%..........
+01f0  a4 35 bd 60 3e 5f bd e0 85 82 bd 80 32 93 bd 00   .5.`>_......2...
+0200  5b a1 bd 20 c0 ac bd 00 2f b5 bd 00 82 ba bd 00   [.. ..../.......
+0210  a1 bc bd 30 82 bb bd c0 2a b7 bd 60 ae af bd c0   ...0....*..`....
+0220  2e a5 bd f0 da 97 bd 10 ee 87 bd 60 5d 6b bd 20   ...........`]k. 
+0230  da 42 bd a0 03 17 bd 40 32 d1 bc 00 95 61 bc 00   .B.....@2....a..
+0240  44 e7 ba 80 4b 28 3c 40 57 b5 3c 00 bd 09 3d 00   D...K(<@W.<...=.
+0250  7a 36 3d 60 1e 60 3d 40 f9 82 3d 50 a7 93 3d 40   z6=`.`=@..=P..=@
+0260  cf a1 3d 10 32 ad 3d d0 9c b5 3d f0 e9 ba 3d 90   ..=.2.=...=...=.
+0270  01 bd 3d f0 d9 bb 3d 70 78 b7 3d d0 f0 af 3d 00   ..=...=px.=...=.
+0280  65 a5 3d 40 04 98 3d f0 09 88 3d c0 79 6b 3d e0   e.=@..=...=.yk=.
+0290  da 42 3d c0 e8 16 3d 80 c6 d0 3c 00 56 60 3c 00   .B=...=...<.V`<.
+02a0  40 da 3a 00 45 2a bc c0 7b b6 bc c0 60 0a bd 60   @.:.E*..{...`..`
+02b0  2c 37 bd e0 dc 60 bd 20 5d 83 bd 50 0e 94 bd e0   ,7...`. ]..P....
+02c0  37 a2 bd a0 9a ad bd b0 03 b6 bd b0 4d bb bd c0   7...........M...
+02d0  60 bd bd 50 33 bc bd c0 ca b7 bd 10 3b b0 bd 30   `..P3.......;..0
+02e0  a6 a5 bd 70 3b 98 bd 80 36 88 bd 80 bc 6b bd c0   ...p;...6....k..
+02f0  06 43 bd c0 fd 16 bd 80 c3 d0 bc 00 f8 5f bc 00   .C..........._..
+0300  a4 d4 ba 00 4a 2b 3c c0 24 b7 3c c0 c6 0a 3d 00   ....J+<.$.<...=.
+0310  a2 37 3d 80 5f 61 3d 90 a3 83 3d 90 58 94 3d 80   .7=._a=...=.X.=.
+0320  84 a2 3d 50 e8 ad 3d 20 51 b6 3d 70 99 bb 3d 70   ..=P..= Q.=p..=p
+0330  a9 bd 3d a0 77 bc 3d 70 09 b8 3d 00 73 b0 3d 70   ..=.w.=p..=.s.=p
+0340  d6 a5 3d 50 63 98 3d 70 55 88 3d a0 e7 6b 3d a0   ..=Pc.=pU.=..k=.
+0350  1e 43 3d e0 01 17 3d c0 a3 d0 3c 00 6a 5f 3c 00   .C=...=...<.j_<.
+0360  d4 cd 3a 80 6c 2c bc c0 d7 b7 bc a0 2f 0b bd a0   ..:.l,....../...
+0370  18 38 bd 60 e2 61 bd 60 ea 83 bd d0 a3 94 bd 50   .8.`.a.`.......P
+0380  d3 a2 bd a0 39 ae bd d0 a3 b6 bd 80 ec bb bd c0   ....9...........
+0390  fb bd bd 20 c8 bc bd 20 57 b8 bd e0 bc b0 bd a0   ... ... W.......
+03a0  1b a6 bd f0 a2 98 bd 90 8e 88 bd 60 4b 6c bd 40   ...........`Kl.@
+03b0  72 43 bd 20 44 17 bd c0 03 d1 bc 00 dd 5f bc 00   rC. D........_..
+03c0  f8 ce ba 80 96 2c 3c c0 13 b8 3c e0 60 0b 3d 80   .....,<...<.`.=.
+03d0  5c 38 3d c0 37 62 3d 20 1d 84 3d c0 dd 94 3d      \8=.7b= ..=...=
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 0.010647500    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 7: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.010647500
+0000  02 00 00 00 45 00 04 fb ac 54 00 00 80 11 00 00   ....E....T......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 a5 59   .........V.V...Y
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 50   ...............P
+0050  13 a3 3d 90 7e ae 3d 70 ec b6 3d 60 37 bc 3d 90   ..=.~.=p..=`7.=.
+0060  47 be 3d 50 13 bd 3d 40 a0 b8 3d 70 02 b1 3d 30   G.=P..=@..=p..=0
+0070  5c a6 3d 00 dd 98 3d e0 c0 88 3d 00 9e 6c 3d e0   \.=...=...=..l=.
+0080  b0 43 3d 20 6d 17 3d c0 27 d1 3c 00 c6 5f 3c 00   .C= m.=.'.<.._<.
+0090  30 cb 3a 80 72 2d bc 00 b3 b8 bc 80 c8 0b bd 40   0.:.r-.........@
+00a0  db 38 bd 20 cc 62 bd 40 71 84 bd e0 3a 95 bd 50   .8. .b.@q...:..P
+00b0  78 a3 bd 20 ea ae bd 40 5d b7 bd 00 ac bc bd 60   x.. ...@]......`
+00c0  be be bd c0 8a bd bd a0 16 b9 bd 10 76 b1 bd 50   ............v..P
+00d0  cb a6 bd 00 46 99 bd 40 22 89 bd c0 4e 6d bd e0   ....F..@"...Nm..
+00e0  4c 44 bd 40 f2 17 bd 40 00 d2 bc 00 0d 61 bc 00   LD.@...@.....a..
+00f0  f4 d1 ba 80 0b 2d 3c 80 b8 b8 3c c0 e7 0b 3d 60   .....-<...<...=`
+0100  16 39 3d 60 22 63 3d 20 a9 84 3d a0 7e 95 3d d0   .9=`"c= ..=.~.=.
+0110  c6 a3 3d 20 42 af 3d 40 bd b7 3d 80 12 bd 3d 90   ..= B.=@..=...=.
+0120  29 bf 3d d0 f8 bd 3d b0 85 b9 3d 30 e4 b1 3d 90   ).=...=...=0..=.
+0130  36 a7 3d a0 ac 99 3d 60 82 89 3d a0 fe 6d 3d 60   6.=...=`..=..m=`
+0140  e9 44 3d 40 78 18 3d 80 da d2 3c 80 55 62 3c 00   .D=@x.=...<.Ub<.
+0150  a4 d8 3a 80 ac 2c bc 40 c6 b8 bc 60 0d 0c bd 60   ..:..,.@...`...`
+0160  5a 39 bd 00 84 63 bd 40 e8 84 bd 20 cb 95 bd c0   Z9...c.@... ....
+0170  1f a4 bd 30 a6 af bd 30 2b b8 bd a0 88 bd bd 60   ...0...0+......`
+0180  a6 bf bd a0 7a be bd 90 0a ba bd 60 6a b2 bd 40   ....z......`j..@
+0190  bc a7 bd d0 2f 9a bd 40 01 8a bd 20 f0 6e bd 20   ..../..@... .n. 
+01a0  cb 45 bd 20 47 19 bd 80 4c d4 bc 00 d7 64 bc 00   .E. G...L....d..
+01b0  54 e9 ba 00 0a 2b 3c 80 31 b8 3c 40 e2 0b 3d 00   T....+<.1.<@..=.
+01c0  4f 39 3d 60 98 63 3d 00 02 85 3d 00 f4 95 3d f0   O9=`.c=...=...=.
+01d0  56 a4 3d c0 ea af 3d d0 7b b8 3d d0 e3 bd 3d 70   V.=...=.{.=...=p
+01e0  0a c0 3d a0 e5 be 3d 90 7a ba 3d 30 dd b2 3d b0   ..=...=.z.=0..=.
+01f0  2f a8 3d 90 a1 9a 3d 10 6f 8a 3d 60 bf 6f 3d a0   /.=...=.o.=`.o=.
+0200  89 46 3d e0 f0 19 3d 00 6f d5 3c 00 ae 66 3c 00   .F=...=.o.<..f<.
+0210  40 f4 3a 80 2e 2a bc 00 08 b8 bc a0 f0 0b bd c0   @.:..*..........
+0220  80 39 bd 40 ed 63 bd 90 3d 85 bd 00 40 96 bd 40   .9.@.c..=...@..@
+0230  b2 a4 bd 10 54 b0 bd 80 f1 b8 bd 30 64 be bd 80   ....T......0d...
+0240  93 c0 bd 60 75 bf bd e0 0e bb bd d0 73 b3 bd 70   ...`u.......s..p
+0250  c6 a8 bd 40 36 9b bd 80 ff 8a bd 80 d3 70 bd 40   ...@6........p.@
+0260  8d 47 bd 60 e0 1a bd 40 1f d7 bc 00 a5 69 bc 00   .G.`...@.....i..
+0270  2e 04 bb 80 27 28 3c 00 46 b7 3c 80 b1 0b 3d 40   ....'(<.F.<...=@
+0280  64 39 3d 20 f3 63 3d 70 51 85 3d 20 64 96 3d d0   d9= .c=pQ.= d.=.
+0290  e5 a4 3d f0 95 b0 3d 80 40 b9 3d c0 be be 3d e0   ..=...=.@.=...=.
+02a0  f7 c0 3d b0 e1 bf 3d 20 81 bb 3d e0 e9 b3 3d 00   ..=...= ..=...=.
+02b0  3e a9 3d 10 ad 9b 3d 40 73 8b 3d a0 b0 71 3d a0   >.=...=@s.=..q=.
+02c0  5b 48 3d 00 9c 1b 3d 40 69 d8 3c 80 d0 6b 3c 00   [H=...=@i.<..k<.
+02d0  0a 0b 3b 80 ee 26 bc 80 ec b6 bc a0 a7 0b bd e0   ..;..&..........
+02e0  7d 39 bd 60 30 64 bd 90 81 85 bd 30 a5 96 bd f0   }9.`0d.....0....
+02f0  36 a5 bd 10 f6 b0 bd 10 ae b9 bd 30 38 bf bd 50   6..........08..P
+0300  7b c1 bd 20 6d c0 bd 40 12 bc bd 90 7e b4 bd 00   {.. m..@....~...
+0310  d4 a9 bd 30 42 9c bd 60 05 8c bd 60 ca 72 bd 00   ...0B..`...`.r..
+0320  67 49 bd 00 95 1c bd 80 2f da bc 80 f9 6e bc 00   gI....../....n..
+0330  f6 15 bb 00 ab 24 3c 40 09 b6 3c 40 56 0b 3d 60   .....$<@..<@V.=`
+0340  4d 39 3d 00 21 64 3d 30 8a 85 3d a0 bd 96 3d 80   M9=.!d=0..=...=.
+0350  5e a5 3d 80 2b b1 3d 30 f0 b9 3d 50 85 bf 3d d0   ^.=.+.=0..=P..=.
+0360  d1 c1 3d 10 cb c0 3d d0 75 bc 3d b0 e5 b4 3d 90   ..=...=.u.=...=.
+0370  3c aa 3d 10 aa 9c 3d 50 6a 8c 3d 40 8a 73 3d a0   <.=...=Pj.=@.s=.
+0380  18 4a 3d 80 34 1d 3d 00 43 db 3c 80 bd 70 3c 00   .J=.4.=.C.<..p<.
+0390  4e 1b 3b 00 cb 23 bc 40 d8 b5 bc 80 5e 0b bd 40   N.;..#.@....^..@
+03a0  77 39 bd 40 6c 64 bd 40 c0 85 bd 70 03 97 bd 20   w9.@ld.@...p... 
+03b0  b3 a5 bd d0 8d b1 bd c0 5e ba bd 90 fe bf bd e0   ........^.......
+03c0  53 c2 bd f0 53 c1 bd 30 03 bd bd 20 75 b5 bd b0   S...S..0... u...
+03d0  cb aa bd 70 36 9d bd 90 f1 8c bd 00 8a 74 bd 80   ...p6........t..
+03e0  05 4b bd c0 0a 1e bd 00 bc dc bc 00 3b 73 bc 00   .K..........;s..
+03f0  4e 23 bb 00 51 22 3c 40 60 b5 3c a0 45 0b 3d 60   N#..Q"<@`.<.E.=`
+0400  81 39 3d e0 98 64 3d 40 e7 85 3d 40 3a 97 3d a0   .9=..d=@..=@:.=.
+0410  f8 a5 3d a0 e0 b1 3d 20 bd ba 3d a0 66 c0 3d 70   ..=...= ..=.f.=p
+0420  c3 c2 3d c0 c8 c1 3d 10 7b bd 3d b0 ed b5 3d b0   ..=...=.{.=...=.
+0430  42 ab 3d 80 a9 9d 3d 90 5e 8d 3d c0 53 75 3d e0   B.=...=.^.=.Su=.
+0440  ba 4b 3d 20 a8 1e 3d 40 c0 dd 3c 00 cd 74 3c 00   .K= ..=@..<..t<.
+0450  96 27 3b 80 c4 21 bc 00 5f b5 bc a0 67 0b bd c0   .';..!.._...g...
+0460  c5 39 bd 80 fe 64 bd e0 29 86 bd b0 8b 97 bd 90   .9...d..).......
+0470  57 a6 bd 90 4b b2 bd 80 32 bb bd a0 e4 c0 bd 50   W...K...2......P
+0480  48 c3 bd 90 52 c2 bd b0 07 be bd 30 7b b6 bd d0   H...R......0{...
+0490  ce ab bd 50 32 9e bd f0 e1 8d bd e0 4b 76 bd e0   ...P2.......Kv..
+04a0  a0 4c bd e0 78 1f bd c0 31 df bc 80 46 77 bc 00   .L..x...1...Fw..
+04b0  ba 2f bb 80 30 20 3c c0 d0 b4 3c 80 3e 0b 3d 20   ./..0 <...<.>.= 
+04c0  ba 39 3d a0 0f 65 3d 10 40 86 3d 80 ae 97 3d e0   .9=..e=.@.=...=.
+04d0  85 a6 3d 20 84 b2 3d c0 73 bb 3d 00 2d c1 3d 00   ..= ..=.s.=.-.=.
+04e0  96 c3 3d d0 a3 c2 3d d0 5a be 3d 60 ce b6 3d 50   ..=...=.Z.=`..=P
+04f0  20 ac 3d 70 80 9e 3d 20 2b 8e 3d 60 d1 76 3d       .=p..= +.=`.v=
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 0.010811900    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 8: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.010811900
+0000  02 00 00 00 45 00 03 db ac 55 00 00 80 11 00 00   ....E....U......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 97 70   .........V.V...p
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 e0   ................
+0050  16 4d 3d 00 dd 1f 3d 00 d2 df 3c 00 31 78 3c 00   .M=...=...<.1x<.
+0060  fa 31 3b 80 fe 1f bc 80 e7 b4 bc 00 62 0b bd 20   .1;.........b.. 
+0070  f5 39 bd 60 61 65 bd c0 73 86 bd 40 ec 97 bd a0   .9.`ae..s..@....
+0080  cc a6 bd b0 d2 b2 bd f0 c8 bb bd 60 87 c1 bd 50   ...........`...P
+0090  f4 c3 bd 80 04 c3 bd 70 bc be bd 70 2f b7 bd 80   .......p...p/...
+00a0  7f ac bd 80 dc 9e bd e0 82 8e bd 40 76 77 bd 20   ...........@vw. 
+00b0  af 4d bd 40 67 20 bd 00 c8 e0 bc 80 db 79 bc 00   .M.@g .......y..
+00c0  90 37 bb 80 e0 1e 3c 40 7d b4 3c 40 3f 0b 3d 80   .7....<@}.<@?.=.
+00d0  e4 39 3d 80 62 65 3d b0 7c 86 3d 20 fd 97 3d e0   .9=.be=.|.= ..=.
+00e0  e4 a6 3d 90 f1 b2 3d 90 ed bb 3d f0 b0 c1 3d a0   ..=...=...=...=.
+00f0  21 c4 3d a0 34 c3 3d 20 ee be 3d a0 61 b7 3d 00   !.=.4.= ..=.a.=.
+0100  b1 ac 3d 00 0c 9f 3d 60 af 8e 3d e0 c6 77 3d a0   ..=...=`..=..w=.
+0110  f5 4d 3d c0 a1 20 3d c0 21 e1 3c 00 53 7a 3c 00   .M=.. =.!.<.Sz<.
+0120  70 38 3b 80 ea 1e bc c0 a3 b4 bc 40 63 0b bd 20   p8;........@c.. 
+0130  19 3a bd e0 a6 65 bd 50 a6 86 bd 90 2d 98 bd 70   .:...e.P....-..p
+0140  1b a7 bd 70 2d b3 bd f0 2d bc bd f0 f4 c1 bd 60   ...p-...-......`
+0150  68 c4 bd 20 7d c3 bd 70 37 bf bd b0 aa b7 bd f0   h.. }..p7.......
+0160  f8 ac bd 00 52 9f bd 90 f2 8e bd e0 45 78 bd c0   ....R.......Ex..
+0170  6b 4e bd a0 0d 21 bd 00 e3 e1 bc 00 a5 7b bc 00   kN...!.......{..
+0180  ea 3c bb 80 01 1e 3c 80 4a b4 3c 40 44 0b 3d a0   .<....<.J.<@D.=.
+0190  07 3a 3d c0 a2 65 3d d0 aa 86 3d 60 38 98 3d 40   .:=..e=...=`8.=@
+01a0  2c a7 3d f0 43 b3 3d a0 49 bc 3d 50 15 c2 3d f0   ,.=.C.=.I.=P..=.
+01b0  8c c4 3d 20 a5 c3 3d 30 62 bf 3d 90 d7 b7 3d 10   ..= ..=0b.=...=.
+01c0  27 ad 3d a0 80 9f 3d c0 20 8f 3d 00 a0 78 3d e0   '.=...=. .=..x=.
+01d0  c1 4e 3d 20 5e 21 3d c0 75 e2 3c 00 a8 7c 3c 00   .N= ^!=.u.<..|<.
+01e0  58 40 3b 00 52 1d bc c0 0a b4 bc 20 31 0b bd c0   X@;.R...... 1...
+01f0  01 3a bd 60 aa 65 bd 60 b5 86 bd 90 49 98 bd e0   .:.`.e.`....I...
+0200  43 a7 bd a0 61 b3 bd e0 6c bc bd a0 3d c2 bd a0   C...a...l...=...
+0210  b9 c4 bd 90 d5 c3 bd c0 95 bf bd 60 0d b8 bd 90   ...........`....
+0220  5e ad bd f0 b8 9f bd 60 59 8f bd 40 10 79 bd e0   ^......`Y..@.y..
+0230  2f 4f bd c0 c8 21 bd 80 41 e3 bc 00 28 7e bc 00   /O...!..A...(~..
+0240  e8 45 bb 00 0e 1c 3c 80 7a b3 3c a0 f2 0a 3d a0   .E....<.z.<...=.
+0250  cd 39 3d 40 81 65 3d 70 a6 86 3d 60 40 98 3d 90   .9=@.e=p..=`@.=.
+0260  40 a7 3d a0 63 b3 3d d0 72 bc 3d 80 47 c2 3d 70   @.=.c.=.r.=.G.=p
+0270  c8 c4 3d 10 e9 c3 3d 20 ad bf 3d 40 28 b8 3d 60   ..=...= ..=@(.=`
+0280  7c ad 3d 60 d8 9f 3d 90 77 8f 3d 80 49 79 3d a0   |.=`..=.w.=.Iy=.
+0290  68 4f 3d e0 ff 21 3d 00 a8 e3 3c 00 de 7e 3c 00   hO=..!=...<..~<.
+02a0  50 48 3b 80 93 1b bc 80 4e b3 bc 00 e6 0a bd 00   PH;.....N.......
+02b0  cb 39 bd c0 88 65 bd 10 af 86 bd d0 4d 98 bd d0   .9...e......M...
+02c0  52 a7 bd d0 79 b3 bd c0 8a bc bd 30 61 c2 bd 90   R...y......0a...
+02d0  e5 c4 bd 20 09 c4 bd 60 cf bf bd 50 4c b8 bd d0   ... ...`...PL...
+02e0  a1 ad bd 80 fe 9f bd 40 9d 8f bd 20 93 79 bd e0   .......@... .y..
+02f0  b0 4f bd 00 46 22 bd 40 2e e4 bc 80 dd 7f bc 00   .O..F".@........
+0300  0c 4c bb 00 b7 1a 3c c0 ea b2 3c a0 b9 0a 3d c0   .L....<...<...=.
+0310  a4 39 3d e0 68 65 3d 90 a2 86 3d e0 44 98 3d 70   .9=.he=...=.D.=p
+0320  4d a7 3d 40 78 b3 3d d0 8d bc 3d a0 68 c2 3d 50   M.=@x.=...=.h.=P
+0330  f0 c4 3d 00 17 c4 3d 50 e0 bf 3d 10 60 b8 3d f0   ..=...=P..=.`.=.
+0340  b7 ad 3d f0 16 a0 3d 60 b8 8f 3d 80 cd 79 3d 40   ..=...=`..=..y=@
+0350  ed 4f 3d 00 83 22 3d 40 a8 e4 3c 80 66 80 3c 00   .O=.."=@..<.f.<.
+0360  aa 4f 3b 80 dc 19 bc c0 85 b2 bc 60 8c 0a bd 60   .O;........`...`
+0370  7d 39 bd 20 48 65 bd e0 95 86 bd 00 3c 98 bd 70   }9. He......<..p
+0380  48 a7 bd a0 77 b3 bd b0 92 bc bd a0 72 c2 bd 40   H...w.......r..@
+0390  fe c4 bd a0 28 c4 bd a0 f5 bf bd 90 78 b8 bd 30   ....(.......x..0
+03a0  d3 ad bd 00 35 a0 bd d0 d9 8f bd 40 16 7a bd 40   ....5......@.z.@
+03b0  38 50 bd 40 cf 22 bd c0 41 e5 bc c0 ff 80 bc 00   8P.@."..A.......
+03c0  64 54 bb 00 b7 18 3c 80 f9 b1 3c 60 4a 0a 3d 60   dT....<...<`J.=`
+03d0  40 39 3d 20 11 65 3d e0 7d 86 3d 00 28 98 3d      @9= .e=.}.=.(.=
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 0.029828300    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 13: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.029828300
+0000  02 00 00 00 45 00 04 fb ac 5a 00 00 80 11 00 00   ....E....Z......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 a9 dd   .........V.V....
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 a0   ................
+0050  38 a7 3d d0 6c b3 3d 50 8e bc 3d b0 74 c2 3d 60   8.=.l.=P..=.t.=`
+0060  05 c5 3d f0 34 c4 3d 30 07 c0 3d 30 8f b8 3d a0   ..=.4.=0..=0..=.
+0070  ee ad 3d 20 55 a0 3d 20 ff 8f 3d e0 69 7a 3d 60   ..= U.= ..=.iz=`
+0080  92 50 3d 80 2e 23 3d 80 08 e6 3c c0 cb 81 3c 00   .P=..#=...<...<.
+0090  d8 5a 3b 80 1a 17 bc 00 2f b1 bc 60 e8 09 bd 20   .Z;...../..`... 
+00a0  e3 38 bd c0 b9 64 bd d0 55 86 bd 10 04 98 bd 50   .8...d..U......P
+00b0  19 a7 bd 80 52 b3 bd 50 79 bc bd 20 65 c2 bd 90   ....R..Py.. e...
+00c0  fb c4 bd d0 30 c4 bd c0 08 c0 bd 50 96 b8 bd 30   ....0......P...0
+00d0  fb ad bd d0 66 a0 bd b0 15 90 bd 00 a0 7a bd a0   ....f........z..
+00e0  d0 50 bd c0 73 23 bd 80 9f e6 bc c0 6c 82 bc 00   .P..s#......l...
+00f0  1e 60 bb 00 bf 15 3c 40 7e b0 3c 00 90 09 3d c0   .`....<@~.<...=.
+0100  8b 38 3d 20 65 64 3d 70 2d 86 3d 60 de 97 3d d0   .8= ed=p-.=`..=.
+0110  f6 a6 3d 90 33 b3 3d e0 5e bc 3d 20 51 c2 3d 60   ..=.3.=.^.= Q.=`
+0120  ee c4 3d 40 29 c4 3d a0 05 c0 3d 20 97 b8 3d 30   ..=@).=...= ..=0
+0130  00 ae 3d c0 70 a0 3d 70 25 90 3d 20 cd 7a 3d 00   ..=.p.=p%.= .z=.
+0140  0d 51 3d a0 c0 23 3d 40 5a e7 3c c0 47 83 3c 00   .Q=..#=@Z.<.G.<.
+0150  e2 67 3b 00 99 13 bc 00 56 af bc 00 f4 08 bd 40   .g;.....V......@
+0160  eb 37 bd 40 c3 63 bd 90 dd 85 bd 20 91 97 bd f0   .7.@.c..... ....
+0170  ad a6 bd c0 f0 b2 bd 10 23 bc bd 10 1c c2 bd f0   ........#.......
+0180  c0 c4 bd b0 05 c4 bd f0 ed bf bd 40 8c b8 bd f0   ...........@....
+0190  01 ae bd 30 7e a0 bd 20 3d 90 bd 80 0d 7b bd 60   ...0~.. =....{.`
+01a0  5a 51 bd 20 17 24 bd 40 13 e8 bc 40 06 84 bc 00   ZQ. .$.@...@....
+01b0  da 6d bb 00 23 12 3c 40 a2 ae 3c e0 9e 08 3d a0   .m..#.<@..<...=.
+01c0  9b 37 3d a0 79 63 3d d0 bb 85 3d 70 72 97 3d 30   .7=.yc=...=pr.=0
+01d0  92 a6 3d b0 d7 b2 3d 90 0c bc 3d d0 07 c2 3d a0   ..=...=...=...=.
+01e0  ae c4 3d 10 f5 c3 3d b0 de bf 3d 20 7e b8 3d c0   ..=...=...= ~.=.
+01f0  f4 ad 3d d0 71 a0 3d 70 31 90 3d 20 f7 7a 3d 20   ..=.q.=p1.= .z= 
+0200  45 51 3d 20 03 24 3d 80 ed e7 3c c0 e3 83 3c 00   EQ= .$=...<...<.
+0210  e2 6c 3b 80 58 12 bc c0 b7 ae bc c0 a6 08 bd 40   .l;.X..........@
+0220  a0 37 bd 80 7a 63 bd 30 ba 85 bd 90 6e 97 bd e0   .7..zc.0....n...
+0230  8b a6 bd 00 cf b2 bd 50 01 bc bd 20 fa c1 bd 90   .......P... ....
+0240  9e c4 bd d0 e2 c3 bd 80 ca bf bd 50 68 b8 bd a0   ...........Ph...
+0250  dd ad bd c0 59 a0 bd e0 18 90 bd 00 c6 7a bd a0   ....Y........z..
+0260  14 51 bd 60 d4 23 bd 00 95 e7 bc c0 91 83 bc 00   .Q.`.#..........
+0270  92 6a bb 80 d9 12 3c c0 ed ae 3c 20 bc 08 3d 80   .j....<...< ..=.
+0280  af 37 3d a0 83 63 3d b0 bb 85 3d 20 6d 97 3d b0   .7=..c=...= m.=.
+0290  87 a6 3d 50 c8 b2 3d 90 f8 bb 3d b0 ef c1 3d 00   ..=P..=...=...=.
+02a0  93 c4 3d a0 d6 c3 3d 50 be bf 3d b0 5c b8 3d 30   ..=...=P..=.\.=0
+02b0  d3 ad 3d 30 51 a0 3d d0 12 90 3d 00 c0 7a 3d 20   ..=0Q.=...=..z= 
+02c0  16 51 3d 40 de 23 3d c0 bb e7 3c 80 cd 83 3c 00   .Q=@.#=...<...<.
+02d0  24 6d 3b 00 06 12 bc c0 6b ae bc c0 6e 08 bd e0   $m;.....k...n...
+02e0  55 37 bd e0 1d 63 bd 10 83 85 bd 10 2f 97 bd b0   U7...c....../...
+02f0  44 a6 bd e0 80 b2 bd 70 ad bb bd a0 a1 c1 bd f0   D......p........
+0300  42 c4 bd a0 85 c3 bd 60 6d bf bd f0 0c b8 bd e0   B......`m.......
+0310  85 ad bd 60 07 a0 bd b0 cd 8f bd 40 41 7a bd 20   ...`.......@Az. 
+0320  a5 50 bd c0 7c 23 bd 80 1b e7 bc 40 52 83 bc 00   .P..|#.....@R...
+0330  88 6a bb 80 5a 12 3c c0 6b ae 3c 80 59 08 3d a0   .j..Z.<.k.<.Y.=.
+0340  2b 37 3d 40 df 62 3d 00 5a 85 3d f0 fc 96 3d 60   +7=@.b=.Z.=...=`
+0350  0a a6 3d 70 3f b2 3d f0 65 bb 3d 80 55 c1 3d 90   ..=p?.=.e.=.U.=.
+0360  f3 c3 3d 70 34 c3 3d e0 1b bf 3d d0 bc b7 3d 90   ..=p4.=...=...=.
+0370  38 ad 3d 70 be 9f 3d 90 8a 8f 3d 80 c9 79 3d 40   8.=p..=...=..y=@
+0380  3e 50 3d 40 29 23 3d c0 9e e6 3c 80 03 83 3c 00   >P=@)#=...<...<.
+0390  96 69 3b 80 31 12 bc 80 23 ae bc 20 1b 08 bd 40   .i;.1...#.. ...@
+03a0  d3 36 bd 60 6d 62 bd e0 14 85 bd 50 ac 96 bd 20   .6.`mb.....P... 
+03b0  af a5 bd c0 da b1 bd 30 f9 ba bd 10 e2 c0 bd 20   .......0....... 
+03c0  7b c3 bd d0 b8 c2 bd f0 9e be bd 70 40 b7 bd e0   {..........p@...
+03d0  be ac bd 60 49 9f bd 10 1c 8f bd 80 fd 78 bd e0   ...`I........x..
+03e0  86 4f bd e0 89 22 bd 40 96 e5 bc 40 36 82 bc 00   .O...".@...@6...
+03f0  28 65 bb 00 c8 12 3c 00 2a ae 3c c0 fb 07 3d 40   (e....<.*.<...=@
+0400  91 36 3d c0 09 62 3d f0 d2 84 3d 50 5b 96 3d 70   .6=..b=...=P[.=p
+0410  50 a5 3d e0 6f b1 3d f0 83 ba 3d a0 64 c0 3d b0   P.=.o.=...=.d.=.
+0420  f7 c2 3d c0 31 c2 3d d0 16 be 3d c0 b9 b6 3d 00   ..=.1.=...=...=.
+0430  3c ac 3d f0 cc 9e 3d 70 a8 8e 3d 40 2c 78 3d a0   <.=...=p..=@,x=.
+0440  cf 4e 3d 40 f0 21 3d 40 a4 e4 3c 00 8b 81 3c 00   .N=@.!=@..<...<.
+0450  20 62 3b 00 f0 12 bc 80 ef ad bc 40 b7 07 bd 20    b;........@... 
+0460  26 36 bd 60 79 61 bd 00 79 84 bd f0 f0 95 bd 20   &6.`ya..y...... 
+0470  d7 a4 bd 90 e9 b0 bd b0 f2 b9 bd b0 ca bf bd 70   ...............p
+0480  57 c2 bd c0 8d c1 bd b0 71 bd bd 30 16 b6 bd d0   W.......q..0....
+0490  9c ab bd b0 34 9e bd a0 19 8e bd 80 26 77 bd 20   ....4.......&w. 
+04a0  e6 4d bd e0 26 21 bd c0 58 e3 bc 40 8c 80 bc 00   .M..&!..X..@....
+04b0  b4 5c bb 80 a2 13 3c c0 f2 ad 3c e0 8d 07 3d 80   .\....<...<...=.
+04c0  d2 35 3d c0 fc 60 3d 60 27 84 3d 80 8d 95 3d d0   .5=..`=`'.=...=.
+04d0  63 a4 3d 60 68 b0 3d 10 66 b9 3d 40 35 bf 3d 10   c.=`h.=.f.=@5.=.
+04e0  bc c1 3d 50 ef c0 3d 30 d3 bc 3d 90 7a b5 3d 00   ..=P..=0..=.z.=.
+04f0  07 ab 3d 70 a7 9d 3d b0 97 8d 3d 20 3e 76 3d      ..=p..=...= >v=
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 0.029992200    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 14: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.029992200
+0000  02 00 00 00 45 00 03 db ac 5b 00 00 80 11 00 00   ....E....[......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 0f f2   .........V.V....
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 e0   ................
+0050  1d 4d 3d c0 82 20 3d 00 60 e2 3c 00 d1 7f 3c 00   .M=.. =.`.<...<.
+0060  64 5a 3b 00 7e 13 bc 40 83 ad bc 60 27 07 bd 40   dZ;.~..@...`'..@
+0070  3e 35 bd 40 3c 60 bd 50 b2 83 bd 10 05 95 bd e0   >5.@<`.P........
+0080  c9 a3 bd 30 bf af bd 10 b0 b8 bd 20 75 be bd a0   ...0....... u...
+0090  f4 c0 bd b0 23 c0 bd 70 06 bc bd 00 b0 b4 bd c0   ....#..p........
+00a0  41 aa bd b0 ea 9c bd 80 e6 8c bd a0 f8 74 bd a0   A............t..
+00b0  fa 4b bd e0 86 1f bd 40 bf e0 bc 80 4c 7d bc 00   .K.....@....L}..
+00c0  72 53 bb 80 69 14 3c 00 8e ad 3c 20 f7 06 3d e0   rS..i.<...< ..=.
+00d0  d8 34 3d c0 a3 5f 3d b0 4d 83 3d e0 89 94 3d 50   .4=.._=.M.=...=P
+00e0  3a a3 3d d0 1d af 3d e0 ff b7 3d 40 b9 bd 3d b0   :.=...=...=@..=.
+00f0  30 c0 3d 50 5b bf 3d 90 3d bb 3d 90 ea b3 3d 90   0.=P[.=.=.=...=.
+0100  83 a9 3d 80 37 9c 3d 00 42 8c 3d a0 d3 73 3d c0   ..=.7.=.B.=..s=.
+0110  ff 4a 3d 80 bb 1e 3d 80 90 df 3c 80 cd 7b 3c 00   .J=...=...<..{<.
+0120  1c 51 3b 80 0e 14 bc 00 e7 ac bc 20 67 06 bd e0   .Q;........ g...
+0130  0d 34 bd e0 9f 5e bd 00 b1 82 bd 90 d4 93 bd e0   .4...^..........
+0140  6e a2 bd 40 3f ae bd 70 11 b7 bd b0 be bc bd d0   n..@?..p........
+0150  2d bf bd 30 54 be bd 60 36 ba bd 60 e7 b2 bd a0   -..0T..`6..`....
+0160  88 a8 bd f0 48 9b bd 70 63 8b bd c0 3d 72 bd c0   ....H..pc...=r..
+0170  97 49 bd 00 87 1d bd 80 98 dd bc 80 cf 78 bc 00   .I...........x..
+0180  1a 49 bb 00 0a 15 3c c0 e0 ac 3c 60 22 06 3d c0   .I....<...<`".=.
+0190  88 33 3d 20 dd 5d 3d 90 32 82 3d 70 3b 93 3d e0   .3= .]=.2.=p;.=.
+01a0  bd a1 3d b0 79 ad 3d f0 3a b6 3d 40 db bb 3d b0   ..=.y.=.:.=@..=.
+01b0  41 be 3d e0 63 bd 3d 50 46 b9 3d 30 fc b1 3d b0   A.=.c.=PF.=0..=.
+01c0  a6 a7 3d 80 74 9a 3d b0 a0 8a 3d 40 e3 70 3d 20   ..=.t.=...=@.p= 
+01d0  6f 48 3d 60 96 1c 3d 00 32 dc 3c 00 08 77 3c 00   oH=`..=.2.<..w<.
+01e0  48 46 3b 00 a5 14 bc c0 1f ac bc 40 7b 05 bd 20   HF;........@{.. 
+01f0  9d 32 bd 00 b0 5c bd 90 7d 81 bd b0 6a 92 bd b0   .2...\..}...j...
+0200  d4 a0 bd c0 7b ac bd 60 2c b5 bd 60 c0 ba bd 30   ....{..`,..`...0
+0210  1f bd bd 80 3e bc bd d0 22 b8 bd 70 df b0 bd 80   ....>..."..p....
+0220  95 a6 bd 80 73 99 bd 30 b4 89 bd 80 3b 6f bd c0   ....s..0....;o..
+0230  ff 46 bd a0 65 1b bd 00 58 da bc 00 73 74 bc 00   .F..e...X...st..
+0240  9a 40 bb 00 e1 14 3c c0 a5 ab 3c 80 f3 04 3d 20   .@....<...<...= 
+0250  cd 31 3d c0 9b 5b 3d c0 d3 80 3d 60 a4 91 3d 90   .1=..[=...=`..=.
+0260  f5 9f 3d f0 87 ab 3d 60 28 b4 3d 10 b1 b9 3d 90   ..=...=`(.=...=.
+0270  09 bc 3d c0 27 bb 3d 50 10 b7 3d 50 d6 af 3d d0   ..=.'.=P..=P..=.
+0280  9a a5 3d 20 8c 98 3d 90 e4 88 3d c0 d3 6d 3d e0   ..= ..=...=..m=.
+0290  d6 45 3d c0 81 1a 3d 80 24 d9 3c 00 45 73 3c 00   .E=...=.$.<.Es<.
+02a0  ee 40 3b 00 84 13 bc 00 54 aa bc a0 fa 03 bd 40   .@;.....T......@
+02b0  87 30 bd 40 0d 5a bd 20 d6 7f bd c0 9d 90 bd 00   .0.@.Z. ........
+02c0  d5 9e bd f0 51 aa bd 00 e2 b2 bd b0 5f b8 bd c0   ....Q......._...
+02d0  b2 ba bd 40 d1 b9 bd e0 bf b5 bd 90 91 ae bd 40   ...@...........@
+02e0  67 a4 bd e0 6e 97 bd 80 e2 87 bd c0 0e 6c bd a0   g...n........l..
+02f0  58 44 bd e0 50 19 bd 00 67 d7 bc 80 20 71 bc 00   XD..P...g... q..
+0300  d6 3d bb 00 ea 12 3c 00 59 a9 3c a0 28 03 3d 00   .=....<.Y.<.(.=.
+0310  65 2f 3d 20 a0 58 3d 00 25 7e 3d 30 a7 8f 3d 00   e/= .X=.%~=0..=.
+0320  c5 9d 3d b0 2d a9 3d e0 ae b1 3d 50 23 b7 3d 00   ..=.-.=...=P#.=.
+0330  73 b9 3d f0 93 b8 3d d0 8a b4 3d 80 6a ad 3d 90   s.=...=...=.j.=.
+0340  53 a3 3d a0 73 96 3d 60 04 87 3d e0 94 6a 3d 20   S.=.s.=`..=..j= 
+0350  28 43 3d 40 6f 18 3d c0 4a d6 3c 80 40 70 3c 00   (C=@o.=.J.<.@p<.
+0360  d0 3f 3b 00 0d 11 bc 40 be a7 bc 20 08 02 bd c0   .?;....@... ....
+0370  f5 2d bd e0 e7 56 bd c0 2a 7c bd 20 8d 8e bd a0   .-...V..*|. ....
+0380  92 9c bd e0 e7 a7 bd 00 5b b0 bd e0 c6 b5 bd b0   ........[.......
+0390  13 b8 bd a0 37 b7 bd 30 37 b3 bd 20 25 ac bd e0   ....7..07.. %...
+03a0  21 a2 bd 90 5a 95 bd 90 08 86 bd c0 df 68 bd 80   !...Z........h..
+03b0  bc 41 bd 00 53 17 bd 80 b9 d4 bc 00 79 6e bc 00   .A..S.......yn..
+03c0  32 3e bb 00 15 10 3c 40 96 a6 3c 80 21 01 3d 20   2>....<@..<.!.= 
+03d0  c1 2c 3d 80 6b 55 3d 20 6e 7a 3d f0 92 8d 3d      .,=.kU= nz=...=
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 0.040850900    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 15: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.040850900
+0000  02 00 00 00 45 00 04 fb ac 5c 00 00 80 11 00 00   ....E....\......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 36 a5   .........V.V..6.
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 30   ...............0
+0050  81 9b 3d 50 c4 a6 3d b0 2a af 3d 80 8f b4 3d 00   ..=P..=.*.=...=.
+0060  db b6 3d 50 03 b6 3d f0 0c b2 3d 70 0a ab 3d c0   ..=P..=...=p..=.
+0070  1b a1 3d f0 6d 94 3d a0 39 85 3d 20 85 67 3d 40   ..=.m.=.9.= .g=@
+0080  ab 40 3d 60 90 16 3d 80 d8 d3 3c 00 09 6e 3c 00   .@=`..=...<..n<.
+0090  c4 41 3b 80 de 0d bc 40 d6 a4 bc 40 e5 ff bc 60   .A;....@...@...`
+00a0  48 2b bd 20 af 53 bd 40 75 78 bd 80 7c 8c bd 70   H+. .S.@ux..|..p
+00b0  55 9a bd 40 88 a5 bd b0 e3 ad bd 10 43 b3 bd c0   U..@........C...
+00c0  8e b5 bd e0 bc b4 bd e0 d1 b0 bd 10 e0 a9 bd 20   ............... 
+00d0  07 a0 bd c0 73 93 bd 20 5e 84 bd e0 12 66 bd 20   ....s.. ^....f. 
+00e0  84 3f bd 20 b9 15 bd 40 d1 d2 bc 80 51 6d bc 00   .?. ...@....Qm..
+00f0  4e 44 bb 80 e4 0b 3c 00 32 a3 3c 00 a1 fd 3c 20   ND....<.2.<...< 
+0100  db 29 3d 00 fd 51 3d e0 85 76 3d 80 6a 8b 3d f0   .)=..Q=..v=.j.=.
+0110  2d 99 3d 80 50 a4 3d 20 a1 ac 3d 80 fb b1 3d 10   -.=.P.= ..=...=.
+0120  48 b4 3d e0 7c b3 3d 40 9e af 3d 60 be a8 3d a0   H.=.|.=@..=`..=.
+0130  fc 9e 3d 30 85 92 3d e0 8f 83 3d 80 be 64 3d 40   ..=0..=...=..d=@
+0140  7e 3e 3d c0 06 15 3d 40 1a d2 3c 00 47 6d 3c 00   ~>=...=@..<.Gm<.
+0150  b8 49 3b 80 2a 09 bc 40 2a a1 bc 40 f7 fa bc c0   .I;.*..@*..@....
+0160  3a 28 bd 40 18 50 bd c0 64 74 bd 60 40 8a bd 50   :(.@.P..dt.`@..P
+0170  ef 97 bd b0 02 a3 bd d0 49 ab bd 60 a0 b0 bd 00   ........I..`....
+0180  ef b2 bd a0 2b b2 bd 90 5a ae bd 80 8d a7 bd c0   ....+...Z.......
+0190  e3 9d bd e0 88 91 bd 50 b4 82 bd 00 50 63 bd 60   .......P....Pc.`
+01a0  5e 3d bd 00 3a 14 bd 00 2e d1 bc 80 ce 6c bc 00   ^=..:........l..
+01b0  5e 4d bb 80 e3 06 3c c0 5d 9f 3c 80 89 f8 3c 00   ^M....<.].<...<.
+01c0  b9 26 3d 00 52 4e 3d 20 62 72 3d 60 25 89 3d 80   .&=.RN= br=`%.=.
+01d0  bf 96 3d 70 c3 a1 3d c0 00 aa 3d 40 53 af 3d 90   ..=p..=...=@S.=.
+01e0  a3 b1 3d d0 e7 b0 3d 10 24 ad 3d d0 69 a6 3d 00   ..=...=.$.=.i.=.
+01f0  d8 9c 3d e0 99 90 3d 30 e6 81 3d c0 fc 61 3d 00   ..=...=0..=..a=.
+0200  5a 3c 3d 60 89 13 3d 80 7a d0 3c 80 cb 6c 3c 00   Z<=`..=.z.<..l<.
+0210  e8 52 3b 80 20 04 bc c0 50 9d bc 40 d9 f5 bc a0   .R;. ...P..@....
+0220  14 25 bd 40 68 4c bd 00 3b 70 bd 80 f7 87 bd 60   .%.@hL..;p.....`
+0230  7c 95 bd 60 70 a0 bd 60 a3 a8 bd 60 f1 ad bd 40   |..`p..`...`...@
+0240  43 b0 bd e0 8e af bd 20 d8 ab bd 80 30 a5 bd 60   C...... ....0..`
+0250  b6 9b bd a0 94 8f bd 80 01 81 bd e0 7b 60 bd c0   ............{`..
+0260  27 3b bd 60 aa 12 bd c0 69 cf bc 80 0b 6c bc 00   ';.`....i....l..
+0270  76 55 bb 00 1e 02 3c 40 a5 9b 3c 00 8b f3 3c 60   vU....<@..<...<`
+0280  a1 23 3d 40 af 4a 3d c0 43 6e 3d 10 e1 86 3d e0   .#=@.J=.Cn=...=.
+0290  4f 94 3d 00 33 9f 3d 80 5a a7 3d c0 a2 ac 3d 70   O.=.3.=.Z.=...=p
+02a0  f4 ae 3d a0 45 ae 3d 30 9a aa 3d 20 03 a4 3d c0   ..=.E.=0..= ..=.
+02b0  9e 9a 3d 80 97 8e 3d 40 23 80 3d 00 05 5f 3d e0   ..=...=@#.=.._=.
+02c0  fc 39 3d c0 d0 11 3d 40 60 ce 3c 80 55 6b 3c 00   .9=...=@`.<.Uk<.
+02d0  18 58 3b 80 19 00 bc 40 f9 99 bc c0 3c f1 bc e0   .X;....@....<...
+02e0  2d 22 bd e0 f5 48 bd 20 4c 6c bd 80 ca 85 bd 80   -"...H. Ll......
+02f0  23 93 bd f0 f5 9d bd 30 12 a6 bd a0 54 ab bd 20   #......0....T.. 
+0300  a6 ad bd b0 fc ac bd 00 5c a9 bd 10 d5 a2 bd b0   ........\.......
+0310  85 99 bd 00 98 8d bd a0 82 7e bd e0 82 5d bd 20   .........~...]. 
+0320  c2 38 bd c0 e1 10 bd 40 20 cd bc 00 19 6a bc 00   .8.....@ ....j..
+0330  40 58 bb 00 98 fd 3b 80 b5 98 3c c0 62 ef 3c c0   @X....;...<.b.<.
+0340  fa 20 3d 60 82 47 3d e0 9e 6a 3d d0 da 84 3d c0   . =`.G=..j=...=.
+0350  1e 92 3d a0 e0 9c 3d f0 f0 a4 3d 70 2c aa 3d 20   ..=...=...=p,.= 
+0360  7c ac 3d e0 d5 ab 3d 40 3d a8 3d 10 c3 a1 3d 00   |.=...=@=.=...=.
+0370  85 98 3d c0 ac 8c 3d c0 de 7c 3d a0 18 5c 3d a0   ..=...=..|=..\=.
+0380  97 37 3d a0 fb 0f 3d 40 e4 cb 3c 00 ca 68 3c 00   .7=...=@..<..h<.
+0390  bc 57 3b 00 80 fb bb 80 9b 97 bc c0 b9 ed bc 40   .W;............@
+03a0  e2 1f bd a0 2a 46 bd 00 0e 69 bd 30 f9 83 bd e0   ....*F...i.0....
+03b0  27 91 bd d0 d8 9b bd c0 dc a3 bd a0 10 a9 bd 80   '...............
+03c0  5d ab bd 60 b9 aa bd c0 27 a7 bd 60 b9 a0 bd 90   ]..`....'..`....
+03d0  8b 97 bd d0 c7 8b bd 80 45 7b bd a0 b6 5a bd c0   ........E{...Z..
+03e0  72 36 bd 00 19 0f bd 00 ab ca bc 00 7b 67 bc 00   r6..........{g..
+03f0  24 57 bb 00 78 f9 3b 80 86 96 3c 00 17 ec 3c 60   $W..x.;...<...<`
+0400  cd 1e 3d 20 d7 44 3d 40 81 67 3d b0 19 83 3d f0   ..= .D=@.g=...=.
+0410  32 90 3d 80 d2 9a 3d 70 c9 a2 3d f0 f4 a7 3d 10   2.=...=p..=...=.
+0420  3e aa 3d f0 9a a9 3d 20 0f a6 3d 20 ab 9f 3d 30   >.=...= ..= ..=0
+0430  8c 96 3d 80 db 8a 3d 00 9b 79 3d 60 41 59 3d 00   ..=...=..y=`AY=.
+0440  39 35 3d e0 1f 0e 3d 00 42 c9 3c 00 c7 65 3c 00   95=...=.B.<..e<.
+0450  ea 54 3b 00 45 f8 bb 40 a7 95 bc 00 a9 ea bc 40   .T;.E..@.......@
+0460  d2 1d bd 20 9c 43 bd e0 0b 66 bd 10 45 82 bd 00   ... .C...f..E...
+0470  48 8f bd 50 d5 99 bd 70 be a1 bd a0 e0 a6 bd 40   H..P...p.......@
+0480  25 a9 bd 70 82 a8 bd c0 fb a4 bd b0 a1 9e bd 40   %..p...........@
+0490  91 95 bd 60 f3 89 bd 60 f8 77 bd 40 d3 57 bd a0   ...`...`.w.@.W..
+04a0  05 34 bd 40 2c 0d bd 80 e2 c7 bc 80 23 64 bc 00   .4.@,.......#d..
+04b0  e2 52 bb 00 01 f7 3b 80 c5 94 3c 00 3a e9 3c 00   .R....;...<.:.<.
+04c0  d7 1c 3d 00 61 42 3d e0 95 64 3d 80 6f 81 3d 50   ..=.aB=..d=.o.=P
+04d0  5b 8e 3d 60 d5 98 3d 50 af a0 3d d0 c6 a5 3d 50   [.=`..=P..=...=P
+04e0  05 a8 3d 40 61 a7 3d 10 de a3 3d 30 8c 9d 3d 90   ..=@a.=...=0..=.
+04f0  88 94 3d d0 fb 88 3d 40 33 76 3d c0 3f 56 3d      ..=...=@3v=.?V=
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 0.041020300    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 16: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.041020300
+0000  02 00 00 00 45 00 03 db ac 5d 00 00 80 11 00 00   ....E....]......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 92 ad   .........V.V....
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 e0   ................
+0050  a9 32 3d c0 0d 0c 3d 00 29 c6 3c 80 c4 61 3c 00   .2=...=.).<..a<.
+0060  da 4d 3b 00 44 f7 bb 00 47 94 bc 00 2f e8 bc 40   .M;.D...G.../..@
+0070  0e 1c bd e0 58 41 bd 80 53 63 bd 30 b4 80 bd 60   ....XA..Sc.0...`
+0080  89 8d bd 80 f0 97 bd c0 bb 9f bd d0 c8 a4 bd 90   ................
+0090  01 a7 bd 30 5c a6 bd 40 dc a2 bd 20 92 9c bd 80   ...0\..@... ....
+00a0  9a 93 bd e0 1d 88 bd 40 9f 74 bd a0 da 54 bd e0   .......@.t...T..
+00b0  79 31 bd 20 18 0b bd 00 bb c4 bc 00 f0 5f bc 00   y1. ........._..
+00c0  c6 4a bb 00 a6 f6 3b c0 95 93 3c 00 f7 e6 3c 40   .J....;...<...<@
+00d0  31 1b 3d a0 3e 40 3d c0 00 62 3d e0 e2 7f 3d 70   1.=.>@=..b=...=p
+00e0  b0 8c 3d 20 05 97 3d e0 c1 9e 3d a0 c4 a3 3d 40   ..= ..=...=...=@
+00f0  f7 a5 3d 50 50 a5 3d 30 d3 a1 3d 40 90 9b 3d 20   ..=PP.=0..=@..= 
+0100  a4 92 3d 00 37 87 3d 20 f8 72 3d c0 60 53 3d 40   ..=.7.= .r=.`S=@
+0110  33 30 3d c0 09 0a 3d 80 16 c3 3c 00 a3 5d 3c 00   30=...=...<..]<.
+0120  9e 45 3b 00 31 f7 bb 80 37 93 bc 40 1b e6 bc 80   .E;.1...7..@....
+0130  87 1a bd c0 5c 3f bd a0 eb 60 bd 20 a0 7e bd 90   ....\?...`. .~..
+0140  fb 8b bd 40 40 96 bd d0 f0 9d bd 70 eb a2 bd 10   ...@@......p....
+0150  1a a5 bd 20 73 a4 bd 30 fa a0 bd 60 bf 9a bd 10   ... s..0...`....
+0160  df 91 bd 50 81 86 bd e0 b1 71 bd 60 45 52 bd c0   ...P.....q.`ER..
+0170  47 2f bd 60 52 09 bd 80 16 c2 bc 00 8a 5c bc 00   G/.`R........\..
+0180  ec 44 bb 00 af f5 3b 00 61 92 3c 40 d2 e4 3c 20   .D....;.a.<@..< 
+0190  ac 19 3d 20 4e 3e 3d e0 ad 5f 3d a0 38 7d 3d c0   ..= N>=.._=.8}=.
+01a0  35 8b 3d b0 6b 95 3d f0 10 9d 3d f0 03 a2 3d b0   5.=.k.=...=...=.
+01b0  2e a4 3d d0 87 a3 3d c0 12 a0 3d 70 df 99 3d 40   ..=...=...=p..=@
+01c0  0a 91 3d f0 ba 85 3d 20 48 70 3d 00 04 51 3d 80   ..=...= Hp=..Q=.
+01d0  33 2e 3d 00 6f 08 3d 80 b7 c0 3c 80 a3 5a 3c 00   3.=.o.=...<..Z<.
+01e0  c0 40 3b 00 0d f6 bb 40 0c 92 bc c0 14 e4 bc c0   .@;....@........
+01f0  1b 19 bd a0 8f 3d bd a0 c5 5e bd 60 2b 7c bd 80   .....=...^.`+|..
+0200  9f 8a bd c0 c8 94 bd 80 64 9c bd 40 51 a1 bd 30   ........d..@Q..0
+0210  79 a3 bd d0 d2 a2 bd 80 61 9f bd 30 35 99 bd 00   y.......a..05...
+0220  6a 90 bd 80 27 85 bd 00 40 6f bd 20 1f 50 bd a0   j...'...@o. .P..
+0230  75 2d bd 60 db 07 bd 80 e9 bf bc 00 c0 59 bc 00   u-.`.........Y..
+0240  24 40 bb 00 e1 f4 3b 80 64 91 3c c0 12 e3 3c e0   $@....;.d.<...<.
+0250  6f 18 3d c0 bb 3c 3d 40 cd 5d 3d 80 12 7b 3d 10   o.=..<=@.]=..{=.
+0260  05 8a 3d d0 22 94 3d c0 b5 9b 3d 70 9c a0 3d 30   ..=.".=...=p..=0
+0270  c1 a2 3d 90 1a a2 3d f0 ab 9e 3d 20 85 98 3d 20   ..=...=...= ..= 
+0280  c2 8f 3d 70 8a 84 3d 20 20 6e 3d c0 1d 4f 3d 80   ..=p..=  n=..O=.
+0290  96 2c 3d 80 21 07 3d 80 c4 be 3c 00 1b 58 3c 00   .,=.!.=...<..X<.
+02a0  2e 3c 3b 00 8c f5 bb c0 3c 91 bc 40 9b e2 bc 60   .<;.....<..@...`
+02b0  0e 18 bd 20 37 3c bd 00 29 5d bd 80 52 7a bd 70   ... 7<..)]..Rz.p
+02c0  99 89 bd d0 ad 93 bd e0 39 9b bd 60 1c a0 bd 70   ........9..`...p
+02d0  3f a2 bd c0 99 a1 bd 80 2e 9e bd 90 0d 98 bd b0   ?...............
+02e0  52 8f bd 30 25 84 bd c0 6d 6d bd c0 86 4e bd 80   R..0%...mm...N..
+02f0  1d 2c bd 60 c8 06 bd c0 55 be bc 80 c6 57 bc 00   .,.`....U....W..
+0300  08 3d bb 00 0d f4 3b 00 9a 90 3c 80 b8 e1 3c 00   .=....;...<...<.
+0310  7f 17 3d 60 8c 3b 3d c0 65 5c 3d 20 7a 79 3d 80   ..=`.;=.e\= zy=.
+0320  24 89 3d 20 32 93 3d 80 b9 9a 3d 40 99 9f 3d e0   $.= 2.=...=@..=.
+0330  bb a1 3d c0 17 a1 3d 30 b0 9d 3d e0 94 97 3d 70   ..=...=0..=...=p
+0340  e1 8e 3d 00 bd 83 3d 80 b2 6c 3d 20 e3 4d 3d 80   ..=...=..l= .M=.
+0350  93 2b 3d a0 59 06 3d c0 b0 bd 3c 00 f0 56 3c 00   .+=.Y.=...<..V<.
+0360  7c 3b 3b 00 f1 f3 bb 80 5c 90 bc c0 47 e1 bc 20   |;;.....\...G.. 
+0370  2f 17 bd 20 27 3b bd 00 ee 5b bd 00 f3 78 bd d0   /.. ';...[...x..
+0380  da 88 bd 20 e4 92 bd e0 68 9a bd e0 47 9f bd 70   ... ....h...G..p
+0390  6b a1 bd f0 c9 a0 bd b0 66 9d bd 20 51 97 bd d0   k.......f.. Q...
+03a0  a4 8e bd c0 88 83 bd c0 5c 6c bd c0 a1 4d bd a0   ........\l...M..
+03b0  67 2b bd 20 44 06 bd c0 b2 bd bc 80 4e 57 bc 00   g+. D.......NW..
+03c0  58 3e bb 00 d8 f1 3b 40 ae 8f 3c 40 74 e0 3c 80   X>....;@..<@t.<.
+03d0  b4 16 3d e0 9d 3a 3d 60 58 5b 3d 60 53 78 3d      ..=..:=`X[=`Sx=
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 0.049906800    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 21: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.049906800
+0000  02 00 00 00 45 00 04 fb ac 62 00 00 80 11 00 00   ....E....b......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 47 4f   .........V.V..GO
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 50   ...............P
+0050  87 88 3d 40 8e 92 3d 00 12 9a 3d 60 f1 9e 3d 90   ..=@..=...=`..=.
+0060  16 a1 3d 10 78 a0 3d e0 18 9d 3d 90 08 97 3d 90   ..=.x.=...=...=.
+0070  62 8e 3d a0 4d 83 3d 60 f6 6b 3d 60 4c 4d 3d 40   b.=.M.=`.k=`LM=@
+0080  24 2b 3d 60 13 06 3d c0 76 bd 3c 00 21 57 3c 00   $+=`..=.v.<.!W<.
+0090  c2 3e 3b 00 1a f1 bb 40 5e 8f bc 40 06 e0 bc e0   .>;....@^..@....
+00a0  70 16 bd a0 50 3a bd 00 04 5b bd 60 f9 77 bd 10   p...P:...[.`.w..
+00b0  58 88 bd 40 5d 92 bd c0 df 99 bd 80 be 9e bd 10   X..@]...........
+00c0  e4 a0 bd f0 46 a0 bd 70 ea 9c bd 00 de 96 bd 30   ....F..p.......0
+00d0  3d 8e bd a0 2e 83 bd 60 c7 6b bd 20 2e 4d bd 20   =......`.k. .M. 
+00e0  18 2b bd 60 1a 06 bd c0 ab bd bc 00 d8 57 bc 00   .+.`.........W..
+00f0  c8 42 bb 00 8b ee 3b 40 9b 8e 3c 00 29 df 3c e0   .B....;@..<.).<.
+0100  f6 15 3d c0 cc 39 3d c0 78 5a 3d a0 6a 77 3d 00   ..=..9=.xZ=.jw=.
+0110  11 88 3d c0 18 92 3d 00 a0 99 3d 50 85 9e 3d d0   ..=...=...=P..=.
+0120  b2 a0 3d b0 1e a0 3d b0 cb 9c 3d 00 c9 96 3d 90   ..=...=...=...=.
+0130  31 8e 3d f0 2b 83 3d e0 d1 6b 3d a0 46 4d 3d 00   1.=.+.=..k=.FM=.
+0140  3c 2b 3d c0 46 06 3d 00 10 be 3c 80 ab 58 3c 00   <+=.F.=...<..X<.
+0150  10 46 3b 00 01 ed bb c0 44 8e bc c0 e3 de bc 20   .F;.....D...... 
+0160  df 15 bd e0 c1 39 bd 40 7c 5a bd a0 7d 77 bd b0   .....9.@|Z..}w..
+0170  22 88 bd c0 32 92 bd 30 c2 99 bd 80 af 9e bd 70   "...2..0.......p
+0180  e4 a0 bd 10 57 a0 bd e0 09 9d bd 00 0c 97 bd 40   ....W..........@
+0190  78 8e bd f0 74 83 bd e0 65 6c bd c0 d9 4d bd 60   x...t...el...M.`
+01a0  cb 2b bd a0 cf 06 bd 40 0f bf bc 00 7a 5a bc 00   .+.....@....zZ..
+01b0  66 4c bb 00 59 ea 3b 40 bf 8d 3c 80 85 de 3c e0   fL..Y.;@..<...<.
+01c0  c4 15 3d 60 bd 39 3d e0 8d 5a 3d 80 a5 77 3d a0   ..=`.9=..Z=..w=.
+01d0  41 88 3d 40 5c 92 3d c0 f5 99 3d 50 ec 9e 3d b0   A.=@\.=...=P..=.
+01e0  29 a1 3d b0 a3 a0 3d c0 5c 9d 3d c0 63 97 3d 90   ).=...=.\.=.c.=.
+01f0  d3 8e 3d 60 d2 83 3d 00 22 6d 3d 00 94 4e 3d 00   ..=`..=."m=..N=.
+0200  81 2c 3d 60 7d 07 3d 40 55 c0 3c 80 d0 5c 3c 00   .,=`}.=@U.<..\<.
+0210  c2 54 3b 00 be e6 bb 80 01 8d bc 40 f4 dd bc c0   .T;........@....
+0220  93 15 bd e0 a4 39 bd a0 8e 5a bd a0 bf 77 bd 30   .....9...Z...w.0
+0230  5b 88 bd 00 82 92 bd 10 27 9a bd 60 28 9f bd 90   [.......'..`(...
+0240  6f a1 bd 10 f2 a0 bd 50 b2 9d bd 00 bf 97 bd e0   o......P........
+0250  32 8f bd 10 34 84 bd a0 e6 6d bd 60 56 4f bd 80   2...4....m.`VO..
+0260  3d 2d bd a0 30 08 bd c0 a2 c1 bc 80 2d 5f bc 00   =-..0.......-_..
+0270  0e 5d bb 00 3d e3 3b 80 4e 8c 3c c0 71 dd 3c c0   .]..=.;.N.<.q.<.
+0280  6b 15 3d e0 96 39 3d c0 9a 5a 3d 80 e5 77 3d 90   k.=..9=..Z=..w=.
+0290  7a 88 3d 30 ad 92 3d 30 5d 9a 3d 80 68 9f 3d 40   z.=0..=0].=.h.=@
+02a0  b8 a1 3d 00 42 a1 3d 00 08 9e 3d c0 18 98 3d e0   ..=.B.=...=...=.
+02b0  8e 8f 3d a0 90 84 3d 20 9d 6e 3d c0 06 50 3d 20   ..=...= .n=..P= 
+02c0  e4 2d 3d 20 ca 08 3d 40 b5 c2 3c 80 05 61 3c 00   .-= ..=@..<..a<.
+02d0  14 63 3b 00 fb e0 bb c0 f1 8b bc 80 4b dd bc 00   .c;.........K...
+02e0  75 15 bd c0 bc 39 bd 20 dd 5a bd e0 43 78 bd 30   u....9. .Z..Cx.0
+02f0  b7 88 bd 70 f6 92 bd f0 b1 9a bd 70 c7 9f bd f0   ...p.......p....
+0300  1f a2 bd c0 b0 a1 bd e0 7b 9e bd d0 8f 98 bd 30   ........{......0
+0310  07 90 bd 00 08 85 bd 00 86 6f bd a0 e5 50 bd 20   .........o...P. 
+0320  b5 2e bd c0 89 09 bd c0 0a c4 bc 00 51 63 bc 00   ............Qc..
+0330  9a 6a bb 00 1b de 3b 00 76 8b 3c c0 0d dd 3c a0   .j....;.v.<...<.
+0340  75 15 3d c0 dc 39 3d c0 1b 5b 3d c0 9f 78 3d e0   u.=..9=..[=..x=.
+0350  f2 88 3d 90 3e 93 3d 20 05 9b 3d 00 24 a0 3d 10   ..=.>.= ..=.$.=.
+0360  84 a2 3d 60 1a a2 3d 00 e9 9e 3d 50 fe 98 3d f0   ..=`..=...=P..=.
+0370  74 90 3d c0 72 85 3d 60 51 70 3d e0 a2 51 3d 80   t.=.r.=`Qp=..Q=.
+0380  60 2f 3d c0 1f 0a 3d 00 06 c5 3c 00 db 64 3c 00   `/=...=...<..d<.
+0390  ee 6e 3b 00 ea dc bb 40 6a 8b bc 00 44 dd bc e0   .n;....@j...D...
+03a0  b1 15 bd a0 39 3a bd 60 98 5b bd a0 3a 79 bd 60   ....9:.`.[..:y.`
+03b0  4e 89 bd f0 a6 93 bd d0 78 9b bd 50 a1 a0 bd 10   N.......x..P....
+03c0  09 a3 bd 10 a5 a2 bd 30 77 9f bd a0 8d 99 bd 00   .......0w.......
+03d0  03 91 bd 50 fd 85 bd c0 5a 71 bd e0 9b 52 bd c0   ...P....Zq...R..
+03e0  44 30 bd 40 eb 0a bd 40 64 c6 bc 00 19 67 bc 00   D0.@...@d....g..
+03f0  c0 75 bb 00 a5 da 3b 00 25 8b 3c 40 4c dd 3c c0   .u....;.%.<@L.<.
+0400  dc 15 3d a0 8a 3a 3d 20 0e 5c 3d e0 d2 79 3d 60   ..=..:= .\=..y=`
+0410  aa 89 3d 20 11 94 3d 50 ef 9b 3d f0 21 a1 3d 80   ..= ..=P..=.!.=.
+0420  91 a3 3d c0 32 a3 3d 80 07 a0 3d 00 1e 9a 3d a0   ..=.2.=...=...=.
+0430  90 91 3d a0 85 86 3d 80 5b 72 3d 20 88 53 3d 00   ..=...=.[r= .S=.
+0440  18 31 3d 60 a1 0b 3d 00 8f c7 3c 80 df 68 3c 00   .1=`..=...<..h<.
+0450  76 7a 3b 00 8a d9 bb c0 30 8b bc c0 ab dd bc 40   vz;.....0......@
+0460  36 16 bd 20 0d 3b bd 00 b8 5c bd 00 a2 7a bd 20   6.. .;...\...z. 
+0470  23 8a bd 40 99 94 bd a0 84 9c bd 20 c2 a1 bd e0   #..@....... ....
+0480  39 a4 bd a0 e0 a3 bd f0 b7 a0 bd 00 ce 9a bd 50   9..............P
+0490  3d 92 bd 00 2c 87 bd 00 96 73 bd c0 aa 54 bd a0   =...,....s...T..
+04a0  1d 32 bd a0 85 0c bd 80 0c c9 bc 00 37 6b bc 00   .2..........7k..
+04b0  8e 80 bb 00 a4 d7 3b c0 14 8b 3c 00 ee dd 3c 20   ......;...<...< 
+04c0  86 16 3d 60 8a 3b 3d 80 60 5d 3d c0 72 7b 3d b0   ..=`.;=.`]=.r{=.
+04d0  9d 8a 3d e0 23 95 3d d0 1c 9d 3d 00 65 a2 3d 70   ..=.#.=...=.e.=p
+04e0  e4 a4 3d c0 8f a4 3d 70 68 a1 3d a0 7c 9b 3d d0   ..=...=ph.=.|.=.
+04f0  e6 92 3d 50 cd 87 3d 80 c2 74 3d e0 bb 55 3d      ..=P..=..t=..U=
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 0.050107100    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 22: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.050107100
+0000  02 00 00 00 45 00 03 db ac 63 00 00 80 11 00 00   ....E....c......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 fa f4   .........V.V....
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 a0   ................
+0050  0e 33 3d e0 51 0d 3d 80 54 ca 3c 00 1a 6d 3c 00   .3=.Q.=.T.<..m<.
+0060  e8 82 3b 00 c1 d6 bb 00 3b 8b bc 00 73 de bc e0   ..;.....;...s...
+0070  f6 16 bd 80 27 3c bd a0 27 5e bd c0 60 7c bd 30   ....'<..'^..`|.0
+0080  26 8b bd a0 bb 95 bd 70 c1 9d bd d0 13 a3 bd b0   &......p........
+0090  9a a5 bd 50 4a a5 bd 40 24 a2 bd 80 36 9c bd 90   ...PJ..@$...6...
+00a0  9b 93 bd e0 79 88 bd 20 05 76 bd 60 e2 56 bd 80   ....y.. .v.`.V..
+00b0  13 34 bd a0 30 0e bd 80 bd cb bc 00 36 6f bc 00   .4..0.......6o..
+00c0  a0 85 bb 00 95 d5 3b 40 54 8b 3c 00 f0 de 3c 40   ......;@T.<...<@
+00d0  66 17 3d e0 c5 3c 3d 20 f2 5e 3d a0 53 7d 3d c0   f.=..<= .^=.S}=.
+00e0  b1 8b 3d c0 56 96 3d 50 69 9e 3d 60 c5 a3 3d c0   ..=.V.=Pi.=`..=.
+00f0  52 a6 3d b0 05 a6 3d 70 df a2 3d 50 ee 9c 3d c0   R.=...=p..=P..=.
+0100  4c 94 3d 30 21 89 3d 40 3a 77 3d 40 f8 57 3d 60   L.=0!.=@:w=@.W=`
+0110  05 35 3d 20 fa 0e 3d 80 f8 cc 3c 00 f1 70 3c 00   .5= ..=...<..p<.
+0120  8e 87 3b 00 39 d5 bb c0 a2 8b bc 40 a3 df bc e0   ..;.9......@....
+0130  f0 17 bd 80 7f 3d bd c0 d7 5f bd c0 61 7e bd c0   .....=..._..a~..
+0140  4a 8c bd 30 ff 96 bd 60 1e 9f bd 00 84 a4 bd a0   J..0...`........
+0150  17 a7 bd 70 cd a6 bd b0 a6 a3 bd 90 b1 9d bd d0   ...p............
+0160  08 95 bd 00 d3 89 bd 60 83 78 bd a0 21 59 bd 40   .......`.x..!Y.@
+0170  0a 36 bd 20 d6 0f bd 80 57 ce bc 80 f1 72 bc 00   .6. ....W....r..
+0180  03 8a bb 00 5a d4 3b 80 d1 8b 3c c0 37 e0 3c e0   ....Z.;...<.7.<.
+0190  6c 18 3d 20 2b 3e 3d 20 b0 60 3d 20 63 7f 3d d0   l.= +>= .`= c.=.
+01a0  dd 8c 3d 10 a2 97 3d 50 ce 9f 3d 10 3e a5 3d c0   ..=...=P..=.>.=.
+01b0  d8 a7 3d 70 92 a7 3d 40 6c a4 3d 80 74 9e 3d c0   ..=p..=@l.=.t.=.
+01c0  c5 95 3d d0 86 8a 3d c0 d2 79 3d 40 53 5a 3d 20   ..=...=..y=@SZ= 
+01d0  19 37 3d 00 be 10 3d 00 d2 cf 3c 80 2f 75 3c 00   .7=...=...<./u<.
+01e0  00 8d 3b 00 e9 d2 bb c0 d9 8b bc 00 a4 e0 bc 00   ..;.............
+01f0  d4 18 bd 40 c1 3e bd c0 72 61 bd 80 27 80 bd 70   ...@.>..ra..'..p
+0200  66 8d bd 30 3b 98 bd 70 75 a0 bd 60 f0 a5 bd 40   f..0;..pu..`...@
+0210  93 a8 bd e0 51 a8 bd 70 2d a5 bd 20 34 9f bd b0   ....Q..p-.. 4...
+0220  80 96 bd e0 39 8b bd 80 23 7b bd e0 88 5b bd 80   ....9...#{...[..
+0230  2e 38 bd a0 ae 11 bd 80 61 d1 bc 80 9e 77 bc 00   .8......a....w..
+0240  6a 90 bb 00 01 d1 3b c0 c1 8b 3c 80 ee e0 3c e0   j.....;...<...<.
+0250  29 19 3d c0 46 3f 3d a0 25 62 3d 30 96 80 3d 90   ).=.F?=.%b=0..=.
+0260  e8 8d 3d 90 ce 98 3d 90 17 a1 3d 90 9e a6 3d a0   ..=...=...=...=.
+0270  4a a9 3d 60 0f a9 3d 10 ee a5 3d a0 f4 9f 3d f0   J.=`..=...=...=.
+0280  3d 97 3d c0 f0 8b 3d 40 7e 7c 3d 00 cb 5c 3d c0   =.=...=@~|=..\=.
+0290  52 39 3d 00 b0 12 3d 40 16 d3 3c 80 5d 7a 3c 00   R9=...=@..<.]z<.
+02a0  7c 94 3b 00 6c ce bb 00 7f 8b bc c0 0f e1 bc 60   |.;.l..........`
+02b0  6c 19 bd 20 ba 3f bd 20 c8 62 bd a0 fd 80 bd 80   l.. .?. .b......
+02c0  64 8e bd d0 5c 99 bd c0 b5 a1 bd f0 49 a7 bd 30   d...\.......I..0
+02d0  00 aa bd 10 cc a9 bd 60 ae a6 bd 40 b5 a0 bd 50   .......`...@...P
+02e0  fb 97 bd 60 a7 8c bd 80 d7 7d bd c0 09 5e bd 20   ...`.....}...^. 
+02f0  71 3a bd 80 a8 13 bd 40 b2 d4 bc 80 da 7c bc 00   q:.....@.....|..
+0300  e6 97 bb 00 a6 cc 3b 80 79 8b 3c 00 77 e1 3c 00   ......;.y.<.w.<.
+0310  d6 19 3d 20 58 40 3d 20 98 63 3d f0 7c 81 3d 00   ..= X@= .c=.|.=.
+0320  f9 8e 3d 30 04 9a 3d 20 6d a2 3d 50 0e a8 3d 30   ..=0..= m.=P..=0
+0330  ce aa 3d 20 a0 aa 3d f0 84 a7 3d b0 8a a1 3d 10   ..= ..=...=...=.
+0340  cc 98 3d 00 70 8d 3d a0 51 7f 3d 80 66 5f 3d 80   ..=.p.=.Q.=.f_=.
+0350  aa 3b 3d 20 b9 14 3d 80 78 d6 3c 80 a1 7f 3c 00   .;= ..=.x.<...<.
+0360  cf 9b 3b 00 73 ca bb 80 5c 8b bc 00 cb e1 bc e0   ..;.s...\.......
+0370  37 1a bd 60 f0 40 bd 60 64 64 bd 60 fb 81 bd b0   7..`.@.`dd.`....
+0380  8d 8f bd a0 ac 9a bd 80 26 a3 bd 80 d5 a8 bd e0   ........&.......
+0390  9f ab bd c0 78 ab bd e0 60 a8 bd 20 66 a2 bd 40   ....x...`.. f..@
+03a0  a3 99 bd 30 3f 8e bd 70 6c 80 bd c0 cf 60 bd 40   ...0?..pl....`.@
+03b0  ef 3c bd a0 d3 15 bd c0 4e d8 bc c0 3f 81 bc 00   .<......N...?...
+03c0  d3 9f bb 00 3d c8 3b c0 45 8b 3c 00 2c e2 3c c0   ....=.;.E.<.,.<.
+03d0  a3 1a 3d 40 96 41 3d a0 41 65 3d 00 84 82 3d      ..=@.A=.Ae=...=
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 0.060964500    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 23: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.060964500
+0000  02 00 00 00 45 00 04 fb ac 64 00 00 80 11 00 00   ....E....d......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 c3 97   .........V.V....
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 10   ................
+0050  2e 90 3d 20 62 9b 3d 10 ee a3 3d d0 ab a9 3d 50   ..= b.=...=...=P
+0060  81 ac 3d 80 61 ac 3d f0 4c a9 3d 90 51 a3 3d 20   ..=.a.=.L.=.Q.= 
+0070  8a 9a 3d b0 1d 8f 3d f0 3e 81 3d e0 55 62 3d 60   ..=...=.>.=.Ub=`
+0080  50 3e 3d 80 0a 17 3d 00 5e da 3c 80 e8 82 3c 00   P>=...=.^.<...<.
+0090  c2 a4 3b 00 12 c5 bb c0 ee 8a bc 40 49 e2 bc e0   ..;........@I...
+00a0  eb 1a bd 60 16 42 bd 20 f7 65 bd b0 f7 82 bd 90   ...`.B. .e......
+00b0  b8 90 bd d0 00 9c bd 10 9e a4 bd d0 69 aa bd e0   ............i...
+00c0  49 ad bd 00 31 ad bd b0 1f aa bd b0 23 a4 bd c0   I...1.......#...
+00d0  57 9b bd 30 e3 8f bd 90 f8 81 bd c0 aa 63 bd 60   W..0.........c.`
+00e0  80 3f bd c0 0f 18 bd 40 09 dc bc 40 2c 84 bc 00   .?.....@...@,...
+00f0  19 a8 bb 00 86 c3 3b 40 01 8b 3c 80 d1 e2 3c 60   ......;@..<...<`
+0100  6a 1b 3d 20 cd 42 3d a0 e3 66 3d e0 86 83 3d 50   j.= .B=..f=...=P
+0110  5e 91 3d 50 ba 9c 3d 50 68 a5 3d 60 41 ab 3d 20   ^.=P..=Ph.=`A.= 
+0120  2b ae 3d 20 18 ae 3d c0 08 ab 3d c0 0a a5 3d e0   +.= ..=...=...=.
+0130  38 9c 3d 80 ba 90 3d 80 c2 82 3d 00 1d 65 3d 00   8.=...=...=..e=.
+0140  cb 40 3d 60 2d 19 3d 40 e1 dd 3c 80 99 85 3c 00   .@=`-.=@..<...<.
+0150  0d ac 3b 00 62 c1 bb 80 ed 8a bc 00 33 e3 bc 40   ..;.b.......3..@
+0160  d4 1b bd 00 6e 43 bd 20 b8 67 bd f0 08 84 bd b0   ....nC. .g......
+0170  f5 91 bd 40 64 9d bd 80 21 a6 bd 60 06 ac bd 40   ...@d...!..`...@
+0180  f8 ae bd 70 e9 ae bd 50 da ab bd a0 d8 a5 bd 50   ...p...P.......P
+0190  ff 9c bd e0 75 91 bd 50 6f 83 bd 20 53 66 bd e0   ....u..Po.. Sf..
+01a0  d7 41 bd e0 0b 1a bd 00 39 df bc 40 85 86 bc 00   .A......9..@....
+01b0  f9 ad bb 00 45 c1 3b 40 5b 8b 3c c0 14 e4 3c c0   ....E.;@[.<...<.
+01c0  7d 1c 3d e0 4d 44 3d 00 cb 68 3d c0 a9 84 3d 60   }.=.MD=..h=...=`
+01d0  ab 92 3d d0 2b 9e 3d b0 f7 a6 3d b0 e7 ac 3d e0   ..=.+.=...=...=.
+01e0  e0 af 3d 80 d5 af 3d d0 c5 ac 3d b0 bf a6 3d f0   ..=...=...=...=.
+01f0  dd 9d 3d 60 48 92 3d 30 32 84 3d 40 b3 67 3d a0   ..=`H.=02.=@.g=.
+0200  0c 43 3d 40 10 1b 3d 00 d9 e0 3c 40 b6 87 3c 00   .C=@..=...<@..<.
+0210  f0 b0 3b 00 23 c0 bb 00 88 8b bc c0 b4 e4 bc 60   ..;.#..........`
+0220  05 1d bd 20 0a 45 bd c0 b7 69 bd 00 36 85 bd a0   ... .E...i..6...
+0230  4a 93 bd f0 da 9e bd 30 b3 a7 bd f0 ab ad bd 10   J......0........
+0240  aa b0 bd e0 9f b0 bd 80 8d ad bd d0 80 a7 bd f0   ................
+0250  94 9e bd 80 f1 92 bd 40 ca 84 bd 40 bb 68 bd 40   .......@...@.h.@
+0260  e7 43 bd 40 b9 1b bd 80 c0 e1 bc 00 2e 88 bc 00   .C.@............
+0270  02 b1 bb 00 e4 c1 3b c0 6c 8c 3c 40 0b e6 3c 00   ......;.l.<@..<.
+0280  e7 1d 3d a0 1e 46 3d 00 fb 6a 3d 60 ec 85 3d e0   ..=..F=..j=`..=.
+0290  12 94 3d b0 b1 9f 3d 10 95 a8 3d 10 95 ae 3d 90   ..=...=...=...=.
+02a0  96 b1 3d a0 8b b1 3d 80 74 ae 3d 00 5f a8 3d 90   ..=...=.t.=._.=.
+02b0  66 9f 3d 00 b3 93 3d 50 78 85 3d 60 ea 69 3d 20   f.=...=Px.=`.i= 
+02c0  e4 44 3d 60 7f 1c 3d 40 d8 e2 3c 80 cc 88 3c 00   .D=`..=@..<...<.
+02d0  8c b1 3b 00 4a c3 bb c0 3f 8d bc c0 53 e7 bc e0   ..;.J...?...S...
+02e0  c2 1e bd e0 2d 47 bd 80 38 6c bd 20 9f 86 bd 40   ....-G..8l. ...@
+02f0  d6 94 bd f0 81 a0 bd 20 6e a9 bd e0 72 af bd e0   ....... n...r...
+0300  74 b2 bd 30 66 b2 bd 30 47 af bd e0 25 a9 bd b0   t..0f..0G...%...
+0310  1d a0 bd f0 56 94 bd d0 05 86 bd 20 d3 6a bd 00   ....V...... .j..
+0320  96 45 bd e0 f6 1c bd 80 4d e3 bc 00 c5 88 bc 00   .E......M.......
+0330  7a af bb 00 4c c7 3b 00 b9 8e 3c 00 40 e9 3c c0   z...L.;...<.@.<.
+0340  ee 1f 3d e0 8a 48 3d 20 c1 6d 3d 30 76 87 3d 90   ..=..H= .m=0v.=.
+0350  bc 95 3d c0 73 a1 3d 80 67 aa 3d a0 6f b0 3d e0   ..=.s.=.g.=.o.=.
+0360  70 b3 3d 60 5d b3 3d 80 35 b0 3d 80 07 aa 3d 20   p.=`].=.5.=...= 
+0370  ef a0 3d f0 14 95 3d 80 ad 86 3d e0 f0 6b 3d 40   ..=...=...=..k=@
+0380  7e 46 3d 80 a6 1d 3d 40 37 e4 3c 00 37 89 3c 00   ~F=...=@7.<.7.<.
+0390  62 af 3b 00 3c c9 bb c0 a6 8f bc 80 99 ea bc 80   b.;.<...........
+03a0  cd 20 bd a0 96 49 bd 20 f4 6e bd 30 20 88 bd 70   . ...I. .n.0 ..p
+03b0  73 96 bd e0 33 a2 bd 00 2d ab bd b0 36 b1 bd 80   s...3...-...6...
+03c0  35 b4 bd b0 1b b4 bd d0 e9 b0 bd 40 ae aa bd 10   5..........@....
+03d0  85 a1 bd 30 97 95 bd 90 19 87 bd 80 98 6c bd 00   ...0.........l..
+03e0  f2 46 bd 00 e4 1d bd 00 43 e4 bc 40 d3 88 bc 00   .F......C..@....
+03f0  1a ac bb 00 30 ce 3b 40 49 91 3c 80 9a ec 3c c0   ....0.;@I.<...<.
+0400  f8 21 3d a0 e7 4a 3d 00 65 70 3d 60 e5 88 3d 10   .!=..J=.ep=`..=.
+0410  42 97 3d 70 08 a3 3d e0 03 ac 3d 30 0c b2 3d 30   B.=p..=...=0..=0
+0420  06 b5 3d 10 e4 b4 3d 80 a6 b1 3d 40 5c ab 3d 90   ..=...=...=@\.=.
+0430  21 a2 3d a0 1f 96 3d f0 8b 87 3d c0 4d 6d 3d 40   !.=...=...=.Mm=@
+0440  75 47 3d 00 34 1e 3d 80 7b e4 3c 00 a5 88 3c 00   uG=.4.=.{.<...<.
+0450  d2 a9 3b 00 f3 d1 bb c0 92 92 bc c0 34 ee bc a0   ..;.........4...
+0460  e9 22 bd 00 f7 4b bd 40 8d 71 bd f0 82 89 bd f0   ."...K.@.q......
+0470  e5 97 bd 50 af a3 bd 70 aa ac bd 30 af b2 bd 40   ...P...p...0...@
+0480  a2 b5 bd 20 76 b5 bd c0 2b b2 bd f0 d1 ab bd 50   ... v...+......P
+0490  85 a2 bd 80 6f 96 bd 20 c6 87 bd 40 94 6d bd 40   ....o.. ...@.m.@
+04a0  8c 47 bd 40 1a 1e bd 80 e6 e3 bc 00 b0 87 bc 00   .G.@............
+04b0  8b a4 bb 00 9a d8 3b 00 8e 94 3c 80 79 f0 3c 20   ......;...<.y.< 
+04c0  2c 24 3d 80 54 4d 3d 20 00 73 3d e0 43 8a 3d 20   ,$=.TM= .s=.C.= 
+04d0  ab 98 3d 70 75 a4 3d 30 6e ad 3d 40 6d b3 3d 70   ..=pu.=0n.=@m.=p
+04e0  57 b6 3d 70 1f b6 3d 40 c6 b2 3d 30 5b ac 3d 10   W.=p..=@..=0[.=.
+04f0  fb a2 3d 00 d0 96 3d 00 10 88 3d e0 f8 6d 3d      ..=...=...=..m=
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 0.061129100    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 24: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.061129100
+0000  02 00 00 00 45 00 03 db ac 65 00 00 80 11 00 00   ....E....e......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 fb 2b   .........V.V...+
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 a0   ................
+0050  c0 47 3d 40 1e 1e 3d 40 8f e3 3c c0 fc 86 3c 00   .G=@..=@..<...<.
+0060  60 a0 3b 00 0a de bb 40 33 96 bc 40 5f f2 bc 60   `.;....@3..@_..`
+0070  3a 25 bd 80 78 4e bd 00 34 74 bd d0 e2 8a bd 00   :%..xN..4t......
+0080  4c 99 bd 30 15 a5 bd d0 09 ae bd d0 01 b4 bd 50   L..0...........P
+0090  e2 b6 bd 20 9e b6 bd 90 36 b3 bd 20 bb ac bd 10   ... ....6.. ....
+00a0  49 a3 bd a0 0a 97 bd 60 36 88 bd c0 1b 6e bd 20   I......`6....n. 
+00b0  b9 47 bd a0 ec 1d bd c0 d9 e2 bc c0 f7 85 bc 00   .G..............
+00c0  21 9b bb 00 5c e4 3b 40 06 98 3c c0 68 f4 3c 20   !...\.;@..<.h.< 
+00d0  56 26 3d a0 a6 4f 3d 80 6f 75 3d b0 84 8b 3d 40   V&=..O=.ou=...=@
+00e0  ef 99 3d 40 b7 a5 3d 00 a8 ae 3d 90 99 b4 3d 30   ..=@..=...=...=0
+00f0  71 b7 3d c0 21 b7 3d f0 ac b3 3d 80 22 ad 3d d0   q.=.!.=...=.".=.
+0100  9f a3 3d a0 4f 97 3d a0 68 88 3d c0 59 6e 3d 20   ..=.O.=.h.=.Yn= 
+0110  d0 47 3d 00 dd 1d 3d 00 6f e2 3c c0 44 85 3c 00   .G=...=.o.<.D.<.
+0120  47 97 3b 00 2f e9 bb 40 72 99 bc 40 04 f6 bc 60   G.;./..@r..@...`
+0130  37 27 bd 00 97 50 bd 60 6a 76 bd d0 04 8c bd c0   7'...P.`jv......
+0140  6f 9a bd 90 35 a6 bd c0 21 af bd 70 0c b5 bd 10   o...5...!..p....
+0150  db b7 bd a0 80 b7 bd 00 ff b3 bd 20 66 ad bd c0   ........... f...
+0160  d3 a3 bd c0 72 97 bd 40 7a 88 bd 40 59 6e bd c0   ....r..@z..@Yn..
+0170  ab 47 bd 20 95 1d bd 00 9a e1 bc 40 2e 84 bc 00   .G. .......@....
+0180  f7 91 bb 00 5f ef 3b c0 2f 9b 3c 40 ec f7 3c 80   ...._.;./.<@..<.
+0190  3c 28 3d 00 a9 51 3d a0 84 77 3d d0 93 8c 3d 20   <(=..Q=..w=...= 
+01a0  fe 9a 3d f0 c0 a6 3d d0 a7 af 3d f0 8a b5 3d c0   ..=...=...=...=.
+01b0  4f b8 3d a0 e9 b7 3d 80 5a b4 3d a0 b2 ad 3d 00   O.=...=.Z.=...=.
+01c0  10 a4 3d d0 9d 97 3d 80 93 88 3d 60 67 6e 3d 80   ..=...=...=`gn=.
+01d0  95 47 3d 60 5b 1d 3d 80 e2 e0 3c 80 36 83 3c 00   .G=`[.=...<.6.<.
+01e0  2d 8d 3b 00 f9 f4 bb 40 c3 9c bc 80 a4 f9 bc a0   -.;....@........
+01f0  26 29 bd 80 9c 52 bd a0 7c 78 bd a0 0f 8d bd 60   &)...R..|x.....`
+0200  77 9b bd 60 35 a7 bd 20 15 b0 bd 10 ef b5 bd f0   w..`5.. ........
+0210  a8 b8 bd 30 36 b8 bd 10 99 b4 bd 10 e2 ad bd 90   ...06...........
+0220  2f a4 bd f0 ac 97 bd 10 92 88 bd 80 43 6e bd 60   /...........Cn.`
+0230  51 47 bd 40 f8 1c bd 00 e2 df bc 80 00 82 bc 00   QG.@............
+0240  95 87 bb 00 38 fb 3b c0 75 9e 3c 00 72 fb 3c 20   ....8.;.u.<.r.< 
+0250  17 2a 3d 60 92 53 3d 00 74 79 3d f0 89 8d 3d 50   .*=`.S=.ty=...=P
+0260  ee 9b 3d 00 a7 a7 3d 90 7f b0 3d b0 50 b6 3d 20   ..=...=...=.P.= 
+0270  00 b9 3d 90 81 b8 3d 80 d7 b4 3d b0 12 ae 3d a0   ..=...=...=...=.
+0280  51 a4 3d 10 c0 97 3d 10 96 88 3d 80 2d 6e 3d 40   Q.=...=...=.-n=@
+0290  1e 47 3d 20 a9 1c 3d 80 0f df 3c 80 fe 80 3c 00   .G= ..=...<...<.
+02a0  e2 82 3b 00 3f 00 bc 40 e5 9f bc c0 f8 fc bc 40   ..;.?..@.......@
+02b0  e2 2a bd a0 61 54 bd a0 43 7a bd 00 f0 8d bd d0   .*..aT..Cz......
+02c0  50 9c bd 10 04 a8 bd a0 d5 b0 bd 40 9e b6 bd d0   P..........@....
+02d0  43 b9 bd 50 ba b8 bd 70 04 b5 bd 20 33 ae bd 40   C..P...p... 3..@
+02e0  65 a4 bd b0 c6 97 bd c0 8f 88 bd c0 07 6e bd 60   e............n.`
+02f0  e0 46 bd c0 54 1c bd 80 3d de bc 40 07 80 bc 00   .F..T...=..@....
+0300  0e 7d bb 00 a1 02 3c c0 2a a1 3c 40 4c fe 3c 00   .}....<.*.<@L.<.
+0310  90 2b 3d 00 10 55 3d 40 ef 7a 3d 00 43 8e 3d 70   .+=..U=@.z=.C.=p
+0320  9f 9c 3d f0 4c a8 3d 90 17 b1 3d 20 d8 b6 3d a0   ..=.L.=...= ..=.
+0330  74 b9 3d 50 e1 b8 3d f0 20 b5 3d b0 44 ae 3d b0   t.=P..=. .=.D.=.
+0340  6b a4 3d 00 c2 97 3d 20 80 88 3d 80 d3 6d 3d 60   k.=...= ..=..m=`
+0350  98 46 3d a0 fa 1b 3d c0 68 dd 3c 80 2d 7e 3c 00   .F=...=.h.<.-~<.
+0360  d0 74 3b 00 d4 04 bc 00 50 a2 bc 00 78 ff bc e0   .t;.....P...x...
+0370  25 2c bd 40 a3 55 bd e0 7c 7b bd a0 85 8e bd a0   %,.@.U..|{......
+0380  dc 9c bd 80 83 a8 bd 80 46 b1 bd 80 fe b6 bd e0   ........F.......
+0390  91 b9 bd f0 f4 b8 bd b0 2a b5 bd 90 44 ae bd c0   ........*...D...
+03a0  61 a4 bd 60 ae 97 bd a0 63 88 bd 80 8b 6d bd 00   a..`....c....m..
+03b0  43 46 bd e0 97 1b bd 40 89 dc bc 00 41 7c bc 00   CF.....@....A|..
+03c0  96 6c bb 80 f5 06 3c 40 62 a3 3c 80 41 00 3d 20   .l....<@b.<.A.= 
+03d0  a4 2c 3d a0 16 56 3d 80 e2 7b 3d 50 b0 8e 3d      .,=..V=..{=P..=
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 0.070119600    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 29: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.070119600
+0000  02 00 00 00 45 00 04 fb ac 6a 00 00 80 11 00 00   ....E....j......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 2c 01   .........V.V..,.
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 50   ...............P
+0050  fe 9c 3d b0 9b a8 3d c0 54 b1 3d d0 02 b7 3d 70   ..=...=.T.=...=p
+0060  8c b9 3d 20 e6 b8 3d 20 13 b5 3d f0 24 ae 3d f0   ..= ..= ..=.$.=.
+0070  3a a4 3d a0 81 97 3d c0 31 88 3d 20 1e 6d 3d 80   :.=...=.1.= .m=.
+0080  ce 45 3d 60 20 1b 3d 80 9c db 3c 00 78 7a 3c 00   .E=` .=...<.xz<.
+0090  d2 65 3b 80 8b 08 bc 40 1f a4 bc e0 98 00 bd 60   .e;....@.......`
+00a0  f4 2c bd a0 5f 56 bd 20 24 7c bd 50 cd 8e bd 30   .,.._V. $|.P...0
+00b0  17 9d bd 20 b0 a8 bd 70 64 b1 bd 60 0d b7 bd a0   ... ...pd..`....
+00c0  91 b9 bd 90 e5 b8 bd b0 0c b5 bd 70 18 ae bd 60   ...........p...`
+00d0  28 a4 bd 00 69 97 bd 20 13 88 bd a0 d5 6c bd 40   (...i.. .....l.@
+00e0  7b 45 bd 40 c3 1a bd c0 d0 da bc 00 c2 78 bc 00   {E.@.........x..
+00f0  98 5e bb 00 6c 0a 3c 00 15 a5 3c e0 14 01 3d 40   .^..l.<...<...=@
+0100  6f 2d 3d a0 d7 56 3d 00 97 7c 3d 40 03 8f 3d b0   o-=..V=..|=@..=.
+0110  48 9d 3d 40 dc a8 3d 50 8a b1 3d 50 2c b7 3d e0   H.=@..=P..=P,.=.
+0120  a8 b9 3d b0 f4 b8 3d 20 13 b5 3d f0 15 ae 3d b0   ..=...= ..=...=.
+0130  1c a4 3d 40 54 97 3d 70 f5 87 3d e0 88 6c 3d 20   ..=@T.=p..=..l= 
+0140  1e 45 3d 20 57 1a 3d 00 dd d9 3c 00 ab 76 3c 00   .E= W.=...<..v<.
+0150  9a 55 3b 00 cc 0c bc 80 50 a6 bc 20 b6 01 bd e0   .U;.....P.. ....
+0160  11 2e bd 20 79 57 bd 40 35 7d bd 90 4f 8f bd 40   ... yW.@5}..O..@
+0170  91 9d bd 10 20 a9 bd 90 c8 b1 bd 40 64 b7 bd d0   .... ......@d...
+0180  d9 b9 bd 10 1e b9 bd 90 34 b5 bd 40 2f ae bd d0   ........4..@/...
+0190  2d a4 bd 10 5d 97 bd 30 f6 87 bd c0 7a 6c bd 40   -...]..0....zl.@
+01a0  01 45 bd 60 2c 1a bd 80 6e d9 bc 00 a2 75 bc 00   .E.`,...n....u..
+01b0  de 50 bb 00 19 0e 3c 80 02 a7 3c e0 12 02 3d 20   .P....<...<...= 
+01c0  70 2e 3d c0 d6 57 3d 40 90 7d 3d a0 7a 8f 3d d0   p.=..W=@.}=.z.=.
+01d0  b8 9d 3d 30 43 a9 3d 50 e6 b1 3d c0 7b b7 3d 60   ..=0C.=P..=.{.=`
+01e0  ea b9 3d 10 27 b9 3d 80 35 b5 3d b0 27 ae 3d 80   ..=.'.=.5.=.'.=.
+01f0  1d a4 3d f0 43 97 3d 50 d4 87 3d 00 26 6c 3d 40   ..=.C.=P..=.&l=@
+0200  9c 44 3d 20 b8 19 3d 40 6a d8 3c 00 68 73 3c 00   .D= ..=@j.<.hs<.
+0210  50 47 3b 00 9f 10 bc 00 52 a8 bc a0 be 02 bd 80   PG;.....R.......
+0220  1d 2f bd 80 83 58 bd e0 39 7e bd c0 cc 8f bd 10   ./...X..9~......
+0230  07 9e bd 90 8c a9 bd e0 29 b2 bd 90 b8 b7 bd b0   ........).......
+0240  1f ba bd 40 54 b9 bd 00 5a b5 bd 30 43 ae bd c0   ...@T...Z..0C...
+0250  2f a4 bd f0 4c 97 bd 20 d4 87 bd 80 13 6c bd 60   /...L.. .....l.`
+0260  78 44 bd e0 83 19 bd 80 e3 d7 bc 80 23 72 bc 00   xD..........#r..
+0270  7c 41 bb 80 3c 12 3c 00 31 a9 3c 00 34 03 3d 80   |A..<.<.1.<.4.=.
+0280  96 2f 3d 60 fd 58 3d 40 b2 7e 3d f0 06 90 3d f0   ./=`.X=@.~=...=.
+0290  3d 9e 3d e0 be a9 3d 50 56 b2 3d 10 de b7 3d 30   =.=...=PV.=...=0
+02a0  3d ba 3d c0 68 b9 3d d0 64 b5 3d b0 43 ae 3d 70   =.=.h.=.d.=.C.=p
+02b0  25 a4 3d 90 37 97 3d 90 b3 87 3d 80 bc 6b 3d 20   %.=.7.=...=..k= 
+02c0  0c 44 3d 80 03 19 3d 80 bd d6 3c 00 94 6f 3c 00   .D=...=...<..o<.
+02d0  52 36 3b 80 37 15 bc c0 c1 aa bc 00 03 04 bd 20   R6;.7.......... 
+02e0  69 30 bd a0 d0 59 bd c0 82 7f bd 60 6c 90 bd 10   i0...Y.....`l...
+02f0  9f 9e bd 40 1a aa bd b0 aa b2 bd 40 2a b8 bd 20   ...@.......@*.. 
+0300  80 ba bd a0 a1 b9 bd e0 92 b5 bd 60 66 ae bd 70   ...........`f..p
+0310  3c a4 bd c0 42 97 bd f0 b2 87 bd 20 a4 6b bd 60   <...B...... .k.`
+0320  dd 43 bd a0 bf 18 bd 80 0e d6 bc 00 ef 6d bc 00   .C...........m..
+0330  c2 2e bb 00 51 17 3c 40 e4 ab 3c 60 9c 04 3d e0   ....Q.<@..<`..=.
+0340  07 31 3d e0 71 5a 3d e0 11 80 3d 10 bb 90 3d a0   .1=.qZ=...=...=.
+0350  ea 9e 3d 40 61 aa 3d b0 eb b2 3d e0 63 b8 3d 20   ..=@a.=...=.c.= 
+0360  b1 ba 3d e0 c8 b9 3d 60 af b5 3d 40 77 ae 3d 10   ..=...=`..=@w.=.
+0370  41 a4 3d 80 3a 97 3d a0 9d 87 3d 00 5f 6b 3d 20   A.=.:.=...=._k= 
+0380  7e 43 3d 00 47 18 3d 80 ec d4 3c 80 50 6b 3c 00   ~C=.G.=...<.Pk<.
+0390  02 23 3b 80 89 1a bc 00 9f ad bc 00 86 05 bd 80   .#;.............
+03a0  fa 31 bd 40 6a 5b bd 30 8f 80 bd e0 37 91 bd 00   .1.@j[.0....7...
+03b0  65 9f bd 80 d7 aa bd 30 5c b3 bd 20 cd b8 bd b0   e......0\.. ....
+03c0  11 bb bd 70 1f ba bd d0 fa b5 bd a0 b6 ae bd c0   ...p............
+03d0  73 a4 bd f0 5f 97 bd 90 b5 87 bd a0 73 6b bd c0   s..._.......sk..
+03e0  77 43 bd 20 26 18 bd c0 77 d4 bc 00 06 6a bc 00   wC. &...w....j..
+03f0  70 1c bb 80 7f 1c 3c 00 be ae 3c c0 24 06 3d 60   p.....<...<.$.=`
+0400  a5 32 3d 00 1e 5c 3d b0 eb 80 3d 30 95 91 3d 70   .2=..\=...=0..=p
+0410  c1 9f 3d 40 31 ab 3d 60 b1 b3 3d 10 1c b9 3d b0   ..=@1.=`..=...=.
+0420  58 bb 3d 10 5d ba 3d c0 2d b6 3d b0 dd ae 3d c0   X.=.].=.-.=...=.
+0430  8d a4 3d 20 6c 97 3d 40 b3 87 3d 60 51 6b 3d 80   ..= l.=@..=`Qk=.
+0440  37 43 3d 20 c8 17 3d 00 82 d3 3c 80 ac 67 3c 00   7C= ..=...<..g<.
+0450  70 11 3b 80 9d 1f bc 00 76 b0 bc 40 12 07 bd e0   p.;.....v..@....
+0460  a0 33 bd a0 23 5d bd 90 71 81 bd 30 1c 92 bd 70   .3..#]..q..0...p
+0470  47 a0 bd 20 b4 ab bd 60 2f b4 bd 40 93 b9 bd 70   G.. ...`/..@...p
+0480  c7 bb bd b0 c1 ba bd e0 86 b6 bd 10 2a af bd 60   ............*..`
+0490  cc a4 bd 40 9c 97 bd 50 d4 87 bd 00 75 6b bd 80   ...@...P....uk..
+04a0  3c 43 bd 40 af 17 bd 00 17 d3 bc 00 6a 66 bc 00   <C.@........jf..
+04b0  d2 0a bb 80 9f 21 3c 00 9f b1 3c a0 b7 07 3d 00   .....!<...<...=.
+04c0  54 34 3d e0 e0 5d 3d 70 d3 81 3d 50 7f 92 3d e0   T4=..]=p..=P..=.
+04d0  a9 a0 3d f0 13 ac 3d 80 8a b4 3d d0 e7 b9 3d 90   ..=...=...=...=.
+04e0  13 bc 3d b0 03 bb 3d 20 bd b6 3d 50 53 af 3d 90   ..=...= ..=PS.=.
+04f0  e7 a4 3d 90 a8 97 3d 30 d1 87 3d 80 4f 6b 3d      ..=...=0..=.Ok=
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 0.070289900    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 30: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.070289900
+0000  02 00 00 00 45 00 03 db ac 6b 00 00 80 11 00 00   ....E....k......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 3f 2f   .........V.V..?/
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 e0   ................
+0050  f7 42 3d 20 4c 17 3d c0 15 d2 3c 00 f9 63 3c 00   .B= L.=...<..c<.
+0060  ec fe 3a 00 d3 24 bc 00 61 b3 bc 80 a9 08 bd 20   ..:..$..a...... 
+0070  53 35 bd 80 e9 5e bd a0 5a 82 bd 60 07 93 bd e0   S5...^..Z..`....
+0080  30 a1 bd f0 97 ac bd 90 09 b5 bd 00 60 ba bd 40   0...........`..@
+0090  83 bc bd 50 69 bb bd 40 17 b7 bd b0 a0 af bd 30   ...Pi..@.......0
+00a0  27 a5 bd b0 d9 97 bd 50 f3 87 bd e0 74 6b bd 60   '......P....tk.`
+00b0  fe 42 bd e0 33 17 bd c0 a9 d1 bc 80 ae 62 bc 00   .B..3........b..
+00c0  38 f1 ba 80 ec 26 3c 40 9a b4 3c 40 59 09 3d c0   8....&<@..<@Y.=.
+00d0  12 36 3d 40 b5 5f 3d a0 c4 82 3d 80 73 93 3d 20   .6=@._=...=.s.= 
+00e0  9d a1 3d 50 02 ad 3d 40 70 b5 3d 50 c1 ba 3d 70   ..=P..=@p.=P..=p
+00f0  dd bc 3d e0 ba bb 3d d0 5e b7 3d 10 dd af 3d 50   ..=...=.^.=...=P
+0100  57 a5 3d c0 fc 97 3d b0 08 88 3d 80 83 6b 3d 60   W.=...=...=..k=`
+0110  f0 42 3d 80 09 17 3d c0 1c d1 3c 80 28 61 3c 00   .B=...=...<.(a<.
+0120  d8 e1 3a 80 36 29 bc c0 e9 b5 bc c0 13 0a bd 40   ..:.6).........@
+0130  dd 36 bd 00 8d 60 bd b0 35 83 bd 30 e8 93 bd c0   .6...`..5..0....
+0140  13 a2 bd 40 79 ad bd d0 e5 b5 bd e0 33 bb bd 80   ...@y.......3...
+0150  4b bd bd 10 23 bc bd e0 bf b7 bd c0 35 b0 bd a0   K...#.......5...
+0160  a6 a5 bd b0 41 98 bd 70 42 88 bd 60 df 6b bd 20   ....A..pB..`.k. 
+0170  34 43 bd e0 34 17 bd 40 43 d1 bc 80 16 61 bc 00   4C..4..@C....a..
+0180  64 de ba 80 fd 29 3c 40 77 b6 3c c0 6d 0a 3d 60   d....)<@w.<.m.=`
+0190  48 37 3d e0 06 61 3d 80 78 83 3d 80 2f 94 3d 20   H7=..a=.x.=./.= 
+01a0  5e a2 3d 40 c5 ad 3d f0 31 b6 3d b0 7e bb 3d 80   ^.=@..=.1.=.~.=.
+01b0  93 bd 3d d0 66 bc 3d 00 fe b7 3d 20 6d b0 3d 20   ..=.f.=...= m.= 
+01c0  d6 a5 3d 90 68 98 3d 00 60 88 3d 00 07 6c 3d 60   ..=.h.=.`.=..l=`
+01d0  47 43 3d 20 33 17 3d 80 15 d1 3c 80 66 60 3c 00   GC= 3.=...<.f`<.
+01e0  5c d6 3a 00 4d 2b bc 40 43 b7 bc a0 e4 0a bd 80   \.:.M+.@C.......
+01f0  ce 37 bd 60 9a 61 bd 30 c8 83 bd 20 84 94 bd b0   .7.`.a.0... ....
+0200  b6 a2 bd 90 20 ae bd f0 8e b6 bd 20 dc bb bd 40   .... ...... ...@
+0210  f0 bd bd b0 c1 bc bd f0 55 b8 bd 00 c1 b0 bd f0   ........U.......
+0220  24 a6 bd 40 b1 98 bd b0 a1 88 bd 80 7a 6c bd 40   $..@........zl.@
+0230  a9 43 bd 20 82 17 bd 80 8b d1 bc 00 ff 60 bc 00   .C. .........`..
+0240  70 d8 ba 80 60 2b 3c 00 78 b7 3c 00 14 0b 3d 20   p...`+<.x.<...= 
+0250  12 38 3d 40 f1 61 3d 80 fc 83 3d 50 c0 94 3d b0   .8=@.a=...=P..=.
+0260  f9 a2 3d 20 69 ae 3d a0 db b6 3d 80 2b bc 3d c0   ..= i.=...=.+.=.
+0270  40 be 3d d0 11 bd 3d 00 a4 b8 3d 70 0b b1 3d 30   @.=...=...=p..=0
+0280  6a a6 3d c0 ef 98 3d 10 d8 88 3d 60 d4 6c 3d 40   j.=...=...=`.l=@
+0290  ee 43 3d 40 b0 17 3d 00 b7 d1 3c 00 f1 60 3c 00   .C=@..=...<..`<.
+02a0  c4 d4 3a 00 3f 2c bc 80 1b b8 bc 60 7f 0b bd 00   ..:.?,.....`....
+02b0  96 38 bd 40 8c 62 bd 80 54 84 bd e0 21 95 bd 80   .8.@.b..T...!...
+02c0  63 a3 bd f0 d9 ae bd f0 51 b7 bd e0 a5 bc bd 70   c.......Q......p
+02d0  bd be bd 10 8f bd bd 10 20 b9 bd 70 84 b1 bd 60   ........ ..p...`
+02e0  de a6 bd 60 5d 99 bd 80 3d 89 bd 00 8c 6d bd a0   ...`]...=....m..
+02f0  8f 44 bd 40 39 18 bd 00 94 d2 bc 00 3a 62 bc 00   .D.@9.......:b..
+0300  5c db ba 80 e4 2b 3c 00 2b b8 3c 60 a5 0b 3d a0   \....+<.+.<`..=.
+0310  d9 38 3d 60 ec 62 3d 20 92 84 3d 10 6c 95 3d 10   .8=`.b= ..=.l.=.
+0320  b9 a3 3d 80 39 af 3d 00 ba b7 3d a0 14 bd 3d 20   ..=.9.=...=...= 
+0330  31 bf 3d b0 05 be 3d b0 97 b9 3d 10 fb b1 3d f0   1.=...=...=...=.
+0340  51 a7 3d f0 cb 99 3d 20 a5 89 3d c0 49 6e 3d c0   Q.=...= ..=.In=.
+0350  38 45 3d a0 ca 18 3d 00 82 d3 3c 00 a4 63 3c 00   8E=...=...<..c<.
+0360  e8 e2 3a 00 71 2b bc 80 31 b8 bc e0 c8 0b bd 20   ..:.q+..1...... 
+0370  1d 39 bd 00 4f 63 bd 60 d2 84 bd 50 ba 95 bd 40   .9..Oc.`...P...@
+0380  14 a4 bd 40 a0 af bd e0 2a b8 bd 00 8e bd bd 40   ...@....*......@
+0390  b1 bf bd c0 8a be bd c0 1f ba bd 30 84 b2 bd 20   ...........0... 
+03a0  da a7 bd 40 51 9a bd 90 25 8a bd 20 3d 6f bd 00   ...@Q...%.. =o..
+03b0  1b 46 bd 60 98 19 bd 40 ee d4 bc 00 13 66 bc 00   .F.`...@.....f..
+03c0  c8 f2 ba 80 ef 29 3c 00 b1 b7 3c a0 a9 0b 3d 60   .....)<...<...=`
+03d0  1f 39 3d a0 72 63 3d 90 f4 84 3d 50 ec 95 3d      .9=.rc=...=P..=
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 0.081026300    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 31: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.081026300
+0000  02 00 00 00 45 00 04 fb ac 6c 00 00 80 11 00 00   ....E....l......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 d3 d0   .........V.V....
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 30   ...............0
+0050  55 a4 3d 00 ef af 3d 20 86 b8 3d 20 f4 bd 3d 70   U.=...= ..= ..=p
+0060  20 c0 3d 10 01 bf 3d 00 9b ba 3d 20 02 b3 3d 70    .=...=...= ..=p
+0070  58 a8 3d 80 cd 9a 3d 80 9d 8a 3d 80 1f 70 3d 80   X.=...=...=..p=.
+0080  eb 46 3d c0 52 1a 3d 80 2f d6 3c 80 21 68 3c 00   .F=.R.=./.<.!h<.
+0090  3c ff 3a 00 e9 28 bc 00 75 b7 bc 40 b0 0b bd e0   <.:..(..u..@....
+00a0  4a 39 bd a0 c2 63 bd 50 2e 85 bd f0 36 96 bd a0   J9...c.P....6...
+00b0  af a4 bd e0 57 b0 bd b0 fb b8 bd 90 74 be bd b0   ....W.......t...
+00c0  a9 c0 bd f0 90 bf bd 50 2f bb bd 80 98 b3 bd 90   .......P/.......
+00d0  ee a8 bd 20 61 9b bd 40 2c 8b bd 20 2f 71 bd 20   ... a..@,.. /q. 
+00e0  e9 47 bd a0 3a 1b bd 00 cd d7 bc 80 eb 6a bc 00   .G..:........j..
+00f0  da 08 bb 80 1e 27 3c 40 d5 b6 3c 40 84 0b 3d 40   .....'<@..<@..=@
+0100  43 39 3d 60 df 63 3d 60 4e 85 3d 20 68 96 3d f0   C9=`.c=`N.= h.=.
+0110  f0 a4 3d 20 a8 b0 3d 80 59 b9 3d 50 de be 3d 90   ..= ..=.Y.=P..=.
+0120  1d c1 3d f0 0c c0 3d 40 b1 bb 3d 20 1e b4 3d 80   ..=...=@..= ..=.
+0130  75 a9 3d 00 e7 9b 3d b0 ae 8b 3d 80 28 72 3d a0   u.=...=...=.(r=.
+0140  d2 48 3d 00 10 1c 3d c0 47 d9 3c 80 72 6d 3c 00   .H=...=.G.<.rm<.
+0150  0c 11 3b 00 96 25 bc 40 57 b6 bc a0 69 0b bd 80   ..;..%.@W...i...
+0160  4d 39 bd 60 0e 64 bd 10 78 85 bd 30 a3 96 bd 80   M9.`.d..x..0....
+0170  3c a5 bd f0 02 b1 bd 00 c2 b9 bd c0 52 bf bd f0   <...........R...
+0180  9b c1 bd 20 93 c0 bd f0 3c bc bd 00 ad b4 bd 50   ... ....<......P
+0190  05 aa bd 60 75 9c bd 60 39 8c bd 00 32 73 bd e0   ...`u..`9...2s..
+01a0  cb 49 bd 40 f5 1c bd c0 e2 da bc 80 3d 70 bc 00   .I.@........=p..
+01b0  5e 1a bb 80 c0 23 3c c0 ae b5 3c a0 37 0b 3d 40   ^....#<...<.7.=@
+01c0  3e 39 3d e0 21 64 3d e0 92 85 3d a0 ce 96 3d a0   >9=.!d=...=...=.
+01d0  77 a5 3d 90 4c b1 3d c0 18 ba 3d e0 b4 bf 3d b0   w.=.L.=...=...=.
+01e0  07 c2 3d 80 06 c1 3d f0 b5 bc 3d 80 29 b5 3d 10   ..=...=...=.).=.
+01f0  83 aa 3d 30 f2 9c 3d f0 b2 8c 3d 20 1a 74 3d e0   ..=0..=...= .t=.
+0200  a4 4a 3d e0 ba 1d 3d 40 40 dc 3c 00 90 72 3c 00   .J=...=@@.<..r<.
+0210  dc 21 3b 00 5d 22 bc c0 3e b5 bc c0 21 0b bd 40   .!;.]"..>...!..@
+0220  4b 39 bd a0 51 64 bd b0 bb 85 bd 90 07 97 bd d0   K9..Qd..........
+0230  bf a5 bd b0 a2 b1 bd 40 7b ba bd 20 22 c0 bd c0   .......@{.. "...
+0240  7d c2 bd 30 83 c1 bd e0 36 bd bd 30 ac b5 bd f0   }..0....6..0....
+0250  04 ab bd b0 70 9d bd a0 2b 8d bd 80 fb 74 bd c0   ....p...+....t..
+0260  71 4b bd 80 6f 1e bd c0 71 dd bc 00 78 74 bc 00   qK..o...q...xt..
+0270  68 27 bb 00 87 21 3c 80 1c b5 3c 80 35 0b 3d a0   h'...!<...<.5.=.
+0280  83 39 3d 00 ae 64 3d 40 fb 85 3d b0 57 97 3d 20   .9=..d=@..=.W.= 
+0290  1f a6 3d d0 0f b2 3d 60 f4 ba 3d 30 a5 c0 3d 80   ..=...=`..=0..=.
+02a0  08 c3 3d 50 13 c2 3d 00 ca bd 3d e0 3f b6 3d d0   ..=P..=...=.?.=.
+02b0  96 ab 3d 60 fe 9d 3d e0 b2 8d 3d a0 f8 75 3d 60   ..=`..=...=..u=`
+02c0  59 4c 3d 00 3e 1f 3d c0 d5 de 3c 00 c3 76 3c 00   YL=.>.=...<..v<.
+02d0  7e 2e 3b 00 4d 20 bc 40 c7 b4 bc c0 2e 0b bd 80   ~.;.M .@........
+02e0  a0 39 bd 60 ed 64 bd 50 2b 86 bd f0 96 97 bd 40   .9.`.d.P+......@
+02f0  6c a6 bd 30 69 b2 bd 60 58 bb bd f0 11 c1 bd 10   l..0i..`X.......
+0300  7c c3 bd a0 8b c2 bd 00 45 be bd 60 bb b6 bd 90   |.......E..`....
+0310  10 ac bd 40 74 9e bd c0 22 8e bd 80 c8 76 bd c0   ...@t..."....v..
+0320  15 4d bd 80 e3 1f bd 00 ee df bc 00 84 78 bc 00   .M...........x..
+0330  a6 33 bb 80 7e 1f 3c c0 9e b4 3c 20 3a 0b 3d e0   .3..~.<...< :.=.
+0340  ca 39 3d c0 35 65 3d b0 5d 86 3d 90 d6 97 3d e0   .9=.5e=.].=...=.
+0350  b7 a6 3d 60 bf b2 3d 90 b7 bb 3d 70 78 c1 3d 10   ..=`..=...=px.=.
+0360  e8 c3 3d 40 fb c2 3d 60 b6 be 3d a0 2c b7 3d f0   ..=@..=`..=.,.=.
+0370  7f ac 3d e0 df 9e 3d 00 89 8e 3d 00 87 77 3d a0   ..=...=...=..w=.
+0380  c3 4d 3d 40 7e 20 3d c0 f8 e0 3c 00 3e 7a 3c 00   .M=@~ =...<.>z<.
+0390  0e 39 3b 00 88 1e bc 40 56 b4 bc 40 2f 0b bd e0   .9;....@V..@/...
+03a0  d8 39 bd c0 5b 65 bd 10 7c 86 bd 60 ff 97 bd 20   .9..[e..|..`... 
+03b0  ea a6 bd d0 f9 b2 bd d0 f8 bb bd 10 bf c1 bd 90   ................
+03c0  32 c4 bd 20 48 c3 bd 00 04 bf bd 80 79 b7 bd a0   2.. H.......y...
+03d0  ca ac bd 10 27 9f bd 70 cb 8e bd 40 00 78 bd 40   ....'..p...@.x.@
+03e0  2f 4e bd c0 da 20 bd c0 90 e1 bc 80 27 7b bc 00   /N... ......'{..
+03f0  8a 3b bb 00 36 1e 3c 40 54 b4 3c e0 41 0b 3d 20   .;..6.<@T.<.A.= 
+0400  ff 39 3d 00 95 65 3d a0 a1 86 3d 80 2d 98 3d 60   .9=..e=...=.-.=`
+0410  20 a7 3d 40 36 b3 3d 70 37 bc 3d a0 ff c1 3d 70    .=@6.=p7.=...=p
+0420  77 c4 3d 30 90 c3 3d a0 4d bf 3d c0 c3 b7 3d c0   w.=0..=.M.=...=.
+0430  14 ad 3d 60 6e 9f 3d 50 0a 8f 3d 60 6c 78 3d 80   ..=`n.=P..=`lx=.
+0440  91 4e 3d 80 32 21 3d 40 24 e2 3c 00 0d 7c 3c 00   .N=.2!=@$.<..|<.
+0450  06 3e 3b 00 dd 1d bc c0 4a b4 bc 40 4e 0b bd c0   .>;.....J..@N...
+0460  1c 3a bd c0 c2 65 bd 70 bf 86 bd 60 51 98 bd 10   .:...e.p...`Q...
+0470  4a a7 bd 20 63 b3 bd d0 61 bc bd b0 27 c2 bd 80   J.. c...a...'...
+0480  a1 c4 bd 90 bb c3 bd 90 78 bf bd e0 ed b7 bd 40   ........x......@
+0490  3d ad bd f0 93 9f bd 00 2a 8f bd 80 9f 78 bd 80   =.......*....x..
+04a0  bb 4e bd c0 52 21 bd 00 4f e2 bc 00 38 7c bc 00   .N..R!..O...8|..
+04b0  06 3e bb 00 08 1e 3c c0 75 b4 3c 20 6e 0b 3d 00   .>....<.u.< n.=.
+04c0  46 3a 3d 00 f5 65 3d 20 dd 86 3d 70 73 98 3d f0   F:=..e= ..=ps.=.
+04d0  6f a7 3d 10 8d b3 3d c0 90 bc 3d d0 5a c2 3d c0   o.=...=...=.Z.=.
+04e0  d6 c4 3d 50 f2 c3 3d 90 b0 bf 3d 50 26 b8 3d 90   ..=P..=...=P&.=.
+04f0  75 ad 3d d0 cb 9f 3d c0 61 8f 3d 20 0d 79 3d      u.=...=.a.= .y=
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 0.081222000    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 32: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.081222000
+0000  02 00 00 00 45 00 03 db ac 6d 00 00 80 11 00 00   ....E....m......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 75 88   .........V.V..u.
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 60   ...............`
+0050  24 4f 3d 60 b5 21 3d c0 06 e3 3c 80 89 7d 3c 00   $O=`.!=...<..}<.
+0060  c6 42 3b 00 fd 1c bc 80 03 b4 bc 00 3f 0b bd 60   .B;.........?..`
+0070  21 3a bd c0 da 65 bd 10 d5 86 bd 20 70 98 bd 00   !:...e..... p...
+0080  71 a7 bd b0 92 b3 bd 20 9c bc bd 10 6b c2 bd 90   q...... ....k...
+0090  e9 c4 bd 20 07 c4 bd 10 c7 bf bd d0 3d b8 bd 60   ... ........=..`
+00a0  8d ad bd c0 e3 9f bd 60 7a 8f bd 80 3e 79 bd c0   .......`z...>y..
+00b0  52 4f bd a0 df 21 bd 40 52 e3 bc 80 0b 7e bc 00   RO...!.@R....~..
+00c0  70 44 bb 00 ad 1c 3c 00 ea b3 3c 00 3a 0b 3d 60   pD....<...<.:.=`
+00d0  24 3a 3d 00 e6 65 3d 10 df 86 3d a0 7e 98 3d e0   $:=..e=...=.~.=.
+00e0  83 a7 3d f0 a9 b3 3d 00 b8 bc 3d 40 8b c2 3d 20   ..=...=...=@..= 
+00f0  0d c5 3d b0 2d c4 3d 30 f0 bf 3d 00 69 b8 3d f0   ..=.-.=0..=.i.=.
+0100  b9 ad 3d 40 11 a0 3d 90 a8 8f 3d c0 9a 79 3d e0   ..=@..=...=..y=.
+0110  ac 4f 3d 60 36 22 3d 00 f7 e3 3c 00 3e 7f 3c 00   .O=`6"=...<.>.<.
+0120  d2 48 3b 80 b1 1b bc 00 7c b3 bc 60 0b 0b bd 40   .H;.....|..`...@
+0130  fe 39 bd a0 c8 65 bd 90 d4 86 bd 10 78 98 bd 00   .9...e......x...
+0140  81 a7 bd d0 aa b3 bd 20 bd bc bd f0 93 c2 bd 40   ....... .......@
+0150  18 c5 bd b0 3a c4 bd b0 fe bf bd 70 78 b8 bd d0   ....:......px...
+0160  c9 ad bd 60 21 a0 bd c0 b9 8f bd 20 be 79 bd a0   ...`!...... .y..
+0170  cd 4f bd a0 53 22 bd c0 29 e4 bc 00 93 7f bc 00   .O..S"..).......
+0180  dc 49 bb 00 84 1b 3c 80 70 b3 3c 80 0b 0b 3d a0   .I....<.p.<...=.
+0190  04 3a 3d 60 d5 65 3d 70 de 86 3d 90 85 98 3d f0   .:=`.e=p..=...=.
+01a0  91 a7 3d 80 bf b3 3d 50 d6 bc 3d 50 b1 c2 3d a0   ..=...=P..=P..=.
+01b0  38 c5 3d d0 5d c4 3d 80 24 c0 3d 90 a0 b8 3d d0   8.=.].=.$.=...=.
+01c0  f3 ad 3d 40 4d a0 3d e0 e7 8f 3d c0 1d 7a 3d 20   ..=@M.=...=..z= 
+01d0  2e 50 3d e0 b3 22 3d 80 e8 e4 3c 80 84 80 3c 00   .P=.."=...<...<.
+01e0  88 4f 3b 80 28 1a bc 80 cc b2 bc 40 bf 0a bd c0   .O;.(......@....
+01f0  be 39 bd a0 96 65 bd d0 c2 86 bd c0 6d 98 bd 10   .9...e......m...
+0200  7e a7 bd f0 af b3 bd 20 cc bc bd 30 ac c2 bd 40   ~...... ...0...@
+0210  37 c5 bd e0 5f c4 bd f0 29 c0 bd 00 a9 b8 bd c0   7..._...).......
+0220  fe ad bd a0 5a a0 bd 70 f8 8f bd 20 44 7a bd 40   ....Z..p... Dz.@
+0230  56 50 bd 80 dc 22 bd c0 39 e5 bc 80 d4 80 bc 00   VP..."..9.......
+0240  f0 51 bb 80 98 19 3c 80 8b b2 3c 20 a3 0a 3d 80   .Q....<...< ..=.
+0250  a7 39 3d 40 85 65 3d a0 bd 86 3d 60 6c 98 3d b0   .9=@.e=...=`l.=.
+0260  80 a7 3d 60 b7 b3 3d 40 da bc 3d c0 c0 c2 3d 80   ..=`..=@..=...=.
+0270  50 c5 3d e0 7d c4 3d d0 4c c0 3d 70 d0 b8 3d 70   P.=.}.=.L.=p..=p
+0280  2a ae 3d a0 8a a0 3d 70 2d 90 3d e0 b6 7a 3d 80   *.=...=p-.=..z=.
+0290  ce 50 3d e0 58 23 3d c0 38 e6 3c 40 d7 81 3c 00   .P=.X#=.8.<@..<.
+02a0  0e 5a 3b 00 95 17 bc 40 8e b1 bc 60 28 0a bd e0   .Z;....@...`(...
+02b0  31 39 bd 00 16 65 bd b0 89 86 bd c0 3c 98 bd b0   19...e......<...
+02c0  55 a7 bd 60 91 b3 bd 90 b9 bc bd a0 a5 c2 bd f0   U..`............
+02d0  3a c5 bd e0 6d c4 bd 50 42 c0 bd 50 cb b8 bd 90   :...m..PB..P....
+02e0  2a ae bd a0 8f a0 bd 20 37 90 bd c0 d2 7a bd e0   *...... 7....z..
+02f0  f1 50 bd 00 83 23 bd 80 98 e6 bc 40 40 82 bc 00   .P...#.....@@...
+0300  8e 5d bb 00 ac 16 3c 80 17 b1 3c 00 ed 09 3d c0   .]....<...<...=.
+0310  f7 38 3d 60 de 64 3d e0 6f 86 3d 80 25 98 3d 90   .8=`.d=.o.=.%.=.
+0320  41 a7 3d a0 80 b3 3d 20 ad bc 3d 40 9f c2 3d 20   A.=...= ..=@..= 
+0330  3b c5 3d 70 73 c4 3d 00 4c c0 3d a0 d8 b8 3d c0   ;.=ps.=.L.=...=.
+0340  3b ae 3d 60 a5 a0 3d 50 52 90 3d 20 16 7b 3d e0   ;.=`..=PR.= .{=.
+0350  43 51 3d a0 e4 23 3d c0 7b e7 3c 40 42 83 3c 00   CQ=..#=.{.<@B.<.
+0360  84 66 3b 00 3c 14 bc 00 cb af bc 40 3f 09 bd a0   .f;.<......@?...
+0370  45 38 bd 20 2b 64 bd 40 17 86 bd 70 cf 97 bd c0   E8. +d.@...p....
+0380  ef a6 bd e0 34 b3 bd 30 68 bc bd e0 60 c2 bd 20   ....4..0h...`.. 
+0390  04 c5 bd 10 46 c4 bd 30 2a c0 bd 50 c3 b8 bd c0   ....F..0*..P....
+03a0  32 ae bd d0 a7 a0 bd c0 5e 90 bd 40 3f 7b bd c0   2.......^..@?{..
+03b0  79 51 bd 60 23 24 bd 40 04 e8 bc 40 d0 83 bc 00   yQ.`#$.@...@....
+03c0  f4 6a bb 80 27 13 3c 00 48 af 3c 60 02 09 3d 20   .j..'.<.H.<`..= 
+03d0  0e 38 3d 40 f9 63 3d 40 01 86 3d 60 bc 97 3d      .8=@.c=@..=`..=
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 0.089372600    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 37: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.089372600
+0000  02 00 00 00 45 00 04 fb ac 72 00 00 80 11 00 00   ....E....r......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 6d 10   .........V.V..m.
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 60   ...............`
+0050  df a6 3d f0 26 b3 3d 80 5c bc 3d 40 57 c2 3d 40   ..=.&.=.\.=@W.=@
+0060  fc c4 3d 90 3f c4 3d e0 24 c0 3d e0 be b8 3d 00   ..=.?.=.$.=...=.
+0070  2f ae 3d b0 a4 a0 3d 20 5c 90 3d c0 3a 7b 3d 00   /.=...= \.=.:{=.
+0080  76 51 3d a0 20 24 3d 00 01 e8 3c c0 cf 83 3c 00   vQ=. $=...<...<.
+0090  0e 6b 3b 80 18 13 bc 00 3b af bc e0 f8 08 bd 20   .k;.....;...... 
+00a0  01 38 bd 60 e8 63 bd a0 f6 85 bd 50 af 97 bd c0   .8.`.c.....P....
+00b0  cf a6 bd c0 14 b3 bd b0 47 bc bd d0 3f c2 bd 50   ........G...?..P
+00c0  e2 c4 bd 50 23 c4 bd 90 06 c0 bd d0 9e b8 bd a0   ...P#...........
+00d0  0d ae bd 50 82 a0 bd 30 39 90 bd 00 f5 7a bd 00   ...P...09....z..
+00e0  31 51 bd 60 dd 23 bd 40 80 e7 bc 00 56 83 bc 00   1Q.`.#.@....V...
+00f0  84 67 bb 00 e6 13 3c 80 96 af 3c 60 20 09 3d 20   .g....<...<` .= 
+0100  22 38 3d a0 02 64 3d 50 00 86 3d d0 b5 97 3d 30   "8=..d=P..=...=0
+0110  d3 a6 3d 60 15 b3 3d e0 45 bc 3d 00 3c c2 3d 10   ..=`..=.E.=.<.=.
+0120  dd c4 3d 20 1d c4 3d 20 00 c0 3d b0 98 b8 3d 80   ..= ..= ..=...=.
+0130  08 ae 3d d0 7e a0 3d 00 38 90 3d 80 f8 7a 3d c0   ..=.~.=.8.=..z=.
+0140  3b 51 3d 80 f0 23 3d 40 b9 e7 3c 00 a4 83 3c 00   ;Q=..#=@..<...<.
+0150  a8 6a 3b 00 ee 12 bc 00 02 af bc a0 c9 08 bd e0   .j;.............
+0160  be 37 bd 20 93 63 bd b0 c2 85 bd a0 72 97 bd f0   .7. .c......r...
+0170  8a a6 bd a0 c8 b2 bd 50 f5 bb bd 70 e8 c1 bd 60   .......P...p...`
+0180  87 c4 bd 70 c6 c3 bd 80 a9 bf bd 50 43 b8 bd 70   ...p.......PC..p
+0190  b5 ad bd 60 2f a0 bd 50 ed 8f bd 00 6f 7a bd 40   ...`/..P....oz.@
+01a0  c0 50 bd e0 84 23 bd 40 05 e7 bc 40 16 83 bc 00   .P...#.@...@....
+01b0  7e 67 bb 80 63 13 3c 40 11 af 3c 60 bb 08 3d e0   ~g..c.<@..<`..=.
+01c0  9a 37 3d e0 59 63 3d 00 9c 85 3d 70 42 97 3d 30   .7=.Yc=...=pB.=0
+01d0  52 a6 3d 50 88 b2 3d b0 ae bb 3d c0 9c c1 3d 20   R.=P..=...=...= 
+01e0  38 c4 3d 20 75 c3 3d 90 57 bf 3d 60 f2 b7 3d 30   8.= u.=.W.=`..=0
+01f0  67 ad 3d 40 e5 9f 3d f0 a8 8f 3d 40 f4 79 3d 40   g.=@..=...=@.y=@
+0200  56 50 3d 20 2e 23 3d 00 82 e6 3c 00 c1 82 3c 00   VP= .#=...<...<.
+0210  5a 66 3b 00 47 13 bc c0 ce ae bc c0 7f 08 bd 00   Zf;.G...........
+0220  45 37 bd 60 ea 62 bd f0 57 85 bd d0 f2 96 bd e0   E7.`.b..W.......
+0230  f7 a5 bd 70 24 b2 bd a0 42 bb bd 00 2a c1 bd 60   ...p$...B...*..`
+0240  c0 c3 bd 20 fa c2 bd 50 db be bd e0 76 b7 bd 70   ... ...P....v..p
+0250  ee ac bd 50 71 9f bd c0 3b 8f bd 60 2b 79 bd 80   ...Pq...;..`+y..
+0260  a2 4f bd 00 93 22 bd 40 83 e5 bc c0 fe 81 bc 00   .O...".@........
+0270  50 62 bb 80 c1 13 3c c0 c5 ae 3c a0 57 08 3d a0   Pb....<...<.W.=.
+0280  f9 36 3d 80 7c 62 3d 70 10 85 3d e0 9b 96 3d c0   .6=.|b=p..=...=.
+0290  92 a5 3d d0 b2 b1 3d 50 c6 ba 3d 20 a5 c0 3d 30   ..=...=P..= ..=0
+02a0  35 c3 3d 10 6b c2 3d e0 4a be 3d b0 e7 b6 3d f0   5.=.k.=.J.=...=.
+02b0  62 ac 3d 10 ec 9e 3d 30 bf 8e 3d 00 48 78 3d 20   b.=...=0..=.Hx= 
+02c0  d9 4e 3d 40 e7 21 3d 40 6d e4 3c 40 2f 81 3c 00   .N=@.!=@m.<@/.<.
+02d0  2a 5e 3b 80 2f 14 bc 00 ae ae bc 40 24 08 bd 40   *^;./......@$..@
+02e0  9f 36 bd 80 fc 61 bd a0 be 84 bd 70 39 96 bd 60   .6...a.....p9..`
+02f0  21 a5 bd 50 34 b1 bd c0 3c ba bd d0 12 c0 bd 90   !..P4...<.......
+0300  9c c2 bd b0 ce c1 bd 80 ad bd bd f0 4b b6 bd a0   ............K...
+0310  cb ab bd d0 5b 9e bd a0 38 8e bd 20 53 77 bd 00   ....[...8.. Sw..
+0320  01 4e bd c0 2f 21 bd c0 46 e3 bc 00 57 80 bc 00   .N../!..F...W...
+0330  fe 59 bb 00 8f 14 3c 40 86 ae 3c 80 e4 07 3d 60   .Y....<@..<...=`
+0340  34 36 3d 00 68 61 3d a0 60 84 3d 30 c9 95 3d d0   46=.ha=.`.=0..=.
+0350  a0 a4 3d 80 a5 b0 3d 30 a2 b9 3d 30 6f bf 3d b0   ..=...=0..=0o.=.
+0360  f2 c1 3d 90 21 c1 3d 00 00 bd 3d 30 a1 b5 3d 90   ..=.!.=...=0..=.
+0370  26 ab 3d 50 bf 9d 3d 50 a7 8d 3d 40 4c 76 3d 40   &.=P..=P..=@Lv=@
+0380  1a 4d 3d 80 6d 20 3d 00 12 e2 3c 80 f0 7e 3c 00   .M=.m =...<..~<.
+0390  da 55 3b 00 de 14 bc 40 4f ae bc 00 9a 07 bd 80   .U;....@O.......
+03a0  bb 35 bd 80 c2 60 bd d0 f8 83 bd e0 4d 95 bd d0   .5...`......M...
+03b0  13 a4 bd 20 09 b0 bd e0 f8 b8 bd b0 bb be bd d0   ... ............
+03c0  37 c1 bd 80 62 c0 bd 00 40 bc bd 60 e3 b4 bd 30   7...b...@..`...0
+03d0  6e aa bd a0 0f 9d bd 60 03 8d bd c0 21 75 bd c0   n......`....!u..
+03e0  12 4c bd a0 8d 1f bd c0 aa e0 bc 80 e1 7c bc 00   .L...........|..
+03f0  cc 50 bb 80 4d 15 3c 80 1a ae 3c 20 49 07 3d e0   .P..M.<...< I.=.
+0400  34 35 3d e0 07 60 3d c0 82 83 3d e0 c0 94 3d 20   45=..`=...=...= 
+0410  72 a3 3d 50 55 af 3d f0 35 b8 3d d0 ec bd 3d c0   r.=PU.=.5.=...=.
+0420  60 c0 3d e0 86 bf 3d b0 63 bb 3d 70 0a b4 3d 80   `.=...=.c.=p..=.
+0430  9c a9 3d 00 49 9c 3d 90 4b 8c 3d 80 d6 73 3d 00   ..=.I.=.K.=..s=.
+0440  f2 4a 3d 00 9d 1e 3d c0 32 df 3c 00 d3 7a 3c 00   .J=...=.2.<..z<.
+0450  42 4c 3b 80 7c 15 bc 40 b7 ad bc 40 da 06 bd 40   BL;.|..@...@...@
+0460  8a 34 bd a0 23 5f bd 90 f5 82 bd c0 1a 94 bd 90   .4..#_..........
+0470  b5 a2 bd 60 85 ae bd f0 55 b7 bd 80 00 bd bd f0   ...`....U.......
+0480  6b bf bd c0 8d be bd 70 6a ba bd 40 15 b3 bd a0   k......pj..@....
+0490  af a8 bd 80 68 9b bd 40 7b 8b bd 80 5d 72 bd 20   ....h..@{...]r. 
+04a0  a7 49 bd 20 86 1d bd 00 77 dd bc 80 4f 78 bc 00   .I. ....w...Ox..
+04b0  36 46 bb 80 f8 15 3c c0 6f ad 3c 20 74 06 3d 20   6F....<.o.< t.= 
+04c0  e3 33 3d 40 3e 5e 3d 70 65 82 3d a0 6f 93 3d 60   .3=@>^=pe.=.o.=`
+04d0  f2 a1 3d 60 ad ad 3d d0 6c b6 3d 40 0a bc 3d f0   ..=`..=.l.=@..=.
+04e0  6c be 3d 70 8a bd 3d 60 67 b9 3d 00 17 b2 3d c0   l.=p..=`g.=...=.
+04f0  ba a7 3d 50 81 9a 3d e0 a5 8a 3d 00 de 70 3d      ..=P..=...=..p=
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 0.089537900    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 38: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.089537900
+0000  02 00 00 00 45 00 03 db ac 73 00 00 80 11 00 00   ....E....s......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 eb 24   .........V.V...$
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 20   ............... 
+0050  5a 48 3d c0 71 1c 3d 00 ca db 3c 00 fe 75 3c 00   ZH=.q.=...<..u<.
+0060  44 41 3b 80 17 16 bc 40 ef ac bc a0 ec 05 bd 60   DA;....@.......`
+0070  16 33 bd 60 2f 5d bd 30 bf 81 bd 60 ad 92 bd 60   .3.`/].0...`...`
+0080  17 a1 bd 60 bd ac bd 00 6c b5 bd 10 fd ba bd 00   ...`....l.......
+0090  58 bd bd 90 72 bc bd 70 51 b8 bd f0 07 b1 bd 60   X...r..pQ......`
+00a0  b7 a6 bd 40 8e 99 bd a0 c7 89 bd 20 53 6f bd 40   ...@....... So.@
+00b0  08 47 bd 20 5f 1b bd c0 2d da bc 80 e7 73 bc 00   .G. _...-....s..
+00c0  9c 3d bb 00 cf 15 3c 80 31 ac 3c 20 42 05 3d e0   .=....<.1.< B.=.
+00d0  22 32 3d a0 f6 5b 3d e0 02 81 3d 40 d4 91 3d 20   "2=..[=...=@..= 
+00e0  25 a0 3d 30 b6 ab 3d 60 54 b4 3d e0 d9 b9 3d 60   %.=0..=`T.=...=`
+00f0  2e bc 3d c0 47 bb 3d d0 2a b7 3d b0 ea af 3d a0   ..=.G.=.*.=...=.
+0100  a8 a5 3d f0 92 98 3d 20 e4 88 3d 40 c4 6d 3d a0   ..=...= ..=@.m=.
+0110  b8 45 3d 20 55 1a 3d 40 af d8 3c 00 26 72 3c 00   .E= U.=@..<.&r<.
+0120  ae 3b 3b 00 00 15 bc 40 25 ab bc 40 6b 04 bd 60   .;;....@%..@k..`
+0130  fe 30 bd 00 89 5a bd 60 2a 80 bd 80 dd 90 bd 30   .0...Z.`*......0
+0140  14 9f bd b0 8f aa bd 60 1d b3 bd c0 97 b8 bd c0   .......`........
+0150  e6 ba bd 70 00 ba bd 90 e9 b5 bd 50 b5 ae bd 80   ...p.......P....
+0160  84 a4 bd 50 85 97 bd f0 f1 87 bd 80 1f 6c bd 40   ...P.........l.@
+0170  5b 44 bd c0 45 19 bd 80 36 d7 bc 00 8e 70 bc 00   [D..E...6....p..
+0180  d4 3a bb 00 d3 13 3c 00 df a9 3c 00 73 03 3d e0   .:....<...<.s.=.
+0190  b4 2f 3d e0 f3 58 3d c0 7a 7e 3d 30 d2 8f 3d 40   ./=..X=.z~=0..=@
+01a0  ef 9d 3d 30 56 a9 3d c0 d4 b1 3d c0 45 b7 3d 40   ..=0V.=...=.E.=@
+01b0  91 b9 3d 60 ad b8 3d d0 9e b4 3d 80 78 ad 3d 30   ..=`..=...=.x.=0
+01c0  5b a3 3d a0 74 96 3d 80 fe 86 3d 80 7b 6a 3d 00   [.=.t.=...=.{j=.
+01d0  01 43 3d 00 3b 18 3d 00 c9 d5 3c 80 0e 6f 3c 00   .C=.;.=...<..o<.
+01e0  5c 3a 3b 80 8f 12 bc 80 8f a8 bc 40 77 02 bd c0   \:;........@w...
+01f0  69 2e bd 00 5f 57 bd 40 a3 7c bd 30 c9 8e bd 90   i..._W.@.|.0....
+0200  cd 9c bd e0 20 a8 bd 40 91 b0 bd 90 f9 b5 bd 20   .... ..@....... 
+0210  42 b8 bd 20 61 b7 bd 40 5b b3 bd 60 43 ac bd e0   B.. a..@[..`C...
+0220  39 a2 bd 30 6c 95 bd 90 13 86 bd c0 e8 68 bd a0   9..0l........h..
+0230  b8 41 bd c0 42 17 bd 80 81 d4 bc 80 dd 6d bc 00   .A..B........m..
+0240  28 3b bb 80 f9 10 3c c0 16 a7 3c 60 67 01 3d 20   (;....<...<`g.= 
+0250  0b 2d 3d e0 b7 55 3d 20 bb 7a 3d e0 b8 8d 3d d0   .-=..U= .z=...=.
+0260  a5 9b 3d c0 e6 a6 3d 30 4a af 3d 50 ab b4 3d 90   ..=...=0J.=P..=.
+0270  f2 b6 3d f0 15 b6 3d 40 1a b2 3d f0 11 ab 3d 40   ..=...=@..=...=@
+0280  1d a1 3d 30 69 94 3d a0 2e 85 3d 80 62 67 3d a0   ..=0i.=...=.bg=.
+0290  7c 40 3d 00 56 16 3d 00 4e d3 3c 00 cc 6c 3c 00   |@=.V.=.N.<..l<.
+02a0  42 3c 3b 00 5e 0f bc 80 a2 a5 bc c0 5d 00 bd e0   B<;.^.......]...
+02b0  b6 2b bd 40 1f 54 bd 80 e5 78 bd d0 b3 8c bd 20   .+.@.T...x..... 
+02c0  8b 9a bd a0 bb a5 bd 00 14 ae bd b0 6f b3 bd 10   ............o...
+02d0  b7 b5 bd 50 e0 b4 bd 00 f0 b0 bd 90 f8 a9 bd d0   ...P............
+02e0  19 a0 bd 70 80 93 bd d0 64 84 bd 60 14 66 bd 00   ...p....d..`.f..
+02f0  7a 3f bd 20 a4 15 bd c0 92 d2 bc 80 af 6c bc 00   z?. .........l..
+0300  44 41 bb 00 c3 0c 3c 40 ac a3 3c 80 23 fe 3c 20   DA....<@..<.#.< 
+0310  1f 2a 3d 00 42 52 3d 60 ca 76 3d c0 8b 8b 3d 60   .*=.BR=`.v=...=`
+0320  4d 99 3d 70 6d a4 3d f0 ba ac 3d 80 11 b2 3d c0   M.=pm.=...=...=.
+0330  59 b4 3d c0 89 b3 3d 00 a6 af 3d b0 c0 a8 3d 50   Y.=...=...=...=P
+0340  f9 9e 3d 20 7c 92 3d 20 81 83 3d e0 95 64 3d e0   ..= |.= ..=..d=.
+0350  4a 3e 3d 20 c9 14 3d 80 8c d1 3c 80 09 6c 3c 00   J>= ..=...<..l<.
+0360  4e 44 3b 00 9d 0a bc 00 ed a1 bc 80 c0 fb bc 60   ND;............`
+0370  a1 28 bd 40 7f 50 bd c0 ca 74 bd 20 72 8a bd 10   .(.@.P...t. r...
+0380  1f 98 bd d0 2f a3 bd b0 73 ab bd 80 c6 b0 bd d0   ..../...s.......
+0390  10 b3 bd c0 48 b2 bd a0 72 ae bd 60 a0 a7 bd 30   ....H...r..`...0
+03a0  f1 9d bd e0 90 91 bd f0 b6 82 bd c0 4a 63 bd 20   ............Jc. 
+03b0  4f 3d bd 80 21 14 bd c0 eb d0 bc 80 2c 6c bc 00   O=..!.......,l..
+03c0  6e 4a bb 00 b5 07 3c 40 ce 9f 3c 80 ff f8 3c 20   nJ....<@..<...< 
+03d0  f5 26 3d 00 8e 4e 3d a0 9c 72 3d 10 41 89 3d      .&=..N=..r=.A.=
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 0.097611000    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 39: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.097611000
+0000  02 00 00 00 45 00 04 fb ac 74 00 00 80 11 00 00   ....E....t......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 ea ab   .........V.V....
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 10   ................
+0050  d9 96 3d 50 da a1 3d 40 14 aa 3d f0 62 af 3d 00   ..=P..=@..=.b.=.
+0060  af b1 3d 90 ee b0 3d e0 25 ad 3d 90 66 a6 3d 90   ..=...=.%.=.f.=.
+0070  cf 9c 3d 30 8c 90 3d 60 d3 81 3d 40 cd 61 3d 20   ..=0..=`..=@.a= 
+0080  21 3c 3d c0 47 13 3d c0 e7 cf 3c 80 8a 6b 3c 00   !<=.G.=...<..k<.
+0090  88 4d 3b 80 8a 05 bc 80 0c 9e bc 00 99 f6 bc 20   .M;............ 
+00a0  75 25 bd 20 c8 4c bd c0 98 70 bd d0 24 88 bd 60   u%. .L...p..$..`
+00b0  a7 95 bd 90 98 a0 bd 30 c8 a8 bd 70 12 ae bd 10   .......0...p....
+00c0  60 b0 bd 20 a7 af bd c0 eb ab bd 40 3f a5 bd 30   `.. .......@?..0
+00d0  c0 9b bd 80 99 8f bd a0 01 81 bd 00 73 60 bd 40   ............s`.@
+00e0  16 3b bd 20 91 12 bd 40 29 cf bc 00 73 6b bc 00   .;. ...@)...sk..
+00f0  c6 52 bb 00 d9 02 3c 80 07 9c 3c 00 f0 f3 3c c0   .R....<...<...<.
+0100  d3 23 3d 40 e0 4a 3d 20 72 6e 3d 70 f6 86 3d d0   .#=@.J= rn=p..=.
+0110  62 94 3d f0 42 9f 3d 10 67 a7 3d 80 ab ac 3d 10   b.=.B.=.g.=...=.
+0120  f9 ae 3d f0 45 ae 3d f0 95 aa 3d 40 fa a3 3d 40   ..=.E.=...=@..=@
+0130  91 9a 3d 80 85 8e 3d e0 0c 80 3d 00 d0 5e 3d 40   ..=...=...=..^=@
+0140  c0 39 3d 40 8d 11 3d 40 cd cd 3c 00 1b 6a 3c 00   .9=@..=@..<..j<.
+0150  f0 52 3b 00 6e 01 bc c0 a6 9a bc 00 eb f1 bc 40   .R;.n..........@
+0160  84 22 bd 20 4a 49 bd 20 9d 6c bd f0 f0 85 bd 30   .". JI. .l.....0
+0170  47 93 bd 90 16 9e bd 40 2f a6 bd e0 6d ab bd 40   G......@/...m..@
+0180  bb ad bd 80 0d ad bd 60 68 a9 bd f0 dc a2 bd 30   .......`h......0
+0190  89 99 bd 30 97 8d bd c0 78 7e bd 60 71 5d bd a0   ...0....x~.`q]..
+01a0  a9 38 bd 20 c3 10 bd 80 d8 cc bc 80 78 69 bc 00   .8. ........xi..
+01b0  8a 55 bb 00 04 ff 3b 40 12 99 3c 40 bf ef 3c a0   .U....;@..<@..<.
+01c0  27 21 3d c0 ac 47 3d c0 c5 6a 3d 00 ec 84 3d 30   '!=..G=..j=...=0
+01d0  2d 92 3d e0 eb 9c 3d c0 f8 a4 3d 80 30 aa 3d 20   -.=...=...=.0.= 
+01e0  7c ac 3d c0 d1 ab 3d f0 34 a8 3d 90 b6 a1 3d 60   |.=...=.4.=...=`
+01f0  74 98 3d 30 98 8c 3d 60 ae 7c 3d 80 e1 5b 3d 40   t.=0..=`.|=..[=@
+0200  5a 37 3d 20 b9 0f 3d 40 56 cb 3c 80 a1 67 3c 00   Z7= ..=@V.<..g<.
+0210  f4 52 3b 00 ed fd bb 80 36 98 bc c0 52 ee bc a0   .R;.....6...R...
+0220  2c 20 bd c0 71 46 bd c0 50 69 bd 00 18 84 bd b0   , ..qF..Pi......
+0230  43 91 bd 30 f1 9b bd 80 f1 a3 bd 80 21 a9 bd 50   C..0........!..P
+0240  6a ab bd 00 c2 aa bd 30 2c a7 bd b0 b9 a0 bd f0   j......0,.......
+0250  87 97 bd 60 c0 8b bd 80 2f 7b bd 40 9a 5a bd c0   ...`..../{.@.Z..
+0260  50 36 bd 40 f2 0e bd c0 55 ca bc 00 c5 66 bc 00   P6.@....U....f..
+0270  2e 54 bb 00 f9 fa 3b 00 e6 96 3c 80 73 ec 3c 40   .T....;...<.s.<@
+0280  f9 1e 3d 60 ff 44 3d 20 a5 67 3d 00 29 83 3d 40   ..=`.D= .g=.).=@
+0290  3f 90 3d 70 db 9a 3d e0 ce a2 3d a0 f6 a7 3d f0   ?.=p..=...=...=.
+02a0  3b aa 3d f0 94 a9 3d 30 05 a6 3d 60 9d 9f 3d d0   ;.=...=0..=`..=.
+02b0  7a 96 3d c0 c6 8a 3d 40 6b 79 3d 40 0c 59 3d 40   z.=...=@ky=@.Y=@
+02c0  ff 34 3d 40 e2 0d 3d 00 c1 c8 3c 80 be 64 3c 00   .4=@..=...<..d<.
+02d0  bc 50 3b 00 5b fa bb 00 2a 96 bc 00 27 eb bc 00   .P;.[...*...'...
+02e0  0e 1e bd a0 d3 43 bd 60 3e 66 bd 60 5b 82 bd 10   .....C.`>f.`[...
+02f0  5b 8f bd e0 e4 99 bd 50 ca a1 bd a0 e8 a6 bd 60   [......P.......`
+0300  29 a9 bd a0 82 a8 bd 20 f8 a4 bd 50 9a 9e bd 60   )...... ...P...`
+0310  86 95 bd 50 e5 89 bd 40 d6 77 bd 20 ac 57 bd 40   ...P...@.w. .W.@
+0320  da 33 bd a0 fd 0c bd 80 80 c7 bc 00 5a 63 bc 00   .3..........Zc..
+0330  b8 4f bb 00 91 f8 3b 00 26 95 3c 00 95 e9 3c e0   .O....;.&.<...<.
+0340  00 1d 3d 60 86 42 3d 00 b6 64 3d a0 7c 81 3d 30   ..=`.B=..d=.|.=0
+0350  65 8e 3d c0 db 98 3d 20 b2 a0 3d e0 c5 a5 3d b0   e.=...= ..=...=.
+0360  00 a8 3d f0 58 a7 3d 30 d2 a3 3d f0 7c 9d 3d 20   ..=.X.=0..=.|.= 
+0370  76 94 3d 80 e6 88 3d c0 03 76 3d 00 0c 56 3d c0   v.=...=..v=..V=.
+0380  72 32 3d 60 d4 0b 3d 40 b3 c5 3c 00 d7 60 3c 00   r2=`..=@..<..`<.
+0390  2e 4a 3b 00 0e f9 bb 80 b4 94 bc c0 95 e8 bc 40   .J;............@
+03a0  3d 1c bd c0 82 41 bd 80 77 63 bd 00 c3 80 bd c0   =....A..wc......
+03b0  94 8d bd 50 f8 97 bd d0 bf 9f bd 20 c9 a4 bd 20   ...P....... ... 
+03c0  fe a6 bd 10 55 a6 bd a0 d1 a2 bd 30 84 9c bd 90   ....U......0....
+03d0  89 93 bd 40 0a 88 bd 80 73 74 bd 00 ab 54 bd 60   ...@....st...T.`
+03e0  47 31 bd a0 e3 0a bd 00 50 c4 bc 80 1a 5f bc 00   G1......P...._..
+03f0  82 47 bb 00 39 f8 3b c0 f4 93 3c 40 4e e7 3c 60   .G..9.;...<@N.<`
+0400  58 1b 3d 60 60 40 3d 80 1c 62 3d 20 f8 7f 3d b0   X.=``@=..b= ..=.
+0410  b7 8c 3d d0 08 97 3d e0 c1 9e 3d 00 c1 a3 3d 10   ..=...=...=...=.
+0420  f0 a5 3d a0 45 a5 3d 40 c5 a1 3d 50 7f 9b 3d 70   ..=.E.=@..=P..=p
+0430  90 92 3d f0 20 87 3d 00 c8 72 3d 80 2d 53 3d a0   ..=. .=..r=.-S=.
+0440  fd 2f 3d e0 d2 09 3d 40 a8 c2 3c 80 c9 5c 3c 00   ./=...=@..<..\<.
+0450  54 42 3b 00 c2 f8 bb c0 94 93 bc c0 6f e6 bc a0   TB;.........o...
+0460  ac 1a bd 20 7c 3f bd a0 04 61 bd 80 b2 7e bd 30   ... |?...a...~.0
+0470  01 8c bd 40 42 96 bd 30 ef 9d bd 30 e6 a2 bd 50   ...@B..0...0...P
+0480  11 a5 bd 00 67 a4 bd f0 ea a0 bd 40 ad 9a bd 60   ....g......@...`
+0490  ca 91 bd 70 6a 86 bd a0 80 71 bd 80 11 52 bd 20   ...pj....q...R. 
+04a0  12 2f bd 00 1c 09 bd 00 aa c1 bc 00 b6 5b bc 00   ./...........[..
+04b0  be 41 bb 00 2d f7 3b c0 b8 92 3c 80 20 e5 3c e0   .A..-.;...<. .<.
+04c0  cd 19 3d e0 69 3e 3d 60 c3 5f 3d 20 47 7d 3d 80   ..=.i>=`._= G}=.
+04d0  39 8b 3d d0 6b 95 3d 80 0d 9d 3d f0 fc a1 3d 50   9.=.k.=...=...=P
+04e0  24 a4 3d 40 7a a3 3d 30 02 a0 3d 40 cc 99 3d b0   $.=@z.=0..=@..=.
+04f0  f4 90 3d 80 a3 85 3d 40 16 70 3d 40 d0 50 3d      ..=...=@.p=@.P=
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 0.097779500    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 40: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.097779500
+0000  02 00 00 00 45 00 03 db ac 75 00 00 80 11 00 00   ....E....u......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 3b 9c   .........V.V..;.
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 80   ................
+0050  fe 2d 3d c0 39 08 3d c0 4e c0 3c 80 d8 59 3c 00   .-=.9.=.N.<..Y<.
+0060  c0 3d 3b 00 70 f7 bb 80 5c 92 bc 00 5b e4 bc 20   .=;.p...\...[.. 
+0070  39 19 bd c0 a6 3d bd 20 d6 5e bd 00 35 7c bd c0   9....=. .^..5|..
+0080  a0 8a bd 60 c6 94 bd 90 5e 9c bd e0 47 a1 bd 80   ...`....^...G...
+0090  6c a3 bd 00 c3 a2 bd e0 4e 9f bd 20 20 99 bd c0   l.......N..  ...
+00a0  52 90 bd 90 0e 85 bd 80 0b 6f bd 00 e9 4f bd c0   R........o...O..
+00b0  3e 2d bd c0 a4 07 bd 80 7e bf bc 00 f3 58 bc 00   >-......~....X..
+00c0  20 3d bb 00 45 f6 3b 40 b4 91 3c 00 58 e3 3c c0    =..E.;@..<.X.<.
+00d0  8c 18 3d 40 d2 3c 3d 00 dd 5d 3d 60 1b 7b 3d 00   ..=@.<=..]=`.{=.
+00e0  06 8a 3d 30 20 94 3d b0 af 9b 3d 20 93 a0 3d c0   ..=0 .=...= ..=.
+00f0  b4 a2 3d 30 0b a2 3d 00 9a 9e 3d f0 70 98 3d 20   ..=0..=...=.p.= 
+0100  ac 8f 3d f0 72 84 3d 20 ef 6d 3d c0 eb 4e 3d 60   ..=.r.= .m=..N=`
+0110  64 2c 3d 20 f0 06 3d 80 65 be 3c 80 67 57 3c 00   d,= ..=.e.<.gW<.
+0120  98 39 3b 00 b4 f6 bb c0 7c 91 bc c0 cf e2 bc 80   .9;.....|.......
+0130  22 18 bd a0 44 3c bd a0 2f 5d bd 20 52 7a bd a0   "...D<../]. Rz..
+0140  95 89 bd 80 a6 93 bd 20 2f 9b bd 50 0e a0 bd 50   ....... /..P...P
+0150  2e a2 bd d0 85 a1 bd 10 18 9e bd 00 f5 97 bd 70   ...............p
+0160  38 8f bd a0 09 84 bd e0 34 6d bd 20 4d 4e bd e0   8.......4m. MN..
+0170  e3 2b bd e0 8f 06 bd 80 e8 bd bc 00 f8 56 bc 00   .+...........V..
+0180  08 3a bb 00 69 f5 3b c0 e6 90 3c 00 fa e1 3c a0   .:..i.;...<...<.
+0190  99 17 3d 80 a0 3b 3d 00 73 5c 3d 80 80 79 3d 30   ..=..;=.s\=..y=0
+01a0  24 89 3d 70 2e 93 3d 80 b2 9a 3d 30 8f 9f 3d e0   $.=p..=...=0..=.
+01b0  ae a1 3d 20 08 a1 3d 50 9e 9d 3d 20 81 97 3d 30   ..= ..=P..= ..=0
+01c0  cc 8e 3d b0 a6 83 3d a0 84 6c 3d 00 b5 4d 3d 00   ..=...=..l=..M=.
+01d0  66 2b 3d c0 2d 06 3d 80 5d bd 3c 00 57 56 3c 00   f+=.-.=.].<.WV<.
+01e0  58 39 3b 00 dc f4 bb 80 8c 90 bc c0 6b e1 bc 80   X9;.........k...
+01f0  3a 17 bd e0 2b 3b bd c0 eb 5b bd a0 e9 78 bd b0   :...+;...[...x..
+0200  d2 88 bd 90 d8 92 bd 00 5a 9a bd f0 35 9f bd a0   ........Z...5...
+0210  56 a1 bd a0 b2 a0 bd 20 4d 9d bd c0 35 97 bd 10   V...... M...5...
+0220  88 8e bd 00 6b 83 bd 20 20 6c bd 00 65 4d bd a0   ....k..  l..eM..
+0230  2b 2b bd c0 09 06 bd 40 43 bd bc 00 7d 56 bc 00   ++.....@C...}V..
+0240  52 3b bb 00 34 f3 3b 40 fa 8f 3c 80 b4 e0 3c 60   R;..4.;@..<...<`
+0250  ce 16 3d 20 b1 3a 3d c0 64 5b 3d 00 59 78 3d c0   ..= .:=.d[=.Yx=.
+0260  86 88 3d 70 8a 92 3d 10 0b 9a 3d 90 e7 9e 3d 20   ..=p..=...=...= 
+0270  0a a1 3d 40 69 a0 3d 20 08 9d 3d 40 f6 96 3d 10   ..=@i.= ..=@..=.
+0280  4f 8e 3d 60 39 83 3d 40 cd 6b 3d a0 23 4d 3d a0   O.=`9.=@.k=.#M=.
+0290  fc 2a 3d e0 ed 05 3d c0 31 bd 3c 00 a6 56 3c 00   .*=...=.1.<..V<.
+02a0  1e 3d 3b 00 c3 f1 bb 00 7d 8f bc 80 18 e0 bc 80   .=;.....}.......
+02b0  73 16 bd a0 4c 3a bd 00 f9 5a bd 80 e7 77 bd d0   s...L:...Z...w..
+02c0  4b 88 bd a0 4d 92 bd 10 cd 99 bd f0 a8 9e bd e0   K...M...........
+02d0  cb a0 bd 70 2c a0 bd 00 ce 9c bd 10 c0 96 bd 10   ...p,...........
+02e0  1e 8e bd f0 0e 83 bd 60 87 6b bd c0 ee 4c bd 20   .......`.k...L. 
+02f0  da 2a bd a0 de 05 bd 80 3a bd bc 00 05 57 bc 00   .*......:....W..
+0300  c6 3f bb 00 e3 ef 3b c0 e5 8e 3c 00 67 df 3c 60   .?....;...<.g.<`
+0310  0f 16 3d a0 de 39 3d e0 83 5a 3d 00 6f 77 3d f0   ..=..9=..Z=.ow=.
+0320  0f 88 3d 90 14 92 3d e0 98 99 3d 80 7b 9e 3d a0   ..=...=...=.{.=.
+0330  a6 a0 3d 60 10 a0 3d b0 bb 9c 3d c0 b7 96 3d 70   ..=`..=...=...=p
+0340  1f 8e 3d 60 19 83 3d c0 ac 6b 3d 60 22 4d 3d 80   ..=`..=..k=`"M=.
+0350  19 2b 3d e0 26 06 3d 00 d7 bd 3c 00 4a 58 3c 00   .+=.&.=...<.JX<.
+0360  d6 44 3b 00 73 ed bb 00 56 8e bc 80 e8 de bc 00   .D;.s...V.......
+0370  db 15 bd 40 b7 39 bd e0 6a 5a bd c0 65 77 bd 90   ...@.9..jZ..ew..
+0380  13 88 bd 90 20 92 bd 30 ad 99 bd d0 97 9e bd 80   .... ..0........
+0390  ca a0 bd 20 3b a0 bd 60 ec 9c bd 30 ed 96 bd 90   ... ;..`...0....
+03a0  58 8e bd e0 54 83 bd c0 25 6c bd 80 9a 4d bd c0   X...T...%l...M..
+03b0  8d 2b bd 60 94 06 bd 40 9f be bc 00 aa 59 bc 00   .+.`...@.....Y..
+03c0  6e 49 bb 00 ad eb 3b 40 09 8e 3c 00 c4 de 3c 00   nI....;@..<...<.
+03d0  de 15 3d 60 d0 39 3d a0 9a 5a 3d 20 ac 77 3d      ..=`.9=..Z= .w=
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 0.109617900    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 45: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.109617900
+0000  02 00 00 00 45 00 04 fb ac 7a 00 00 80 11 00 00   ....E....z......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 d0 50   .........V.V...P
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 f0   ................
+0050  41 88 3d c0 59 92 3d b0 f0 99 3d e0 e4 9e 3d 30   A.=.Y.=...=...=0
+0060  20 a1 3d 60 98 a0 3d 00 50 9d 3d 00 56 97 3d 20    .=`..=.P.=.V.= 
+0070  c5 8e 3d a0 c3 83 3d e0 04 6d 3d 00 78 4e 3d a0   ..=...=..m=.xN=.
+0080  66 2c 3d a0 65 07 3d 40 2c c0 3c 00 8e 5c 3c 00   f,=.e.=@,.<..\<.
+0090  fc 53 3b 00 f9 e6 bb 80 05 8d bc 00 ed dd bc 60   .S;............`
+00a0  8a 15 bd a0 95 39 bd 80 79 5a bd a0 a4 77 bd e0   .....9..yZ...w..
+00b0  4a 88 bd 00 6f 92 bd a0 11 9a bd c0 10 9f bd e0   J...o...........
+00c0  55 a1 bd c0 d6 a0 bd b0 95 9d bd 60 a1 97 bd a0   U..........`....
+00d0  14 8f bd 90 15 84 bd e0 a9 6d bd a0 1a 4f bd 60   .........m...O.`
+00e0  03 2d bd e0 f8 07 bd 40 39 c1 bc 80 68 5e bc 00   .-.....@9...h^..
+00f0  3c 5a bb 00 82 e4 3b 00 96 8c 3c c0 ae dd 3c 20   <Z....;...<...< 
+0100  85 15 3d e0 aa 39 3d 60 a9 5a 3d c0 ee 77 3d c0   ..=..9=`.Z=..w=.
+0110  7c 88 3d f0 ac 92 3d d0 5a 9a 3d 10 64 9f 3d 30   |.=...=.Z.=.d.=0
+0120  b2 a1 3d 80 3a a1 3d 60 ff 9d 3d 50 0f 98 3d 00   ..=.:.=`..=P..=.
+0130  85 8f 3d a0 86 84 3d a0 89 6e 3d 60 f4 4f 3d 80   ..=...=..n=`.O=.
+0140  d3 2d 3d 00 bc 08 3d 00 9f c2 3c 00 e7 60 3c 00   .-=...=...<..`<.
+0150  d8 62 3b 00 f5 e0 bb 00 e7 8b bc 00 37 dd bc c0   .b;.........7...
+0160  65 15 bd 60 a8 39 bd c0 c3 5a bd a0 25 78 bd c0   e..`.9...Z..%x..
+0170  a5 88 bd c0 e2 92 bd 40 9c 9a bd e0 af 9f bd d0   .......@........
+0180  06 a2 bd 50 96 a1 bd 70 60 9e bd b0 73 98 bd b0   ...P...p`...s...
+0190  ea 8f bd 60 eb 84 bd 40 4d 6f bd e0 ad 50 bd 20   ...`...@Mo...P. 
+01a0  7f 2e bd e0 55 09 bd c0 a8 c3 bc 00 9a 62 bc 00   ....U........b..
+01b0  fa 67 bb 00 4c df 3b c0 b9 8b 3c 80 48 dd 3c 80   .g..L.;...<.H.<.
+01c0  8e 15 3d e0 f0 39 3d 80 2b 5b 3d 00 ab 78 3d 60   ..=..9=.+[=..x=`
+01d0  f6 88 3d 10 40 93 3d e0 04 9b 3d 20 22 a0 3d d0   ..=.@.=...= ".=.
+01e0  80 a2 3d 10 16 a2 3d d0 e3 9e 3d 90 f8 98 3d d0   ..=...=...=...=.
+01f0  6e 90 3d a0 6c 85 3d a0 45 70 3d 60 98 51 3d a0   n.=.l.=.Ep=`.Q=.
+0200  57 2f 3d 00 19 0a 3d 80 fd c4 3c 80 d6 64 3c 00   W/=...=...<..d<.
+0210  10 6f 3b 00 bb dc bb c0 56 8b bc 80 28 dd bc 00   .o;.....V...(...
+0220  a0 15 bd c0 23 3a bd 80 7e 5b bd c0 1c 79 bd a0   ....#:..~[...y..
+0230  3d 89 bd 70 94 93 bd d0 64 9b bd e0 8b a0 bd 80   =..p....d.......
+0240  f2 a2 bd 90 8d a2 bd f0 5e 9f bd f0 74 99 bd 20   ........^...t.. 
+0250  ea 90 bd 80 e4 85 bd c0 29 71 bd 00 6c 52 bd 60   ........)q..lR.`
+0260  16 30 bd e0 be 0a bd 40 10 c6 bc 80 7c 66 bc 00   .0.....@....|f..
+0270  7e 73 bb 00 ac db 3b 80 5f 8b 3c 80 7f dd 3c a0   ~s....;._.<...<.
+0280  f2 15 3d e0 9c 3a 3d c0 1c 5c 3d 00 de 79 3d 50   ..=..:=..\=..y=P
+0290  ae 89 3d 90 13 94 3d 50 f0 9b 3d b0 21 a1 3d 40   ..=...=P..=.!.=@
+02a0  90 a3 3d b0 30 a3 3d d0 04 a0 3d e0 1a 9a 3d 60   ..=.0.=...=...=`
+02b0  8d 91 3d 60 82 86 3d a0 55 72 3d 40 83 53 3d 60   ..=`..=.Ur=@.S=`
+02c0  14 31 3d 80 9f 0b 3d 40 8f c7 3c 80 e9 68 3c 00   .1=...=@..<..h<.
+02d0  c8 7a 3b 00 4a d9 bb c0 1a 8b bc 80 8f dd bc 20   .z;.J.......... 
+02e0  25 16 bd e0 f8 3a bd c0 a0 5c bd e0 87 7a bd b0   %....:...\...z..
+02f0  14 8a bd 80 89 94 bd d0 73 9c bd 50 b0 a1 bd 40   ........s..P...@
+0300  27 a4 bd 60 cd a3 bd 40 a4 a0 bd 10 ba 9a bd 50   '..`...@.......P
+0310  29 92 bd 10 18 87 bd a0 6e 73 bd 60 84 54 bd a0   ).......ns.`.T..
+0320  f8 31 bd 20 62 0c bd 40 c9 c8 bc 80 b9 6a bc 00   .1. b..@.....j..
+0330  4a 7f bb 00 79 d8 3b 80 44 8b 3c 80 18 de 3c a0   J...y.;.D.<...<.
+0340  98 16 3d 20 9a 3b 3d a0 6d 5d 3d 60 7d 7b 3d e0   ..= .;=.m]=`}{=.
+0350  a1 8a 3d e0 26 95 3d e0 1e 9d 3d 30 66 a2 3d f0   ..=.&.=...=0f.=.
+0360  e4 a4 3d b0 8f a4 3d f0 67 a1 3d d0 7b 9b 3d f0   ..=...=.g.=.{.=.
+0370  e5 92 3d 70 cc 87 3d 40 c1 74 3d 40 bb 55 3d e0   ..=p..=@.t=@.U=.
+0380  0e 33 3d 60 53 0d 3d 40 5a ca 3c 80 2c 6d 3c 00   .3=`S.=@Z.<.,m<.
+0390  1b 83 3b 00 7e d6 bb 40 26 8b bc 00 5a de bc 40   ..;.~..@&...Z..@
+03a0  e8 16 bd e0 16 3c bd e0 14 5e bd 00 4c 7c bd f0   .....<...^..L|..
+03b0  1a 8b bd 80 af 95 bd 80 b4 9d bd 40 06 a3 bd 90   ...........@....
+03c0  8c a5 bd c0 3b a5 bd 50 15 a2 bd 60 27 9c bd 60   ....;..P...`'..`
+03d0  8c 93 bd b0 6a 88 bd 20 e7 75 bd e0 c4 56 bd c0   ....j.. .u...V..
+03e0  f6 33 bd e0 14 0e bd 40 88 cb bc 00 d1 6e bc 00   .3.....@.....n..
+03f0  e1 84 bb 00 47 d6 3b 80 7d 8b 3c 00 16 df 3c 80   ....G.;.}.<...<.
+0400  77 17 3d 60 d5 3c 3d 00 00 5f 3d e0 5f 7d 3d 10   w.=`.<=.._=._}=.
+0410  b7 8b 3d 60 5b 96 3d 40 6d 9e 3d d0 c8 a3 3d b0   ..=`[.=@m.=...=.
+0420  55 a6 3d 20 08 a6 3d a0 e1 a2 3d 30 f0 9c 3d 70   U.= ..=...=0..=p
+0430  4e 94 3d d0 22 89 3d 80 3d 77 3d c0 fb 57 3d 20   N.=.".=.=w=..W= 
+0440  09 35 3d 60 fe 0e 3d 40 02 cd 3c 00 07 71 3c 00   .5=`..=@..<..q<.
+0450  c2 87 3b 00 fe d4 bb c0 91 8b bc 40 90 df bc 60   ..;........@...`
+0460  e6 17 bd e0 73 3d bd 20 cb 5f bd 00 54 7e bd 60   ....s=. ._..T~.`
+0470  43 8c bd 60 f7 96 bd 20 16 9f bd 60 7b a4 bd b0   C..`... ...`{...
+0480  0e a7 bd 20 c4 a6 bd 30 9d a3 bd e0 a7 9d bd f0   ... ...0........
+0490  fe 94 bd 00 c9 89 bd 60 6f 78 bd a0 0d 59 bd 40   .......`ox...Y.@
+04a0  f6 35 bd 60 c2 0f bd 80 30 ce bc 00 a5 72 bc 00   .5.`....0....r..
+04b0  6e 89 bb 00 eb d4 3b 80 f4 8b 3c 80 59 e0 3c 20   n.....;...<.Y.< 
+04c0  7d 18 3d c0 3a 3e 3d 40 bf 60 3d a0 71 7f 3d c0   }.=.:>=@.`=.q.=.
+04d0  e4 8c 3d b0 a8 97 3d a0 d4 9f 3d 10 44 a5 3d 70   ..=...=...=.D.=p
+04e0  de a7 3d d0 97 a7 3d 70 71 a4 3d 60 79 9e 3d 60   ..=...=pq.=`y.=`
+04f0  ca 95 3d 30 8b 8a 3d 20 db 79 3d 20 5b 5a 3d      ..=0..= .y= [Z=
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 0.109788600    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 46: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.109788600
+0000  02 00 00 00 45 00 03 db ac 7b 00 00 80 11 00 00   ....E....{......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 2c dd   .........V.V..,.
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 a0   ................
+0050  20 37 3d 40 c5 10 3d c0 df cf 3c 00 4a 75 3c 00    7=@..=...<.Ju<.
+0060  32 8d 3b 00 b9 d2 bb 00 ce 8b bc 80 98 e0 bc 40   2.;............@
+0070  ce 18 bd a0 bb 3e bd 20 6d 61 bd a0 24 80 bd 90   .....>. ma..$...
+0080  63 8d bd 40 38 98 bd 60 72 a0 bd 30 ed a5 bd f0   c..@8..`r..0....
+0090  8f a8 bd 70 4e a8 bd d0 29 a5 bd 40 30 9f bd 80   ...pN...)..@0...
+00a0  7c 96 bd 80 35 8b bd 00 1a 7b bd e0 7e 5b bd e0   |...5....{..~[..
+00b0  23 38 bd 40 a3 11 bd 80 49 d1 bc 80 6b 77 bc 00   #8.@....I...kw..
+00c0  ff 8f bb 00 71 d1 3b 40 df 8b 3c 00 0d e1 3c c0   ....q.;@..<...<.
+00d0  39 19 3d 20 57 3f 3d 80 36 62 3d c0 9e 80 3d 40   9.= W?=.6b=...=@
+00e0  f1 8d 3d 50 d7 98 3d 50 20 a1 3d 50 a7 a6 3d 30   ..=P..=P .=P..=0
+00f0  53 a9 3d d0 17 a9 3d 30 f6 a5 3d 80 fc 9f 3d 60   S.=...=0..=...=`
+0100  45 97 3d b0 f7 8b 3d 20 8b 7c 3d c0 d6 5c 3d 20   E.=...= .|=..\= 
+0110  5d 39 3d 20 b9 12 3d c0 25 d3 3c 00 77 7a 3c 00   ]9= ..=.%.<.wz<.
+0120  a3 94 3b 00 51 ce bb 40 7b 8b bc c0 0e e1 bc 60   ..;.Q..@{......`
+0130  6d 19 bd 40 bc 3f bd 80 cb 62 bd d0 ff 80 bd 10   m..@.?...b......
+0140  67 8e bd c0 5f 99 bd f0 b8 a1 bd 50 4d a7 bd a0   g..._......PM...
+0150  03 aa bd 60 cf a9 bd 80 b1 a6 bd 10 b8 a0 bd a0   ...`............
+0160  fd 97 bd 40 a9 8c bd e0 d9 7d bd c0 0a 5e bd 60   ...@.....}...^.`
+0170  70 3a bd 00 a6 13 bd 40 a9 d4 bc 00 c1 7c bc 00   p:.....@.....|..
+0180  a3 97 bb 00 fa cc 3b 80 92 8b 3c 00 94 e1 3c 60   ......;...<...<`
+0190  e6 19 3d 40 6a 40 3d e0 ab 63 3d 80 87 81 3d 30   ..=@j@=..c=...=0
+01a0  04 8f 3d d0 0f 9a 3d 20 79 a2 3d 70 1a a8 3d 60   ..=...= y.=p..=`
+01b0  da aa 3d 30 ac aa 3d c0 90 a7 3d 00 96 a1 3d b0   ..=0..=...=...=.
+01c0  d6 98 3d e0 79 8d 3d 60 63 7f 3d 20 76 5f 3d c0   ..=.y.=`c.= v_=.
+01d0  b7 3b 3d e0 c3 14 3d 40 88 d6 3c 80 b5 7f 3c 00   .;=...=@..<...<.
+01e0  e0 9b 3b 00 7a ca bb 80 64 8b bc c0 d8 e1 bc 80   ..;.z...d.......
+01f0  41 1a bd c0 fc 40 bd 20 73 64 bd e0 03 82 bd 20   A....@. sd..... 
+0200  97 8f bd e0 b6 9a bd 50 31 a3 bd b0 e0 a8 bd 40   .......P1......@
+0210  ab ab bd 20 84 ab bd 00 6c a8 bd d0 70 a2 bd 30   ... ....l...p..0
+0220  ad 99 bd 50 48 8e bd 70 74 80 bd 40 dd 60 bd 00   ...PH..pt..@.`..
+0230  fa 3c bd 60 db 15 bd c0 57 d8 bc 00 42 81 bc 00   .<.`....W...B...
+0240  bf 9f bb 00 6d c8 3b 00 59 8b 3c 00 46 e2 3c 20   ....m.;.Y.<.F.< 
+0250  b4 1a 3d a0 a9 41 3d 00 58 65 3d 70 90 82 3d a0   ..=..A=.Xe=p..=.
+0260  3b 90 3d 90 70 9b 3d 30 fd a3 3d 60 bb a9 3d 10   ;.=.p.=0..=`..=.
+0270  91 ac 3d 30 71 ac 3d 50 5c a9 3d 60 60 a3 3d 10   ..=0q.=P\.=``.=.
+0280  98 9a 3d 90 2a 8f 3d 70 4a 81 3d 00 6a 62 3d 20   ..=.*.=pJ.=.jb= 
+0290  61 3e 3d 60 17 17 3d c0 6f da 3c 00 f2 82 3c 00   a>=`..=.o.<...<.
+02a0  c5 a4 3b 00 32 c5 bb 80 ff 8a bc 80 62 e2 bc c0   ..;.2.......b...
+02b0  fc 1a bd 20 2b 42 bd 80 0f 66 bd 90 05 83 bd e0   ... +B...f......
+02c0  c7 90 bd 50 11 9c bd 70 af a4 bd e0 7b aa bd 60   ...P...p....{..`
+02d0  5c ad bd 90 43 ad bd 10 32 aa bd 70 35 a4 bd c0   \...C...2..p5...
+02e0  68 9b bd 00 f3 8f bd 00 07 82 bd 40 c4 63 bd 20   h..........@.c. 
+02f0  96 3f bd 60 21 18 bd c0 23 dc bc 40 3d 84 bc 00   .?.`!...#..@=...
+0300  37 a8 bb 00 90 c3 3b 40 0d 8b 3c 80 e7 e2 3c e0   7.....;@..<...<.
+0310  79 1b 3d 20 e1 42 3d a0 fb 66 3d b0 94 83 3d c0   y.= .B=..f=...=.
+0320  6d 91 3d 20 cb 9c 3d 10 7a a5 3d e0 53 ab 3d 00   m.= ..=.z.=.S.=.
+0330  3e ae 3d 00 2b ae 3d 40 1b ab 3d 90 1c a5 3d b0   >.=.+.=@..=...=.
+0340  49 9c 3d f0 c9 90 3d 40 d0 82 3d a0 34 65 3d 40   I.=...=@..=.4e=@
+0350  de 40 3d c0 3b 19 3d 80 f3 dd 3c c0 a0 85 3c 00   .@=.;.=...<...<.
+0360  fd ab 3b 00 a0 c1 bb 80 08 8b bc 00 59 e3 bc c0   ..;.........Y...
+0370  ec 1b bd a0 8b 43 bd 60 da 67 bd 30 1c 84 bd d0   .....C.`.g.0....
+0380  0a 92 bd f0 7a 9d bd 70 39 a6 bd 30 1f ac bd 90   ....z..p9..0....
+0390  11 af bd e0 02 af bd 70 f3 ab bd 10 f1 a5 bd b0   .......p........
+03a0  16 9d bd c0 8b 91 bd 60 83 83 bd 20 77 66 bd 20   .......`... wf. 
+03b0  f7 41 bd e0 25 1a bd c0 61 df bc 40 a2 86 bc 00   .A..%...a..@....
+03c0  3b ae bb 00 34 c1 3b 80 63 8b 3c 00 29 e4 3c c0   ;...4.;.c.<.).<.
+03d0  8d 1c 3d 40 63 44 3d 80 e5 68 3d 50 b9 84 3d      ..=@cD=..h=P..=
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 0.117653200    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 47: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.117653200
+0000  02 00 00 00 45 00 04 fb ac 7c 00 00 80 11 00 00   ....E....|......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 41 7b   .........V.V..A{
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 f0   ................
+0050  bc 92 3d 10 3f 9e 3d 40 0c a7 3d 20 fd ac 3d b0   ..=.?.=@..= ..=.
+0060  f6 af 3d 60 eb af 3d 50 db ac 3d 50 d4 a6 3d 60   ..=`..=P..=P..=`
+0070  f1 9d 3d 10 5a 92 3d e0 41 84 3d e0 cd 67 3d c0   ..=.Z.=.A.=..g=.
+0080  21 43 3d 80 1f 1b 3d 00 eb e0 3c 00 bb 87 3c 00   !C=...=...<...<.
+0090  cc b0 3b 00 80 c0 bb 40 ad 8b bc c0 e7 e4 bc 80   ..;....@........
+00a0  25 1d bd 60 30 45 bd e0 e3 69 bd a0 4e 85 bd 90   %..`0E...i..N...
+00b0  65 93 bd b0 f7 9e bd 70 d1 a7 bd 20 cb ad bd e0   e......p... ....
+00c0  c9 b0 bd c0 bf b0 bd 00 ad ad bd 70 9f a7 bd 20   ...........p... 
+00d0  b2 9e bd f0 0c 93 bd 80 e3 84 bd 80 e8 68 bd a0   .............h..
+00e0  0e 44 bd 40 da 1b bd c0 f4 e1 bc 00 54 88 bc 00   .D.@........T...
+00f0  5e b1 bb 00 c4 c1 3b 80 73 8c 3c 40 20 e6 3c 80   ^.....;.s.<@ .<.
+0100  f8 1d 3d c0 36 46 3d 20 19 6b 3d 20 fe 85 3d e0   ..=.6F= .k= ..=.
+0110  26 94 3d a0 c7 9f 3d 60 ac a8 3d 60 ad ae 3d 50   &.=...=`..=`..=P
+0120  af b1 3d 50 a4 b1 3d 90 8c ae 3d 00 76 a8 3d e0   ..=P..=...=.v.=.
+0130  7b 9f 3d 40 c6 93 3d f0 88 85 3d e0 05 6a 3d 20   {.=@..=...=..j= 
+0140  f9 44 3d 20 8d 1c 3d 80 e4 e2 3c 00 c9 88 3c 00   .D= ..=...<...<.
+0150  3d b1 3b 00 db c3 bb 40 74 8d bc 00 98 e7 bc a0   =.;....@t.......
+0160  ec 1e bd c0 5e 47 bd e0 6f 6c bd c0 bd 86 bd 50   ....^G..ol.....P
+0170  f7 94 bd 10 a5 a0 bd d0 92 a9 bd 90 98 af bd 00   ................
+0180  9b b2 bd 40 8c b2 bd 90 6c af bd 10 4a a9 bd 20   ...@....l...J.. 
+0190  40 a0 bd 20 77 94 bd 40 23 86 bd c0 07 6b bd a0   @.. w..@#....k..
+01a0  c3 45 bd e0 1c 1d bd 40 89 e3 bc 00 f0 88 bc 00   .E.....@........
+01b0  e0 af bb 00 2b c7 3b 00 c2 8e 3c 80 59 e9 3c 80   ....+.;...<.Y.<.
+01c0  03 20 3d 20 a7 48 3d 20 e4 6d 3d b0 8a 87 3d 90   . = .H= .m=...=.
+01d0  d3 95 3d e0 8c a1 3d 10 82 aa 3d 30 8b b0 3d d0   ..=...=...=0..=.
+01e0  8c b3 3d 10 79 b3 3d 60 50 b0 3d f0 20 aa 3d 80   ..=.y.=`P.=. .=.
+01f0  06 a1 3d c0 29 95 3d 40 bf 86 3d 80 0d 6c 3d 20   ..=.).=@..=..l= 
+0200  93 46 3d e0 b2 1d 3d 40 3e e4 3c 80 2b 89 3c 00   .F=...=@>.<.+.<.
+0210  e8 ae 3b 00 01 ca bb c0 ea 8f bc 80 ef ea bc 00   ..;.............
+0220  01 21 bd 40 d2 49 bd 00 37 6f bd d0 44 88 bd c0   .!.@.I..7o..D...
+0230  9a 96 bd 70 5d a2 bd 20 58 ab bd d0 62 b1 bd 00   ...p].. X...b...
+0240  62 b4 bd e0 47 b4 bd 10 15 b1 bd 00 d8 aa bd b0   b...G...........
+0250  ac a1 bd 10 bc 95 bd 30 3b 87 bd 60 d4 6c bd a0   .......0;..`.l..
+0260  25 47 bd a0 0e 1e bd c0 85 e4 bc 40 02 89 bc 00   %G.........@....
+0270  86 ac bb 00 13 ce 3b c0 55 91 3c c0 b9 ec 3c 60   ......;.U.<...<`
+0280  11 22 3d a0 08 4b 3d a0 8d 70 3d f0 fc 88 3d 70   ."=..K=..p=...=p
+0290  5c 97 3d 00 25 a3 3d 00 22 ac 3d 40 2b b2 3d 80   \.=.%.=.".=@+.=.
+02a0  25 b5 3d f0 02 b5 3d 40 c4 b1 3d 30 78 ab 3d 10   %.=...=@..=0x.=.
+02b0  3b a2 3d 20 36 96 3d d0 9e 87 3d 60 6b 6d 3d 00   ;.= 6.=...=`km=.
+02c0  8a 47 3d 20 3f 1e 3d 80 7d e4 3c c0 91 88 3c 00   .G= ?.=.}.<...<.
+02d0  30 a9 3b 00 eb d2 bb 80 e5 92 bc c0 9b ee bc a0   0.;.............
+02e0  26 23 bd e0 3c 4c bd 20 db 71 bd 60 ad 89 bd 40   &#..<L. .q.`...@
+02f0  13 98 bd f0 de a3 bd c0 db ac bd 70 e1 b2 bd c0   ...........p....
+0300  d4 b5 bd 20 a8 b5 bd 80 5c b2 bd d0 00 ac bd a0   ... ....\.......
+0310  b1 a2 bd 90 98 96 bd 70 eb 87 bd 60 d6 6d bd e0   .......p...`.m..
+0320  c4 47 bd c0 48 1e bd 40 2e e4 bc c0 e1 87 bc 00   .G..H..@........
+0330  f8 a4 bb 00 86 d8 3b c0 9e 94 3c 00 9f f0 3c e0   ......;...<...<.
+0340  48 24 3d 40 7a 4d 3d 00 2e 73 3d 60 5e 8a 3d 90   H$=@zM=..s=`^.=.
+0350  c8 98 3d 20 95 a4 3d 70 8f ad 3d 60 8f b3 3d a0   ..= ..=p..=`..=.
+0360  79 b6 3d f0 40 b6 3d 50 e6 b2 3d 00 79 ac 3d 10   y.=.@.=P..=.y.=.
+0370  16 a3 3d 70 e7 96 3d 60 23 88 3d 60 16 6e 3d e0   ..=p..=`#.=`.n=.
+0380  d3 47 3d c0 26 1e 3d c0 89 e3 3c 80 df 86 3c 00   .G=.&.=...<...<.
+0390  8c 9f 3b 00 3c df bb c0 96 96 bc 00 d9 f2 bc a0   ..;.<...........
+03a0  81 25 bd 60 c9 4e bd 60 8d 74 bd 30 13 8b bd 70   .%.`.N.`.t.0...p
+03b0  7f 99 bd f0 4a a5 bd 30 41 ae bd 10 3a b4 bd a0   ....J..0A...:...
+03c0  1a b7 bd a0 d5 b6 bd 80 6c b3 bd c0 ee ac bd a0   ........l.......
+03d0  79 a3 bd 80 37 97 bd f0 5e 88 bd 40 63 6e bd 00   y...7...^..@cn..
+03e0  f6 47 bd 20 1e 1e bd c0 24 e3 bc c0 2a 86 bc 00   .G. ....$...*...
+03f0  8a 9b bb 00 55 e4 3b 00 1c 98 3c 40 95 f4 3c e0   ....U.;...<@..<.
+0400  76 26 3d 00 d1 4f 3d a0 a2 75 3d e0 a1 8b 3d 90   v&=..O=..u=...=.
+0410  0f 9a 3d c0 d9 a5 3d 00 cc ae 3d 40 be b4 3d b0   ..=...=...=@..=.
+0420  95 b7 3d 50 45 b7 3d b0 ce b3 3d 90 41 ad 3d 90   ..=PE.=...=.A.=.
+0430  bb a3 3d 50 67 97 3d b0 7b 88 3d 80 75 6e 3d 80   ..=Pg.=.{.=.un=.
+0440  e0 47 3d 60 e1 1d 3d 80 5e e2 3c c0 1a 85 3c 00   .G=`..=.^.<...<.
+0450  37 96 3b 00 a5 ea bb 80 e8 99 bc 40 92 f6 bc 60   7.;........@...`
+0460  89 27 bd 20 f3 50 bd 40 cf 76 bd 20 3b 8c bd 10   .'. .P.@.v. ;...
+0470  a9 9a bd 40 71 a6 bd e0 5e af bd 40 4a b5 bd a0   ...@q...^..@J...
+0480  18 b8 bd 10 bd b7 bd 80 39 b4 bd e0 9d ad bd f0   ........9.......
+0490  07 a4 bd c0 a2 97 bd 60 a5 88 bd a0 a4 6e bd 40   .......`.....n.@
+04a0  eb 47 bd 20 c8 1d bd 40 e6 e1 bc c0 5f 84 bc 00   .G. ...@...._...
+04b0  52 92 bb 00 6d ef 3b c0 4c 9b 3c 80 21 f8 3c 80   R...m.;.L.<.!.<.
+04c0  62 28 3d 20 d9 51 3d e0 bd 77 3d 40 b4 8c 3d a0   b(= .Q=..w=@..=.
+04d0  21 9b 3d b0 e6 a6 3d f0 ce af 3d 90 b2 b5 3d 10   !.=...=...=...=.
+04e0  77 b8 3d a0 0f b8 3d 60 7e b4 3d 80 d3 ad 3d 10   w.=...=`~.=...=.
+04f0  2d a4 3d 60 b6 97 3d f0 a6 88 3d e0 82 6e 3d      -.=`..=...=..n=
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 0.117828300    127.0.0.1             127.255.255.255       UDP      991    58710 → 58710 Len=959
+
+Frame 48: Packet, 991 bytes on wire (7928 bits), 991 bytes captured (7928 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (959 bytes)
+
+0.117828300
+0000  02 00 00 00 45 00 03 db ac 7d 00 00 80 11 00 00   ....E....}......
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 03 c7 e8 89   .........V.V....
+0020  4d 52 53 52 bf 03 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 90 03 e0   ................
+0050  a4 47 3d a0 5d 1d 3d 00 cc e0 3c c0 04 83 3c 00   .G=.].=...<...<.
+0060  f8 8b 3b 00 9b f6 bb c0 45 9d bc c0 3f fa bc e0   ..;.....E...?...
+0070  7f 29 bd 00 00 53 bd 40 e9 78 bd c0 49 8d bd 90   .)...S.@.x..I...
+0080  b4 9b bd b0 74 a7 bd c0 55 b0 bd 20 30 b6 bd 70   ....t...U.. 0..p
+0090  e9 b8 bd 40 75 b8 bd c0 d5 b4 bd 90 1b ae bd 00   ...@u...........
+00a0  65 a4 bd a0 dd 97 bd 40 bd 88 bd 00 8e 6e bd 00   e......@.....n..
+00b0  8f 47 bd 40 28 1d bd 00 26 e0 bc 00 28 82 bc 00   .G.@(...&...(...
+00c0  c1 87 bb 00 7d fb 3b 80 a1 9e 3c 80 b7 fb 3c 80   ....}.;...<...<.
+00d0  45 2a 3d 80 cb 53 3d 60 b6 79 3d 00 af 8d 3d 70   E*=..S=`.y=...=p
+00e0  16 9c 3d 40 d1 a7 3d 10 ab b0 3d 80 7c b6 3d 40   ..=@..=...=.|.=@
+00f0  2b b9 3d 20 ab b8 3d 90 fe b4 3d 50 36 ae 3d 00   +.= ..=...=P6.=.
+0100  71 a4 3d 80 da 97 3d d0 aa 88 3d c0 4a 6e 3d 20   q.=...=...=.Jn= 
+0110  2e 47 3d 20 ab 1c 3d c0 f6 de 3c 80 c8 80 3c 00   .G= ..=...<...<.
+0120  96 81 3b 80 1d 01 bc c0 6f a0 bc 00 9d fd bc 40   ..;.....o......@
+0130  40 2b bd 40 ca 54 bd 40 b5 7a bd a0 2c 8e bd 60   @+.@.T.@.z..,..`
+0140  90 9c bd a0 45 a8 bd 40 18 b1 bd f0 e0 b6 bd a0   ....E..@........
+0150  85 b9 bd 40 fa b8 bd 90 41 b5 bd 90 6c ae bd 20   ...@....A...l.. 
+0160  9a a4 bd 40 f6 97 bd 50 b9 88 bd c0 4d 6e bd 80   ...@...P....Mn..
+0170  18 47 bd 40 7e 1c bd 80 72 de bc 00 1e 80 bc 00   .G.@~...r.......
+0180  d4 7c bb 80 ea 02 3c 80 6b a1 3c 80 a7 fe 3c a0   .|....<.k.<...<.
+0190  c9 2b 3d 80 54 55 3d 00 3d 7b 3d b0 6d 8e 3d 10   .+=.TU=.={=.m.=.
+01a0  cd 9c 3d 90 7c a8 3d 30 48 b1 3d b0 08 b7 3d 30   ..=.|.=0H.=...=0
+01b0  a4 b9 3d e0 0e b9 3d 90 4b b5 3d 70 6b ae 3d b0   ..=...=.K.=pk.=.
+01c0  8d a4 3d 90 de 97 3d 90 96 88 3d 00 f3 6d 3d a0   ..=...=...=..m=.
+01d0  a9 46 3d 00 fd 1b 3d c0 4e dd 3c 00 bc 7d 3c 00   .F=...=.N.<..}<.
+01e0  16 72 3b 80 bd 05 bc 00 e1 a2 bc a0 11 00 bd a0   .r;.............
+01f0  87 2c bd 80 0f 56 bd 40 f2 7b bd 00 c4 8e bd c0   .,...V.@.{......
+0200  1d 9d bd 70 c6 a8 bd 20 8a b1 bd e0 41 b7 bd 00   ...p... ....A...
+0210  d4 b9 bd b0 34 b9 bd 30 67 b5 bd e0 7c ae bd 10   ....4..0g...|...
+0220  95 a4 bd f0 db 97 bd b0 8a 88 bd c0 cb 6d bd 80   .............m..
+0230  74 46 bd 00 ba 1b bd c0 ad dc bc 00 4b 7c bc 00   tF..........K|..
+0240  c4 6b bb 80 66 07 3c 80 b7 a3 3c a0 79 00 3d 60   .k..f.<...<.y.=`
+0250  e8 2c 3d 80 65 56 3d 60 3a 7c 3d e0 df 8e 3d 90   .,=.eV=`:|=...=.
+0260  30 9d 3d 90 cf a8 3d 30 89 b1 3d d0 36 b7 3d 00   0.=...=0..=.6.=.
+0270  bf b9 3d 30 16 b9 3d b0 3f b5 3d 20 4d ae 3d f0   ..=0..=.?.= M.=.
+0280  5d a4 3d b0 9e 97 3d 30 48 88 3d e0 3c 6d 3d 20   ].=...=0H.=.<m= 
+0290  de 45 3d 80 20 1b 3d 00 7d db 3c 00 fa 79 3c 00   .E=. .=.}.<..y<.
+02a0  e2 62 3b 80 83 09 bc 40 b7 a4 bc 00 f2 00 bd 20   .b;....@....... 
+02b0  59 2d bd c0 ce 56 bd c0 9b 7c bd 80 0c 8f bd d0   Y-...V...|......
+02c0  58 9d bd 20 f3 a8 bd d0 a7 b1 bd 10 50 b7 bd 90   X.. ........P...
+02d0  d2 b9 bd d0 23 b9 bd 30 47 b5 bd 60 4e ae bd e0   ....#..0G..`N...
+02e0  58 a4 bd 50 93 97 bd b0 36 88 bd 00 0e 6d bd 40   X..P....6....m.@
+02f0  a4 45 bd 80 dc 1a bd 00 e3 da bc 00 a6 78 bc 00   .E...........x..
+0300  2c 5d bb 80 03 0b 3c 80 7d a5 3c 40 56 01 3d c0   ,]....<.}.<@V.=.
+0310  bc 2d 3d 80 2f 57 3d c0 f7 7c 3d 00 37 8f 3d f0   .-=./W=..|=.7.=.
+0320  7e 9d 3d f0 13 a9 3d 70 c2 b1 3d c0 63 b7 3d a0   ~.=...=p..=.c.=.
+0330  de b9 3d a0 27 b9 3d 60 42 b5 3d 90 40 ae 3d f0   ..=.'.=`B.=.@.=.
+0340  41 a4 3d 40 73 97 3d a0 0d 88 3d a0 aa 6c 3d 80   A.=@s.=...=..l=.
+0350  30 45 3d 60 59 1a 3d 80 c1 d9 3c 80 33 76 3c 00   0E=`Y.=...<.3v<.
+0360  be 52 3b 80 bf 0d bc 00 e7 a6 bc a0 0e 02 bd 40   .R;............@
+0370  76 2e bd e0 e7 57 bd a0 ac 7d bd b0 8e 8f bd c0   v....W...}......
+0380  d2 9d bd f0 62 a9 bd c0 0b b2 bd b0 a6 b7 bd 70   ....b..........p
+0390  1a ba bd e0 5b b9 bd 90 6e b5 bd 80 64 ae bd 70   ....[...n...d..p
+03a0  5d a4 bd 60 86 97 bd 90 18 88 bd 80 b0 6c bd 60   ]..`.........l.`
+03b0  27 45 bd 40 42 1a bd 80 79 d9 bc 00 76 75 bc 00   'E.@B...y...vu..
+03c0  2e 4f bb 00 c3 0e 3c c0 74 a7 3c 80 59 02 3d e0   .O....<.t.<.Y.=.
+03d0  c2 2e 3d 20 34 58 3d 60 f6 7d 3d 40 b1 8f 3d      ..= 4X=`.}=@..=
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 0.139728500    127.0.0.1             127.255.255.255       UDP      1279   58710 → 58710 Len=1247
+
+Frame 53: Packet, 1279 bytes on wire (10232 bits), 1279 bytes captured (10232 bits) on interface \Device\NPF_Loopback, id 0
+Null/Loopback
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.255.255.255
+User Datagram Protocol, Src Port: 58710, Dst Port: 58710
+Data (1247 bytes)
+
+0.139728500
+0000  02 00 00 00 45 00 04 fb ac 82 00 00 80 11 00 00   ....E...........
+0010  7f 00 00 01 7f ff ff ff e5 56 e5 56 04 e7 0b e0   .........V.V....
+0020  4d 52 53 52 df 04 00 00 41 50 4f 5f 4d 49 43 5f   MRSR....APO_MIC_
+0030  46 58 00 00 00 00 00 00 00 00 00 00 00 00 00 00   FX..............
+0040  00 00 00 00 00 00 00 00 01 80 bb 00 00 b0 04 e0   ................
+0050  f1 9d 3d b0 7d a9 3d 30 21 b2 3d f0 b5 b7 3d c0   ..=.}.=0!.=...=.
+0060  22 ba 3d a0 5c b9 3d 50 67 b5 3d c0 54 ae 3d 00   ".=.\.=Pg.=.T.=.
+0070  45 a4 3d 20 65 97 3d 90 ee 87 3d a0 4b 6c 3d 20   E.= e.=...=.Kl= 
+0080  b2 44 3d e0 bd 19 3d c0 54 d8 3c 80 fb 72 3c 00   .D=...=.T.<..r<.
+0090  9e 44 3b 00 89 11 bc 40 e4 a8 bc 00 15 03 bd 00   .D;....@........
+00a0  80 2f bd 60 f0 58 bd 60 af 7e bd f0 0a 90 bd b0   ./.`.X.`.~......
+00b0  47 9e bd 80 ce a9 bd 10 6c b2 bd f0 f9 b7 bd 20   G.......l...... 
+00c0  5f ba bd b0 90 b9 bd 80 92 b5 bd d0 76 ae bd b0   _...........v...
+00d0  5d a4 bd 60 74 97 bd 60 f4 87 bd e0 44 6c bd a0   ]..`t..`....Dl..
+00e0  99 44 bd a0 94 19 bd 80 e3 d7 bc 80 e0 71 bc 00   .D...........q..
+00f0  6a 3f bb 80 ff 12 3c 40 b0 a9 3c 40 81 03 3d 00   j?....<@..<@..=.
+0100  f0 2f 3d a0 61 59 3d 60 1f 7f 3d 00 41 90 3d 80   ./=.aY=`..=.A.=.
+0110  7a 9e 3d d0 fc a9 3d 90 94 b2 3d 90 1b b8 3d d0   z.=...=...=...=.
+0120  78 ba 3d 70 a1 b9 3d 90 99 b5 3d 80 73 ae 3d 90   x.=p..=...=.s.=.
+0130  4f a4 3d 20 5b 97 3d 10 d0 87 3d 20 e6 6b 3d a0   O.= [.=...= .k=.
+0140  25 44 3d 60 0c 19 3d 80 ad d6 3c 00 31 6f 3c 00   %D=`..=...<.1o<.
+0150  c0 33 3b 00 1b 16 bc 40 51 ab bc 60 58 04 bd c0   .3;....@Q..`X...
+0160  ca 30 bd e0 3c 5a bd 00 f8 7f bd 70 aa 90 bd 90   .0..<Z.....p....
+0170  df 9e bd 10 5c aa bd c0 ec b2 bd 60 6b b8 bd 40   ....\......`k..@
+0180  bf ba bd b0 dd b9 bd e0 ca b5 bd 50 99 ae bd 70   ...........P...p
+0190  69 a4 bd 10 69 97 bd f0 d1 87 bd 60 d2 6b bd 40   i...i......`.k.@
+01a0  fb 43 bd a0 cc 18 bd 00 06 d6 bc 80 99 6d bc 00   .C...........m..
+01b0  64 2c bb 00 29 18 3c 80 6e ac 3c 80 ef 04 3d 80   d,..).<.n.<...=.
+01c0  67 31 3d 40 dc 5a 3d 90 4b 80 3d 50 f8 90 3d 60   g1=@.Z=.K.=P..=`
+01d0  2a 9f 3d 50 a2 aa 3d 00 2d b3 3d 50 a4 b8 3d a0   *.=P..=.-.=P..=.
+01e0  ef ba 3d 50 04 ba 3d c0 e6 b5 3d 90 a9 ae 3d 60   ..=P..=...=...=`
+01f0  6d a4 3d 30 60 97 3d f0 bb 87 3d 00 8c 6b 3d 80   m.=0`.=...=..k=.
+0200  9a 43 3d 60 52 18 3d 00 e1 d4 3c 00 f5 6a 3c 00   .C=`R.=...<..j<.
+0210  88 20 3b 80 68 1b bc c0 2c ae bc e0 da 05 bd e0   . ;.h...,.......
+0220  5b 32 bd 80 d6 5b bd c0 c9 80 bd e0 75 91 bd 90   [2...[......u...
+0230  a5 9f bd 50 19 ab bd 30 9e b3 bd 30 0e b9 bd b0   ...P...0...0....
+0240  50 bb bd 40 5b ba bd 70 32 b6 bd 20 e9 ae bd 30   P..@[..p2.. ...0
+0250  a0 a4 bd a0 85 97 bd b0 d3 87 bd 00 a0 6b bd 40   .............k.@
+0260  93 43 bd 40 30 18 bd 00 69 d4 bc 80 a3 69 bc 00   .C.@0...i....i..
+0270  d6 19 bb 00 67 1d 3c 80 50 af 3c 20 7c 06 3d 60   ....g.<.P.< |.=`
+0280  09 33 3d 00 8d 5c 3d c0 27 81 3d d0 d4 91 3d 90   .3=..\=.'.=...=.
+0290  03 a0 3d b0 74 ab 3d 10 f5 b3 3d c0 5e b9 3d 60   ..=.t.=...=.^.=`
+02a0  99 bb 3d 90 9a ba 3d 00 67 b6 3d c0 11 af 3d c0   ..=...=.g.=...=.
+02b0  bb a4 3d 40 93 97 3d e0 d2 87 3d 80 80 6b 3d c0   ..=@..=...=..k=.
+02c0  55 43 3d 00 d5 17 3d c0 78 d3 3c 80 54 67 3c 00   UC=...=.x.<.Tg<.
+02d0  fe 0e 3b 00 7b 20 bc 80 03 b1 bc 20 67 07 bd 60   ..;.{ ..... g..`
+02e0  02 34 bd 00 90 5d bd 50 ac 81 bd 60 5a 92 bd 10   .4...].P...`Z...
+02f0  88 a0 bd 00 f6 ab bd 50 71 b4 bd 20 d4 b9 bd 20   .......Pq.. ... 
+0300  06 bc bd 10 fd ba bd e0 bd b6 bd b0 5b af bd d0   ............[...
+0310  f7 a4 bd b0 c0 97 bd 10 f1 87 bd e0 9d 6b bd 20   .............k. 
+0320  54 43 bd 40 b5 17 bd 00 ff d2 bc 80 f2 65 bc 00   TC.@.........e..
+0330  de 07 bb 80 9f 22 3c 80 3e b2 3c e0 15 08 3d 20   ....."<.>.<...= 
+0340  bf 34 3d 20 57 5e 3d 40 13 82 3d b0 c2 92 3d d0   .4= W^=@..=...=.
+0350  ef a0 3d 30 5b ac 3d f0 d1 b4 3d 50 2e ba 3d e0   ..=0[.=...=P..=.
+0360  57 bc 3d c0 44 bb 3d e0 f9 b6 3d c0 8a af 3d c0   W.=.D.=...=...=.
+0370  18 a5 3d c0 d2 97 3d c0 f3 87 3d 20 84 6b 3d 60   ..=...=...= .k=`
+0380  1b 43 3d e0 5d 17 3d c0 15 d2 3c 80 b1 63 3c 00   .C=.].=...<..c<.
+0390  84 fa 3a 00 a2 25 bc c0 e7 b3 bc 20 fb 08 bd 80   ..:..%..... ....
+03a0  b1 35 bd e0 52 5f bd e0 93 82 bd 20 44 93 bd 00   .5..R_..... D...
+03b0  70 a1 bd 40 d8 ac bd f0 49 b5 bd 40 9f ba bd 30   p..@....I..@...0
+03c0  c0 bc bd c0 a2 bb bd 30 4c b7 bd 20 d0 af bd 40   .......0L.. ...@
+03d0  50 a5 bd 80 fb 97 bd 40 0d 88 bd e0 97 6b bd a0   P......@.....k..
+03e0  0f 43 bd 20 33 17 bd c0 83 d1 bc 80 19 62 bc 00   .C. 3........b..
+03f0  58 ea ba 80 0c 28 3c 40 4a b5 3c 20 c0 09 3d c0   X....(<@J.< ..=.
+0400  86 36 3d c0 34 60 3d 20 09 83 3d a0 bb 93 3d c0   .6=.4`= ..=...=.
+0410  e7 a1 3d 50 4e ad 3d 70 bc b5 3d 80 0c bb 3d 60   ..=PN.=p..=...=`
+0420  26 bd 3d 70 00 bc 3d f0 9f b7 3d b0 18 b0 3d 90   &.=p..=...=...=.
+0430  8c a5 3d d0 2a 98 3d e0 2e 88 3d 20 bf 6b 3d 60   ..=.*.=...= .k=`
+0440  1a 43 3d 60 21 17 3d 00 28 d1 3c 00 f6 60 3c 00   .C=`!.=.(.<..`<.
+0450  10 de 3a 80 f3 29 bc 40 68 b6 bc a0 61 0a bd 20   ..:..).@h...a.. 
+0460  38 37 bd 20 f3 60 bd 60 6d 83 bd 60 23 94 bd 60   87. .`.`m..`#..`
+0470  51 a2 bd 20 b8 ad bd b0 24 b6 bd 90 71 bb bd d0   Q.. ....$...q...
+0480  86 bd bd d0 5a bc bd 00 f3 b7 bd 30 63 b0 bd 80   ....Z......0c...
+0490  cd a5 bd 20 61 98 bd d0 59 88 bd e0 fc 6b bd a0   ... a...Y....k..
+04a0  3f 43 bd e0 2d 17 bd c0 0f d1 bc 00 65 60 bc 00   ?C..-.......e`..
+04b0  94 d6 ba 80 3d 2b 3c c0 37 b7 3c 20 dd 0a 3d 20   ....=+<.7.< ..= 
+04c0  c5 37 3d 40 8f 61 3d 80 c1 83 3d 30 7c 94 3d 70   .7=@.a=...=0|.=p
+04d0  ad a2 3d e0 15 ae 3d b0 82 b6 3d 60 ce bb 3d f0   ..=...=...=`..=.
+04e0  e0 bd 3d c0 b0 bc 3d 70 43 b8 3d f0 ac b0 3d 70   ..=...=pC.=...=p
+04f0  0f a6 3d 80 9a 98 3d e0 89 88 3d a0 49 6c 3d      ..=...=...=.Il=
